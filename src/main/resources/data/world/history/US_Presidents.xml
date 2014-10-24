@@ -1,0 +1,440 @@
+<USPresidents>
+    <president>
+        <number>1</number>
+        <name>George Washington</name>
+        <birth>1732</birth>
+        <death>1799</death>
+        <party>None, Federalist</party>
+        <beginTerm>1789</beginTerm>
+        <endTerm>1797</endTerm>
+        <vice-president>John Adams</vice-president>
+    </president>
+    <president>
+        <number>2</number>
+        <name>John Adams</name>
+        <birth>1735</birth>
+        <death>1826</death>
+        <party>Federalist</party>
+        <beginTerm>1797</beginTerm>
+        <endTerm>1801</endTerm>
+        <vice-president>Thomas Jefferson</vice-president>
+    </president>
+    <president>
+        <number>3</number>
+        <name>Thomas Jefferson</name>
+        <birth>1743</birth>
+        <death>1826</death>
+        <party>Democratic-Republican</party>
+        <beginTerm>1801</beginTerm>
+        <endTerm>1809</endTerm>
+        <vice-president>Aaron Burr</vice-president>
+        <vice-president>George Clinton</vice-president>
+    </president>
+    <president>
+        <number>4</number>
+        <name>James Madison</name>
+        <birth>1751</birth>
+        <death>1836</death>
+        <party>Democratic-Republican</party>
+        <beginTerm>1809</beginTerm>
+        <endTerm>1817</endTerm>
+        <vice-president>George Clinton</vice-president>
+        <vice-president>Elbridge Gerry</vice-president>
+    </president>
+    <president>
+        <number>5</number>
+        <name>James Monroe</name>
+        <birth>1758</birth>
+        <death>1831</death>
+        <party>Democratic-Republican</party>
+        <beginTerm>1817</beginTerm>
+        <endTerm>1825</endTerm>
+        <vice-president>Daniel Tompkins</vice-president>
+    </president>
+    <president>
+        <number>6</number>
+        <name>John Quincy Adams</name>
+        <birth>1767</birth>
+        <death>1848</death>
+        <party>Democratic-Republican</party>
+        <beginTerm>1825</beginTerm>
+        <endTerm>1829</endTerm>
+        <vice-president>John Calhoun</vice-president>
+    </president>
+    <president>
+        <number>7</number>
+        <name>Andrew Jackson</name>
+        <birth>1767</birth>
+        <death>1845</death>
+        <party>Democrat</party>
+        <beginTerm>1829</beginTerm>
+        <endTerm>1837</endTerm>
+        <vice-president>John Calhoun</vice-president>
+        <vice-president>Martin van Buren</vice-president>
+    </president>
+    <president>
+        <number>8</number>
+        <name>Martin van Buren</name>
+        <birth>1782</birth>
+        <death>1862</death>
+        <party>Democrat</party>
+        <beginTerm>1837</beginTerm>
+        <endTerm>1841</endTerm>
+        <vice-president>Richard Johnson</vice-president>
+    </president>
+    <president>
+        <number>9</number>
+        <name>William Henry Harrison</name>
+        <birth>1773</birth>
+        <death>1841</death>
+        <party>Whig</party>
+        <beginTerm>1841</beginTerm>
+        <endTerm>1841</endTerm>
+        <vice-president>John Tyler</vice-president>
+    </president>
+    <president>
+        <number>10</number>
+        <name>John Tyler</name>
+        <birth>1790</birth>
+        <death>1862</death>
+        <party>Whig</party>
+        <beginTerm>1841</beginTerm>
+        <endTerm>1845</endTerm>
+    </president>
+    <president>
+        <number>11</number>
+        <name>James K. Polk</name>
+        <birth>1795</birth>
+        <death>1849</death>
+        <party>Democrat</party>
+        <beginTerm>1845</beginTerm>
+        <endTerm>1849</endTerm>
+        <vice-president>George Dallas</vice-president>
+    </president>
+    <president>
+        <number>12</number>
+        <name>Zachary Taylor</name>
+        <birth>1784</birth>
+        <death>1850</death>
+        <party>Whig</party>
+        <beginTerm>1849</beginTerm>
+        <endTerm>1850</endTerm>
+        <vice-president>Millard Fillmore</vice-president>
+    </president>
+    <president>
+        <number>13</number>
+        <name>Millard Fillmore</name>
+        <birth>1800</birth>
+        <death>1874</death>
+        <party>Whig</party>
+        <beginTerm>1850</beginTerm>
+        <endTerm>1853</endTerm>
+    </president>
+    <president>
+        <number>14</number>
+        <name>Franklin Pierce</name>
+        <birth>1804</birth>
+        <death>1869</death>
+        <party>Democrat</party>
+        <beginTerm>1853</beginTerm>
+        <endTerm>1857</endTerm>
+        <vice-president>William King</vice-president>
+    </president>
+    <president>
+        <number>15</number>
+        <name>James Buchanan</name>
+        <birth>1791</birth>
+        <death>1868</death>
+        <party>Democrat</party>
+        <beginTerm>1857</beginTerm>
+        <endTerm>1861</endTerm>
+        <vice-president>John Breckinridge</vice-president>
+    </president>
+    <president>
+        <number>16</number>
+        <name>Abraham Lincoln</name>
+        <birth>1809</birth>
+        <death>1865</death>
+        <party>Republican</party>
+        <beginTerm>1861</beginTerm>
+        <endTerm>1865</endTerm>
+        <vice-president>Hannibal Hamlin</vice-president>
+        <vice-president>Andrew Johnson</vice-president>
+    </president>
+    <president>
+        <number>17</number>
+        <name>Andrew Johnson</name>
+        <birth>1808</birth>
+        <death>1875</death>
+        <party>National Union</party>
+        <beginTerm>1865</beginTerm>
+        <endTerm>1869</endTerm>
+    </president>
+    <president>
+        <number>18</number>
+        <name>Ulysses S. Grant</name>
+        <birth>1822</birth>
+        <death>1885</death>
+        <party>Republican</party>
+        <beginTerm>1869</beginTerm>
+        <endTerm>1877</endTerm>
+        <vice-president>Schuyler Colfax</vice-president>
+    </president>
+    <president>
+        <number>19</number>
+        <name>Rutherford B. Hayes</name>
+        <birth>1822</birth>
+        <death>1893</death>
+        <party>Republican</party>
+        <beginTerm>1877</beginTerm>
+        <endTerm>1881</endTerm>
+        <vice-president>William Wheeler</vice-president>
+    </president>
+    <president>
+        <number>20</number>
+        <name>James A. Garfield</name>
+        <birth>1831</birth>
+        <death>1881</death>
+        <party>Republican</party>
+        <beginTerm>1881</beginTerm>
+        <endTerm>1881</endTerm>
+        <vice-president>Chester Arthur</vice-president>
+    </president>
+    <president>
+        <number>21</number>
+        <name>Chester A. Arthur</name>
+        <birth>1829</birth>
+        <death>1886</death>
+        <party>Republican</party>
+        <beginTerm>1881</beginTerm>
+        <endTerm>1885</endTerm>
+    </president>
+    <president>
+        <number>22</number>
+        <name>Grover Cleveland</name>
+        <birth>1837</birth>
+        <death>1908</death>
+        <party>Democrat</party>
+        <beginTerm>1885</beginTerm>
+        <endTerm>1889</endTerm>
+        <vice-president>Thomas Hendriks</vice-president>
+    </president>
+    <president>
+        <number>23</number>
+        <name>Benjamin Harrison</name>
+        <birth>1833</birth>
+        <death>1901</death>
+        <party>Republican</party>
+        <beginTerm>1889</beginTerm>
+        <endTerm>1893</endTerm>
+        <vice-president>Levi Morton</vice-president>
+    </president>
+    <president>
+        <number>24</number>
+        <name>Grover Cleveland</name>
+        <birth>1837</birth>
+        <death>1908</death>
+        <party>Democrat</party>
+        <beginTerm>1893</beginTerm>
+        <endTerm>1897</endTerm>
+        <vice-president>Adlai Stevenson</vice-president>
+    </president>
+    <president>
+        <number>25</number>
+        <name>William McKinley</name>
+        <birth>1843</birth>
+        <death>1901</death>
+        <party>Republican</party>
+        <beginTerm>1897</beginTerm>
+        <endTerm>1901</endTerm>
+        <vice-president>Garret Hobart</vice-president>
+        <vice-president>Theodore Roosevelt</vice-president>
+    </president>
+    <president>
+        <number>26</number>
+        <name>Theodore Roosevelt</name>
+        <birth>1858</birth>
+        <death>1919</death>
+        <party>Republican</party>
+        <beginTerm>1901</beginTerm>
+        <endTerm>1909</endTerm>
+        <vice-president>Charles Fairbanks</vice-president>
+    </president>
+    <president>
+        <number>27</number>
+        <name>William Howard Taft</name>
+        <birth>1857</birth>
+        <death>1930</death>
+        <party>Republican</party>
+        <beginTerm>1909</beginTerm>
+        <endTerm>1913</endTerm>
+        <vice-president>James Sherman</vice-president>
+    </president>
+    <president>
+        <number>28</number>
+        <name>Woodrow Wilson</name>
+        <birth>1856</birth>
+        <death>1924</death>
+        <party>Democrat</party>
+        <beginTerm>1913</beginTerm>
+        <endTerm>1921</endTerm>
+        <vice-president>Thomas Marshall</vice-president>
+    </president>
+    <president>
+        <number>29</number>
+        <name>Warren G. Harding</name>
+        <birth>1865</birth>
+        <death>1923</death>
+        <party>Republican</party>
+        <beginTerm>1921</beginTerm>
+        <endTerm>1923</endTerm>
+        <vice-president>Calvin Coolidge</vice-president>
+    </president>
+    <president>
+        <number>30</number>
+        <name>Calvin Coolidge</name>
+        <birth>1872</birth>
+        <death>1933</death>
+        <party>Republican</party>
+        <beginTerm>1923</beginTerm>
+        <endTerm>1929</endTerm>
+        <vice-president>Charles Dawes</vice-president>
+    </president>
+    <president>
+        <number>31</number>
+        <name>Herbert Hoover</name>
+        <birth>1874</birth>
+        <death>1964</death>
+        <party>Republican</party>
+        <beginTerm>1929</beginTerm>
+        <endTerm>1933</endTerm>
+        <vice-president>Charles Curtis</vice-president>
+    </president>
+    <president>
+        <number>32</number>
+        <name>Franklin D. Roosevelt</name>
+        <birth>1882</birth>
+        <death>1945</death>
+        <party>Democrat</party>
+        <beginTerm>1933</beginTerm>
+        <endTerm>1945</endTerm>
+        <vice-president>John Garner</vice-president>
+        <vice-president>Henry Wallace</vice-president>
+        <vice-president>Harry S Truman</vice-president>
+    </president>
+    <president>
+        <number>33</number>
+        <name>Harry S Truman</name>
+        <birth>1884</birth>
+        <death>1972</death>
+        <party>Democrat</party>
+        <beginTerm>1945</beginTerm>
+        <endTerm>1953</endTerm>
+        <vice-president>Alben Barkley</vice-president>
+    </president>
+    <president>
+        <number>34</number>
+        <name>Dwight D. Eisenhower</name>
+        <birth>1890</birth>
+        <death>1969</death>
+        <party>Republican</party>
+        <beginTerm>1953</beginTerm>
+        <endTerm>1961</endTerm>
+        <vice-president>Richard Milhous Nixon</vice-president>
+    </president>
+    <president>
+        <number>35</number>
+        <name>John F. Kennedy</name>
+        <birth>1917</birth>
+        <death>1963</death>
+        <party>Democrat</party>
+        <beginTerm>1961</beginTerm>
+        <endTerm>1963</endTerm>
+        <vice-president>Lyndon Johnson</vice-president>
+    </president>
+    <president>
+        <number>36</number>
+        <name>Lyndon B. Johnson</name>
+        <birth>1908</birth>
+        <death>1973</death>
+        <party>Democrat</party>
+        <beginTerm>1963</beginTerm>
+        <endTerm>1969</endTerm>
+        <vice-president>Hubert Humphrey</vice-president>
+    </president>
+    <president>
+        <number>37</number>
+        <name>Richard Nixon</name>
+        <birth>1913</birth>
+        <death>1994</death>
+        <party>Republican</party>
+        <beginTerm>1969</beginTerm>
+        <endTerm>1974</endTerm>
+        <vice-president>Spiro Agnew</vice-president>
+        <vice-president>Gerald R. Ford</vice-president>
+    </president>
+    <president>
+        <number>38</number>
+        <name>Gerald Ford</name>
+        <birth>1913</birth>
+        <death>2006</death>
+        <party>Republican</party>
+        <beginTerm>1974</beginTerm>
+        <endTerm>1977</endTerm>
+        <vice-president>Nelson Rockefeller</vice-president>
+    </president>
+    <president>
+        <number>39</number>
+        <name>Jimmy Carter</name>
+        <birth>1924</birth>
+        <party>Democrat</party>
+        <beginTerm>1977</beginTerm>
+        <endTerm>1981</endTerm>
+        <vice-president>Walter Mondale</vice-president>
+    </president>
+    <president>
+        <number>40</number>
+        <name>Ronald Reagan</name>
+        <birth>1911</birth>
+        <death>2004</death>
+        <party>Republican</party>
+        <beginTerm>1981</beginTerm>
+        <endTerm>1989</endTerm>
+        <vice-president>George H. W. Bush</vice-president>
+    </president>
+    <president>
+        <number>41</number>
+        <name>George H. W. Bush</name>
+        <birth>1924</birth>
+        <party>Republican</party>
+        <beginTerm>1989</beginTerm>
+        <endTerm>1993</endTerm>
+        <vice-president>James Danforth (Dan) Quayle</vice-president>
+    </president>
+    <president>
+        <number>42</number>
+        <name>Bill Clinton</name>
+        <birth>1946</birth>
+        <party>Democrat</party>
+        <beginTerm>1993</beginTerm>
+        <endTerm>2001</endTerm>
+        <vice-president>Al Gore</vice-president>
+    </president>
+    <president>
+        <number>43</number>
+        <name>George W. Bush</name>
+        <birth>1946</birth>
+        <party>Republican</party>
+        <beginTerm>2001</beginTerm>
+        <endTerm>2009</endTerm>
+        <vice-president>Richard Cheney</vice-president>
+    </president>
+    <president>
+        <number>44</number>
+        <name>Barack Obama</name>
+        <birth>1961</birth>
+        <party>Democrat</party>
+        <beginTerm>2009</beginTerm>
+        <vice-president>Joseph Biden</vice-president>
+    </president>
+</USPresidents>

@@ -1,0 +1,703 @@
+<USStates>
+    <state>
+        <name>Alabama</name>
+        <abbreviation>AL</abbreviation>
+        <capital>Montgomery</capital>
+        <largestCity>Birmingham</largestCity>
+        <statehood>December 14, 1819</statehood>
+
+        <neighbour>Florida</neighbour>
+        <neighbour>Georgia</neighbour>
+        <neighbour>Mississippi</neighbour>
+        <neighbour>Tennessee</neighbour>
+
+    </state>
+    <state>
+        <name>Alaska</name>
+        <abbreviation>AK</abbreviation>
+        <capital>Juneau</capital>
+        <largestCity>Anchorage</largestCity>
+        <statehood>January 3, 1959</statehood>
+        <neighbours/>
+    </state>
+    <state>
+        <name>Arizona</name>
+        <abbreviation>AZ</abbreviation>
+        <capital>Phoenix</capital>
+        <largestCity>Phoenix</largestCity>
+        <statehood>February 14, 1912</statehood>
+
+        <neighbour>California</neighbour>
+        <neighbour>Colorado</neighbour>
+        <neighbour>New Mexico</neighbour>
+        <neighbour>Nevada</neighbour>
+        <neighbour>Utah</neighbour>
+
+    </state>
+    <state>
+        <name>Arkansas</name>
+        <abbreviation>AR</abbreviation>
+        <capital>Little Rock</capital>
+        <largestCity>Little Rock</largestCity>
+        <statehood>June 15, 1836</statehood>
+
+        <neighbour>Louisiana</neighbour>
+        <neighbour>Missouri</neighbour>
+        <neighbour>Mississippi</neighbour>
+        <neighbour>Oklahoma</neighbour>
+        <neighbour>Tennessee</neighbour>
+        <neighbour>Texas</neighbour>
+
+    </state>
+    <state>
+        <name>California</name>
+        <abbreviation>CA</abbreviation>
+        <capital>Sacramento</capital>
+        <largestCity>Los Angeles</largestCity>
+        <statehood>September 9, 1850</statehood>
+
+        <neighbour>Arizona</neighbour>
+        <neighbour>Nevada</neighbour>
+        <neighbour>Oregon</neighbour>
+
+    </state>
+    <state>
+        <name>Colorado</name>
+        <abbreviation>CO</abbreviation>
+        <capital>Denver</capital>
+        <largestCity>Denver</largestCity>
+        <statehood>August 1, 1876</statehood>
+
+        <neighbour>Arizona</neighbour>
+        <neighbour>Kansas</neighbour>
+        <neighbour>Nebraska</neighbour>
+        <neighbour>New Mexico</neighbour>
+        <neighbour>Oklahoma</neighbour>
+        <neighbour>Utah</neighbour>
+        <neighbour>Wyoming</neighbour>
+
+    </state>
+    <state>
+        <name>Connecticut</name>
+        <abbreviation>CT</abbreviation>
+        <capital>Hartford</capital>
+        <largestCity>Bridgeport</largestCity>
+        <statehood>January 9, 1788</statehood>
+
+        <neighbour>Massachusetts</neighbour>
+        <neighbour>New York</neighbour>
+        <neighbour>Rhode Island</neighbour>
+
+
+    </state>
+    <state>
+        <name>Delaware</name>
+        <abbreviation>DE</abbreviation>
+        <capital>Dover</capital>
+        <largestCity>Wilmington</largestCity>
+        <statehood>December 7, 1787</statehood>
+
+        <neighbour>Maryland</neighbour>
+        <neighbour>New Jersey</neighbour>
+        <neighbour>Pennsylvania</neighbour>
+
+
+    </state>
+    <state>
+        <name>Florida</name>
+        <abbreviation>FL</abbreviation>
+        <capital>Tallahassee</capital>
+        <largestCity>Jacksonville</largestCity>
+        <statehood>March 3, 1845</statehood>
+
+        <neighbour>Alabama</neighbour>
+        <neighbour>Georgia</neighbour>
+
+    </state>
+    <state>
+        <name>Georgia</name>
+        <abbreviation>GA</abbreviation>
+        <capital>Atlanta</capital>
+        <largestCity>Atlanta</largestCity>
+        <statehood>January 2, 1788</statehood>
+
+        <neighbour>Alabama</neighbour>
+        <neighbour>Florida</neighbour>
+        <neighbour>North Carolina</neighbour>
+        <neighbour>South Carolina</neighbour>
+        <neighbour>Tennessee</neighbour>
+
+    </state>
+    <state>
+        <name>Hawaii</name>
+        <abbreviation>HI</abbreviation>
+        <capital>Honolulu</capital>
+        <largestCity>Honolulu</largestCity>
+        <statehood>August 21, 1959</statehood>
+        <neighbours/>
+    </state>
+    <state>
+        <name>Idaho</name>
+        <abbreviation>ID</abbreviation>
+        <capital>Boise</capital>
+        <largestCity>Boise</largestCity>
+        <statehood>July 3, 1890</statehood>
+
+        <neighbour>Montana</neighbour>
+        <neighbour>Nevada</neighbour>
+        <neighbour>Oregon</neighbour>
+        <neighbour>Utah</neighbour>
+        <neighbour>Washington</neighbour>
+        <neighbour>Wyoming</neighbour>
+
+
+    </state>
+    <state>
+        <name>Illinois</name>
+        <abbreviation>IL</abbreviation>
+        <capital>Springfield</capital>
+        <largestCity>Chicago</largestCity>
+        <statehood>December 3, 1818</statehood>
+
+        <neighbour>Iowa</neighbour>
+        <neighbour>Indiana</neighbour>
+        <neighbour>Kentucky</neighbour>
+        <neighbour>Missouri</neighbour>
+        <neighbour>Wisconsin</neighbour>
+
+
+    </state>
+    <state>
+        <name>Indiana</name>
+        <abbreviation>IN</abbreviation>
+        <capital>Indianapolis</capital>
+        <largestCity>Indianapolis</largestCity>
+        <statehood>December 11, 1816</statehood>
+
+        <neighbour>Illinois</neighbour>
+        <neighbour>Kentucky</neighbour>
+        <neighbour>Michigan</neighbour>
+        <neighbour>Ohio</neighbour>
+
+    </state>
+    <state>
+        <name>Iowa</name>
+        <abbreviation>IA</abbreviation>
+        <capital>Des Moines</capital>
+        <largestCity>Des Moines</largestCity>
+        <statehood>December 28, 1846</statehood>
+
+        <neighbour>Minnesota</neighbour>
+        <neighbour>Missouri</neighbour>
+        <neighbour>Nebraska</neighbour>
+        <neighbour>South Dakota</neighbour>
+        <neighbour>Wisconsin</neighbour>
+        <neighbour>Illinois</neighbour>
+
+
+    </state>
+    <state>
+        <name>Kansas</name>
+        <abbreviation>KS</abbreviation>
+        <capital>Topeka</capital>
+        <largestCity>Wichita</largestCity>
+        <statehood>January 29, 1861</statehood>
+
+        <neighbour>Colorado</neighbour>
+        <neighbour>Missouri</neighbour>
+        <neighbour>Nebraska</neighbour>
+        <neighbour>Oklahoma</neighbour>
+
+
+    </state>
+    <state>
+        <name>Kentucky</name>
+        <abbreviation>KY</abbreviation>
+        <capital>Frankfort</capital>
+        <largestCity>Louisville</largestCity>
+        <statehood>June 1, 1792</statehood>
+
+        <neighbour>Illinois</neighbour>
+        <neighbour>Indiana</neighbour>
+        <neighbour>Missouri</neighbour>
+        <neighbour>Ohio</neighbour>
+        <neighbour>Tennessee</neighbour>
+        <neighbour>Virginia</neighbour>
+        <neighbour>West Virginia</neighbour>
+
+
+    </state>
+    <state>
+        <name>Louisiana</name>
+        <abbreviation>LA</abbreviation>
+        <capital>Baton Rouge</capital>
+        <largestCity>New Orleans</largestCity>
+        <statehood>April 30, 1812</statehood>
+
+        <neighbour>Arkansas</neighbour>
+        <neighbour>Mississippi</neighbour>
+        <neighbour>Texas</neighbour>
+
+
+
+    </state>
+    <state>
+        <name>Maine</name>
+        <abbreviation>ME</abbreviation>
+        <capital>Augusta</capital>
+        <largestCity>Portland</largestCity>
+        <statehood>March 15, 1820</statehood>
+
+        <neighbour>New Hampshire</neighbour>
+
+    </state>
+    <state>
+        <name>Maryland</name>
+        <abbreviation>MD</abbreviation>
+        <capital>Annapolis</capital>
+        <largestCity>Baltimore</largestCity>
+        <statehood>April 28, 1788</statehood>
+
+        <neighbour>Delaware</neighbour>
+        <neighbour>Pennsylvania</neighbour>
+        <neighbour>Virginia</neighbour>
+        <neighbour>West Virginia</neighbour>
+
+
+    </state>
+    <state>
+        <name>Massachusetts</name>
+        <abbreviation>MA</abbreviation>
+        <capital>Boston</capital>
+        <largestCity>Boston</largestCity>
+        <statehood>February 6, 1788</statehood>
+
+        <neighbour>Connecticut</neighbour>
+        <neighbour>New Hampshire</neighbour>
+        <neighbour>New York</neighbour>
+        <neighbour>Rhode Island</neighbour>
+        <neighbour>Vermont</neighbour>
+
+    </state>
+    <state>
+        <name>Michigan</name>
+        <abbreviation>MI</abbreviation>
+        <capital>Lansing</capital>
+        <largestCity>Detroit</largestCity>
+        <statehood>January 26, 1837</statehood>
+
+        <neighbour>Indiana</neighbour>
+        <neighbour>Ohio</neighbour>
+        <neighbour>Wisconsin</neighbour>
+
+
+    </state>
+    <state>
+        <name>Minnesota</name>
+        <abbreviation>MN</abbreviation>
+        <capital>St. Paul</capital>
+        <largestCity>Minneapolis</largestCity>
+        <statehood>May 11, 1858</statehood>
+
+        <neighbour>Iowa</neighbour>
+        <neighbour>North Dakota</neighbour>
+        <neighbour>South Dakota</neighbour>
+        <neighbour>Wisconsin</neighbour>
+
+    </state>
+    <state>
+        <name>Mississippi</name>
+        <abbreviation>MS</abbreviation>
+        <capital>Jackson</capital>
+        <largestCity>Jackson</largestCity>
+        <statehood>December 10, 1817</statehood>
+
+        <neighbour>Alabama</neighbour>
+        <neighbour>Arkansas</neighbour>
+        <neighbour>Louisiana</neighbour>
+        <neighbour>Tennessee</neighbour>
+
+    </state>
+    <state>
+        <name>Missouri</name>
+        <abbreviation>MO</abbreviation>
+        <capital>Jefferson City</capital>
+        <largestCity>Kansas City</largestCity>
+        <statehood>August 10, 1821</statehood>
+
+        <neighbour>Arkansas</neighbour>
+        <neighbour>Iowa</neighbour>
+        <neighbour>Illinois</neighbour>
+        <neighbour>Kansas</neighbour>
+        <neighbour>Kentucky</neighbour>
+        <neighbour>Nebraska</neighbour>
+        <neighbour>Oklahoma</neighbour>
+        <neighbour>Tennessee</neighbour>
+
+
+
+    </state>
+    <state>
+        <name>Montana</name>
+        <abbreviation>MT</abbreviation>
+        <capital>Helena</capital>
+        <largestCity>Billings</largestCity>
+        <statehood>November 8, 1889</statehood>
+
+        <neighbour>Idaho</neighbour>
+        <neighbour>North Dakota</neighbour>
+        <neighbour>South Dakota</neighbour>
+        <neighbour>Wyoming</neighbour>
+
+
+    </state>
+    <state>
+        <name>Nebraska</name>
+        <abbreviation>NE</abbreviation>
+        <capital>Lincoln</capital>
+        <largestCity>Omaha</largestCity>
+        <statehood>March 1, 1867</statehood>
+
+        <neighbour>Colorado</neighbour>
+        <neighbour>Iowa</neighbour>
+        <neighbour>Kansas</neighbour>
+        <neighbour>Missouri</neighbour>
+        <neighbour>South Dakota</neighbour>
+        <neighbour>Wyoming</neighbour>
+
+
+    </state>
+    <state>
+        <name>Nevada</name>
+        <abbreviation>NV</abbreviation>
+        <capital>Carson City</capital>
+        <largestCity>Las Vegas</largestCity>
+        <statehood>October 31, 1864</statehood>
+
+        <neighbour>Arizona</neighbour>
+        <neighbour>California</neighbour>
+        <neighbour>Idaho</neighbour>
+        <neighbour>Oregon</neighbour>
+        <neighbour>Utah</neighbour>
+
+
+    </state>
+    <state>
+        <name>New Hampshire</name>
+        <abbreviation>NH</abbreviation>
+        <capital>Concord</capital>
+        <largestCity>Manchester</largestCity>
+        <statehood>June 21, 1788</statehood>
+
+        <neighbour>Massachusetts</neighbour>
+        <neighbour>Maine</neighbour>
+        <neighbour>Vermont</neighbour>
+
+
+    </state>
+    <state>
+        <name>New Jersey</name>
+        <abbreviation>NJ</abbreviation>
+        <capital>Trenton</capital>
+        <largestCity>Newark</largestCity>
+        <statehood>December 18, 1787</statehood>
+
+        <neighbour>Delaware</neighbour>
+        <neighbour>New York</neighbour>
+        <neighbour>Pennsylvania</neighbour>
+
+
+    </state>
+    <state>
+        <name>New Mexico</name>
+        <abbreviation>NM</abbreviation>
+        <capital>Santa Fe</capital>
+        <largestCity>Albuquerque</largestCity>
+        <statehood>January 6, 1912</statehood>
+
+        <neighbour>Arizona</neighbour>
+        <neighbour>Colorado</neighbour>
+        <neighbour>Oklahoma</neighbour>
+        <neighbour>Texas</neighbour>
+        <neighbour>Utah</neighbour>
+
+
+    </state>
+    <state>
+        <name>New York</name>
+        <abbreviation>NY</abbreviation>
+        <capital>Albany</capital>
+        <largestCity>New York</largestCity>
+        <statehood>July 26, 1788</statehood>
+
+        <neighbour>Connecticut</neighbour>
+        <neighbour>Massachusetts</neighbour>
+        <neighbour>New Jersey</neighbour>
+        <neighbour>Pennsylvania</neighbour>
+        <neighbour>Vermont</neighbour>
+
+
+    </state>
+    <state>
+        <name>North Carolina</name>
+        <abbreviation>NC</abbreviation>
+        <capital>Raleigh</capital>
+        <largestCity>Charlotte</largestCity>
+        <statehood>November 21, 1789</statehood>
+
+        <neighbour>Georgia</neighbour>
+        <neighbour>South Carolina</neighbour>
+        <neighbour>Tennessee</neighbour>
+        <neighbour>Virginia</neighbour>
+
+
+    </state>
+    <state>
+        <name>North Dakota</name>
+        <abbreviation>ND</abbreviation>
+        <capital>Bismarck</capital>
+        <largestCity>Fargo</largestCity>
+        <statehood>November 2, 1889</statehood>
+
+        <neighbour>Minnesota</neighbour>
+        <neighbour>Montana</neighbour>
+        <neighbour>South Dakota</neighbour>
+
+
+    </state>
+    <state>
+        <name>Ohio</name>
+        <abbreviation>OH</abbreviation>
+        <capital>Columbus</capital>
+        <largestCity>Columbus</largestCity>
+        <statehood>March 1, 1803</statehood>
+
+        <neighbour>Indiana</neighbour>
+        <neighbour>Kentucky</neighbour>
+        <neighbour>Michigan</neighbour>
+        <neighbour>Pennsylvania</neighbour>
+        <neighbour>West Virginia</neighbour>
+
+
+    </state>
+    <state>
+        <name>Oklahoma</name>
+        <abbreviation>OK</abbreviation>
+        <capital>Oklahoma City</capital>
+        <largestCity>Oklahoma City</largestCity>
+        <statehood>November 16, 1907</statehood>
+
+        <neighbour>Arkansas</neighbour>
+        <neighbour>Colorado</neighbour>
+        <neighbour>Kansas</neighbour>
+        <neighbour>Missouri</neighbour>
+        <neighbour>New Mexico</neighbour>
+        <neighbour>Texas</neighbour>
+
+
+    </state>
+    <state>
+        <name>Oregon</name>
+        <abbreviation>OR</abbreviation>
+        <capital>Salem</capital>
+        <largestCity>Portland</largestCity>
+        <statehood>February 14, 1859</statehood>
+
+        <neighbour>California</neighbour>
+        <neighbour>Idaho</neighbour>
+        <neighbour>Nevada</neighbour>
+        <neighbour>Washington</neighbour>
+
+    </state>
+
+    <state>
+        <name>Pennsylvania</name>
+        <abbreviation>PA</abbreviation>
+        <capital>Harrisburg</capital>
+        <largestCity>Philadelphia</largestCity>
+        <statehood>December 12, 1787</statehood>
+
+        <neighbour>Delaware</neighbour>
+        <neighbour>Maryland</neighbour>
+        <neighbour>New Jersey</neighbour>
+        <neighbour>New York</neighbour>
+        <neighbour>Ohio</neighbour>
+        <neighbour>West Virginia</neighbour>
+
+
+    </state>
+    <state>
+        <name>Rhode Island</name>
+        <abbreviation>RI</abbreviation>
+        <capital>Providence</capital>
+        <largestCity>Providence</largestCity>
+        <statehood>May 29, 1790</statehood>
+
+        <neighbour>Connecticut</neighbour>
+        <neighbour>Massachusetts</neighbour>
+
+
+    </state>
+    <state>
+        <name>South Carolina</name>
+        <abbreviation>SC</abbreviation>
+        <capital>Columbia</capital>
+        <largestCity>Columbia</largestCity>
+        <statehood>May 23, 1788</statehood>
+
+        <neighbour>Georgia</neighbour>
+        <neighbour>North Carolina</neighbour>
+
+
+    </state>
+    <state>
+        <name>South Dakota</name>
+        <abbreviation>SD</abbreviation>
+        <capital>Pierre</capital>
+        <largestCity>Sioux Falls</largestCity>
+        <statehood>November 2, 1889</statehood>
+
+        <neighbour>Iowa</neighbour>
+        <neighbour>Minnesota</neighbour>
+        <neighbour>Montana</neighbour>
+        <neighbour>North Dakota</neighbour>
+        <neighbour>Nebraska</neighbour>
+        <neighbour>Wyoming</neighbour>
+
+
+    </state>
+    <state>
+        <name>Tennessee</name>
+        <abbreviation>TN</abbreviation>
+        <capital>Nashville</capital>
+        <largestCity>Memphis</largestCity>
+        <statehood>June 1, 1796</statehood>
+
+        <neighbour>Alabama</neighbour>
+        <neighbour>Arkansas</neighbour>
+        <neighbour>Georgia</neighbour>
+        <neighbour>Kentucky</neighbour>
+        <neighbour>Missouri</neighbour>
+        <neighbour>Mississippi</neighbour>
+        <neighbour>North Carolina</neighbour>
+        <neighbour>Virginia</neighbour>
+
+
+    </state>
+    <state>
+        <name>Texas</name>
+        <abbreviation>TX</abbreviation>
+        <capital>Austin</capital>
+        <largestCity>Houston</largestCity>
+        <statehood>December 29, 1845</statehood>
+
+        <neighbour>Arkansas</neighbour>
+        <neighbour>Louisiana</neighbour>
+        <neighbour>New Mexico</neighbour>
+        <neighbour>Oklahoma</neighbour>
+
+
+
+    </state>
+    <state>
+        <name>Utah</name>
+        <abbreviation>UT</abbreviation>
+        <capital>Salt Lake City</capital>
+        <largestCity>Salt Lake City</largestCity>
+        <statehood>January 4, 1896</statehood>
+
+        <neighbour>Arizona</neighbour>
+        <neighbour>Colorado</neighbour>
+        <neighbour>Idaho</neighbour>
+        <neighbour>New Mexico</neighbour>
+        <neighbour>Nevada</neighbour>
+        <neighbour>Wyoming</neighbour>
+
+
+    </state>
+    <state>
+        <name>Vermont</name>
+        <abbreviation>VT</abbreviation>
+        <capital>Montpelier</capital>
+        <largestCity>Burlington</largestCity>
+        <statehood>March 4, 1791</statehood>
+
+        <neighbour>Massachusetts</neighbour>
+        <neighbour>New Hampshire</neighbour>
+        <neighbour>New York</neighbour>
+
+
+    </state>
+    <state>
+        <name>Virginia</name>
+        <abbreviation>VA</abbreviation>
+        <capital>Richmond</capital>
+        <largestCity>Virginia Beach</largestCity>
+        <statehood>June 25, 1788</statehood>
+
+        <neighbour>Kentucky</neighbour>
+        <neighbour>Maryland</neighbour>
+        <neighbour>North Carolina</neighbour>
+        <neighbour>Tennessee</neighbour>
+        <neighbour>West Virginia</neighbour>
+
+
+    </state>
+    <state>
+        <name>Washington</name>
+        <abbreviation>WA</abbreviation>
+        <capital>Olympia</capital>
+        <largestCity>Seattle</largestCity>
+        <statehood>November 11, 1889</statehood>
+
+        <neighbour>Idaho</neighbour>
+        <neighbour>Oregon</neighbour>
+
+
+    </state>
+    <state>
+        <name>West Virginia</name>
+        <abbreviation>WV</abbreviation>
+        <capital>Charleston</capital>
+        <largestCity>Charleston</largestCity>
+        <statehood>June 20, 1863</statehood>
+
+        <neighbour>Kentucky</neighbour>
+        <neighbour>Maryland</neighbour>
+        <neighbour>Ohio</neighbour>
+        <neighbour>Pennsylvania</neighbour>
+        <neighbour>Virginia</neighbour>
+
+
+    </state>
+    <state>
+        <name>Wisconsin</name>
+        <abbreviation>WI</abbreviation>
+        <capital>Madison</capital>
+        <largestCity>Milwaukee</largestCity>
+        <statehood>May 29, 1848</statehood>
+
+        <neighbour>Iowa</neighbour>
+        <neighbour>Illinois</neighbour>
+        <neighbour>Michigan</neighbour>
+        <neighbour>Minnesota</neighbour>
+
+
+    </state>
+    <state>
+        <name>Wyoming</name>
+        <abbreviation>WY</abbreviation>
+        <capital>Cheyenne</capital>
+        <largestCity>Cheyenne</largestCity>
+        <statehood>July 10, 1890</statehood>
+
+        <neighbour>Colorado</neighbour>
+        <neighbour>Idaho</neighbour>
+        <neighbour>Montana</neighbour>
+        <neighbour>Nebraska</neighbour>
+        <neighbour>South Dakota</neighbour>
+        <neighbour>Utah</neighbour>
+
+
+    </state>
+</USStates>

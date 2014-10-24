@@ -1,0 +1,6 @@
+to 100 correct
+
+date	Questions asked		Percentage	Longest upstreak 	Long downstreak 	#Questions	#never asked	#Never correct	Learned
+22-10	549					18%			4					-24					1299		?				?				0
+23-10	531					18%			4					-28					1299		271				924				0
+24-10	585					17%			4					-22					1580		361				1187			0

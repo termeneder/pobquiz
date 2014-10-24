@@ -1,0 +1,131 @@
+<Trivia>
+    <Question>
+        <Question>What are the planets in the solar system?</Question>
+        <Answer>Mercury</Answer>
+        <Answer>Venus</Answer>
+        <Answer>Earth</Answer>
+        <Answer>Mars</Answer>
+        <Answer>Jupiter</Answer>
+        <Answer>Saturn</Answer>
+        <Answer>Neptune</Answer>
+        <Answer>Uranus</Answer>
+        <Category>Astronomy</Category>
+        <Category>Solar System</Category>
+        <Category>Planet</Category>
+    </Question>
+    <Question>
+        <Question>What is the hottest planet in the solar system?</Question>
+        <Answer>Venus</Answer>
+        <Category>Astronomy</Category>
+        <Category>Solar System</Category>
+        <Category>Planet</Category>
+    </Question>
+    <Question>
+        <Question>What is the highest known mountain in the solar system?</Question>
+        <Answer>Olympus Mons</Answer>
+        <Category>Astronomy</Category>
+        <Category>Solar System</Category>
+        <Category>Planet</Category>
+    </Question>
+    <Question>
+        <Question>Name the moons of Mars.</Question>
+        <Answer>Deimos</Answer>
+        <Answer>Phobos</Answer>
+        <Category>Astronomy</Category>
+        <Category>Solar System</Category>
+        <Category>Planet</Category>
+    </Question>
+    <Question>
+        <Question>What is the biggest object in the astroid belt?</Question>
+        <Answer>Ceres</Answer>
+        <Category>Astronomy</Category>
+        <Category>Solar System</Category>
+        <Category>Planet</Category>
+    </Question>
+    <Question>
+        <Question>What are the four largest moons of Jupiter?</Question>
+        <Answer>Ganymede</Answer>
+        <Answer>Callisto</Answer>
+        <Answer>Io</Answer>
+        <Answer>Europa</Answer>
+        <Category>Astronomy</Category>
+        <Category>Solar System</Category>
+        <Category>Planet</Category>
+    </Question>
+    <Question>
+        <Question>What is the largest moon in the solar system?</Question>
+        <Answer>Ganymede</Answer>
+        <Category>Astronomy</Category>
+        <Category>Solar System</Category>
+        <Category>Planet</Category>
+    </Question>
+    <Question>
+        <Question>What is the largest moon of Jupiter?</Question>
+        <Answer>Ganymede</Answer>
+        <Category>Astronomy</Category>
+        <Category>Solar System</Category>
+        <Category>Planet</Category>
+    </Question>
+    <Question>
+        <Question>What is the largest moon of Saturn?</Question>
+        <Answer>Titan</Answer>
+        <Category>Astronomy</Category>
+        <Category>Solar System</Category>
+        <Category>Planet</Category>
+    </Question>
+    <Question>
+        <Question>What are the largest four moons of Saturn?</Question>
+        <Answer>Titan</Answer>
+        <Answer>Rhea</Answer>
+        <Answer>Iapetus</Answer>
+        <Answer>Dione</Answer>
+        <Category>Astronomy</Category>
+        <Category>Solar System</Category>
+        <Category>Planet</Category>
+    </Question>
+    <Question>
+        <Question>What is the only moon in the solar system to have a dense atmosphere?</Question>
+        <Answer>Titan</Answer>
+        <Category>Astronomy</Category>
+        <Category>Solar System</Category>
+        <Category>Planet</Category>
+    </Question>
+    <Question>
+        <Question>What moons in the solar system are bigger than Mercury?</Question>
+        <Answer>Ganymede</Answer>
+        <Answer>Titan</Answer>
+        <Category>Astronomy</Category>
+        <Category>Solar System</Category>
+        <Category>Planet</Category>
+    </Question>
+    <Question>
+        <Question>What is the largest companion of Pluto?</Question>
+        <Answer>Charon</Answer>
+        <Category>Astronomy</Category>
+        <Category>Solar System</Category>
+    </Question>
+    <Question>
+        <Question>When was Pluto discovered?</Question>
+        <Answer>1930</Answer>
+        <Category>Astronomy</Category>
+        <Category>Solar System</Category>
+    </Question>
+    <Question>
+        <Question>What is the name of the most prominent crater on the moon?</Question>
+        <Answer>Tycho</Answer>
+        <Category>Astronomy</Category>
+        <Category>Solar System</Category>
+    </Question>
+    <Question>
+        <Question>What is closest star to the solar system (excluding the sun)?</Question>
+        <Answer>Proxima Centauri</Answer>
+        <Category>Astronomy</Category>
+        <Category>Solar System</Category>
+    </Question>
+    <Question>
+        <Question>On average, how often does Comet Halley come to the inner solar system (in years)?</Question>
+        <Answer>76</Answer>
+        <Category>Astronomy</Category>
+        <Category>Solar System</Category>
+    </Question>
+</Trivia>

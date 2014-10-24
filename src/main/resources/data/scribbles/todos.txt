@@ -1,0 +1,41 @@
+Functionaliteiten
+
+	Selector die balanceert naar weinig gestelde vragen
+
+Vragen
+
+	Staten van Amerika
+		Staat -> grootste stad
+		stad -> staat
+
+	Films (beginnend met top 250)
+		Naam film -> Regisseur
+		Regisseur + jaar -> Naam film
+		Hoofdrolspelers -> Naam film
+	
+	Presidenten van Amerika
+		Voornaam -> Achternaam
+		Naam -> termijn
+		Speciale dingen -> President
+			
+		
+	Astronomie
+		Planeet -> Manen
+		Maan -> planeet
+	
+	Provincies in Canada
+	
+	Landen per continent
+	
+	Schrijvers
+		Boek -> Schrijver
+		Schrijver -> geboortejaar
+		Schrijver -> sterftejaar
+	
+	Liedjes
+		Liedje -> Eerste regel
+		Liedje -> Originele uitvoerder
+		Eerste regel -> Liedje
+		
+	American Football
+		
