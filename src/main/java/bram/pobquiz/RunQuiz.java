@@ -21,7 +21,7 @@ public class RunQuiz {
 		ExcludeCategorySelector excludeSelector = new ExcludeCategorySelector(baseSelector);
 		//selector.setCategoriesToExclude("US States to capital", "State to neighbours");
 		
-		BalanceAmountTestedQuestionSelector balanceSelector = new BalanceAmountTestedQuestionSelector(excludeSelector, 5);
+		BalanceAmountTestedQuestionSelector balanceSelector = new BalanceAmountTestedQuestionSelector(excludeSelector, 2);
 		
 		Inputter inputter = new CLIInputter();
 		Quiz quiz = new Quiz(list, balanceSelector, inputter);

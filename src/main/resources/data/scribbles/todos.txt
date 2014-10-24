@@ -1,6 +1,5 @@
 Functionaliteiten
 
-	Selector die balanceert naar weinig gestelde vragen
 
 Vragen
 
