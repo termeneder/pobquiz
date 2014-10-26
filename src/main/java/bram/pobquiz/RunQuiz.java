@@ -13,8 +13,16 @@ import bram.pobquiz.quiz.selector.WeightedRandomQuestionSelector;
 
 public class RunQuiz {
 
+	
+	
 	public static void main(String[] args) {
 		System.out.println("Quiz");
+		int correctAnswerGoal;
+		if (args.length > 0) {
+			correctAnswerGoal = Integer.parseInt(args[0]);
+		} else {
+			correctAnswerGoal = 100;
+		}
 		QuestionList list = QuestionList.getInstance();
 		QuestionSelector baseSelector = new WeightedRandomQuestionSelector();
 		
@@ -25,7 +33,7 @@ public class RunQuiz {
 		
 		Inputter inputter = new CLIInputter();
 		Quiz quiz = new Quiz(list, balanceSelector, inputter);
-		QuizGoal goal = new CorrectAnswersGoal(100);
+		QuizGoal goal = new CorrectAnswersGoal(correctAnswerGoal);
 		while (!goal.goalReached(quiz)) {
 			System.out.println();
 			quiz.askQuestion();
