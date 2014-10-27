@@ -49,6 +49,8 @@ Vragen
 		Club -> city
 		State -> club
 		Club -> state
+		Club -> Division
+		Division -> club
 		
 	Amerikaanse sporten
 		Baseball
