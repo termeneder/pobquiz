@@ -8,7 +8,7 @@ Vragen
 		stad -> staat
 
 	Films (beginnend met top 250)
-		Naam film -> Regisseur
+		! Naam film -> Regisseur
 		Regisseur + jaar -> Naam film
 		Hoofdrolspelers -> Naam film
 	
@@ -21,15 +21,22 @@ Vragen
 	Astronomie
 		Planeet -> Manen
 		Maan -> planeet
+		! Missies
 	
 	Provincies in Canada
 	
-	Landen per continent
+	Landen
+		Continent + beginletter -> landen
+		land -> omringende landen
+		omringende landen -> land
 	
-	Schrijvers
-		Boek -> Schrijver
+	Schrijvers (lijst van boeken van http://thegreatestbooks.org/)
+		! Boek -> Schrijver
+		Schrijver + jaar -> boek
+		Boek -> jaar
 		Schrijver -> geboortejaar
 		Schrijver -> sterftejaar
+		Eerste regel -> Boek
 	
 	Liedjes
 		Liedje -> Eerste regel
@@ -37,5 +44,15 @@ Vragen
 		Eerste regel -> Liedje
 		
 	American Football
-		Superbowl winners
+		! Superbowl winners
+		City -> club
+		Club -> city
+		State -> club
+		Club -> state
 		
+	Amerikaanse sporten
+		Baseball
+		Basketball
+		
+	Trivia
+		Wolken

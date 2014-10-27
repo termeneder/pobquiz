@@ -106,6 +106,25 @@
         <Category>US</Category>
         <Category>US States</Category>
     </Question>
+    <Question>
+        <Question>What are the 13 original states, 'the 13 colonies'?</Question>
+        <Answer>Delaware</Answer>
+        <Answer>Pennsylvania</Answer>
+        <Answer>New Jersey</Answer>
+        <Answer>Georgia</Answer>
+        <Answer>Connecticut</Answer>
+        <Answer>Massachusetts Bay</Answer>
+        <Answer>Maryland</Answer>
+        <Answer>South Carolina</Answer>
+        <Answer>New Hampshire</Answer>
+        <Answer>Virginia</Answer>
+        <Answer>New York</Answer>
+        <Answer>North Carolina</Answer>
+        <Answer>Rhode Island and Providence Plantations</Answer>
+        <Category>US</Category>
+        <Category>US States</Category>
+    </Question>
+
 
 
 

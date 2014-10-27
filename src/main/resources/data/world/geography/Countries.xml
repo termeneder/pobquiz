@@ -1,0 +1,1502 @@
+<countries>
+    <country>
+        <abbreviation>AD</abbreviation>
+        <name>Andorra</name>
+        <capital>Andorra la Vella</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>AE</abbreviation>
+        <name>United Arab Emirates</name>
+        <capital>Abu Dhabi</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>AF</abbreviation>
+        <name>Afghanistan</name>
+        <capital>Kabul</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>AG</abbreviation>
+        <name>Antigua and Barbuda</name>
+        <capital>St. John's</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>AI</abbreviation>
+        <name>Anguilla</name>
+        <capital>The Valley</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>AL</abbreviation>
+        <name>Albania</name>
+        <capital>Tirana</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>AM</abbreviation>
+        <name>Armenia</name>
+        <capital>Yerevan</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>AO</abbreviation>
+        <name>Angola</name>
+        <capital>Luanda</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>AQ</abbreviation>
+        <name>Antarctica</name>
+        <capital/>
+        <continent>Antarctica</continent>
+    </country>
+    <country>
+        <abbreviation>AR</abbreviation>
+        <name>Argentina</name>
+        <capital>Buenos Aires</capital>
+        <continent>South America</continent>
+    </country>
+    <country>
+        <abbreviation>AS</abbreviation>
+        <name>American Samoa</name>
+        <capital>Pago Pago</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>AT</abbreviation>
+        <name>Austria</name>
+        <capital>Vienna</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>AU</abbreviation>
+        <name>Australia</name>
+        <capital>Canberra</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>AW</abbreviation>
+        <name>Aruba</name>
+        <capital>Oranjestad</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>AX</abbreviation>
+        <name>Åland</name>
+        <capital>Mariehamn</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>AZ</abbreviation>
+        <name>Azerbaijan</name>
+        <capital>Baku</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>BA</abbreviation>
+        <name>Bosnia and Herzegovina</name>
+        <capital>Sarajevo</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>BB</abbreviation>
+        <name>Barbados</name>
+        <capital>Bridgetown</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>BD</abbreviation>
+        <name>Bangladesh</name>
+        <capital>Dhaka</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>BE</abbreviation>
+        <name>Belgium</name>
+        <capital>Brussels</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>BF</abbreviation>
+        <name>Burkina Faso</name>
+        <capital>Ouagadougou</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>BG</abbreviation>
+        <name>Bulgaria</name>
+        <capital>Sofia</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>BH</abbreviation>
+        <name>Bahrain</name>
+        <capital>Manama</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>BI</abbreviation>
+        <name>Burundi</name>
+        <capital>Bujumbura</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>BJ</abbreviation>
+        <name>Benin</name>
+        <capital>Porto-Novo</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>BL</abbreviation>
+        <name>Saint Barthélemy</name>
+        <capital>Gustavia</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>BM</abbreviation>
+        <name>Bermuda</name>
+        <capital>Hamilton</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>BN</abbreviation>
+        <name>Brunei</name>
+        <capital>Bandar Seri Begawan</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>BO</abbreviation>
+        <name>Bolivia</name>
+        <capital>Sucre</capital>
+        <continent>South America</continent>
+    </country>
+    <country>
+        <abbreviation>BQ</abbreviation>
+        <name>Bonaire</name>
+        <capital/>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>BR</abbreviation>
+        <name>Brazil</name>
+        <capital>Brasília</capital>
+        <continent>South America</continent>
+    </country>
+    <country>
+        <abbreviation>BS</abbreviation>
+        <name>Bahamas</name>
+        <capital>Nassau</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>BT</abbreviation>
+        <name>Bhutan</name>
+        <capital>Thimphu</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>BV</abbreviation>
+        <name>Bouvet Island</name>
+        <capital/>
+        <continent>Antarctica</continent>
+    </country>
+    <country>
+        <abbreviation>BW</abbreviation>
+        <name>Botswana</name>
+        <capital>Gaborone</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>BY</abbreviation>
+        <name>Belarus</name>
+        <capital>Minsk</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>BZ</abbreviation>
+        <name>Belize</name>
+        <capital>Belmopan</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>CA</abbreviation>
+        <name>Canada</name>
+        <capital>Ottawa</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>CC</abbreviation>
+        <name>Cocos [Keeling] Islands</name>
+        <capital>West Island</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>CD</abbreviation>
+        <name>Democratic Republic of the Congo</name>
+        <capital>Kinshasa</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>CF</abbreviation>
+        <name>Central African Republic</name>
+        <capital>Bangui</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>CG</abbreviation>
+        <name>Republic of the Congo</name>
+        <capital>Brazzaville</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>CH</abbreviation>
+        <name>Switzerland</name>
+        <capital>Berne</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>CI</abbreviation>
+        <name>Ivory Coast</name>
+        <capital>Yamoussoukro</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>CK</abbreviation>
+        <name>Cook Islands</name>
+        <capital>Avarua</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>CL</abbreviation>
+        <name>Chile</name>
+        <capital>Santiago</capital>
+        <continent>South America</continent>
+    </country>
+    <country>
+        <abbreviation>CM</abbreviation>
+        <name>Cameroon</name>
+        <capital>Yaoundé</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>CN</abbreviation>
+        <name>China</name>
+        <capital>Beijing</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>CO</abbreviation>
+        <name>Colombia</name>
+        <capital>Bogotá</capital>
+        <continent>South America</continent>
+    </country>
+    <country>
+        <abbreviation>CR</abbreviation>
+        <name>Costa Rica</name>
+        <capital>San José</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>CU</abbreviation>
+        <name>Cuba</name>
+        <capital>Havana</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>CV</abbreviation>
+        <name>Cape Verde</name>
+        <capital>Praia</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>CW</abbreviation>
+        <name>Curacao</name>
+        <capital>Willemstad</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>CX</abbreviation>
+        <name>Christmas Island</name>
+        <capital>The Settlement</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>CY</abbreviation>
+        <name>Cyprus</name>
+        <capital>Nicosia</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>CZ</abbreviation>
+        <name>Czech Republic</name>
+        <capital>Prague</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>DE</abbreviation>
+        <name>Germany</name>
+        <capital>Berlin</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>DJ</abbreviation>
+        <name>Djibouti</name>
+        <capital>Djibouti</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>DK</abbreviation>
+        <name>Denmark</name>
+        <capital>Copenhagen</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>DM</abbreviation>
+        <name>Dominica</name>
+        <capital>Roseau</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>DO</abbreviation>
+        <name>Dominican Republic</name>
+        <capital>Santo Domingo</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>DZ</abbreviation>
+        <name>Algeria</name>
+        <capital>Algiers</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>EC</abbreviation>
+        <name>Ecuador</name>
+        <capital>Quito</capital>
+        <continent>South America</continent>
+    </country>
+    <country>
+        <abbreviation>EE</abbreviation>
+        <name>Estonia</name>
+        <capital>Tallinn</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>EG</abbreviation>
+        <name>Egypt</name>
+        <capital>Cairo</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>EH</abbreviation>
+        <name>Western Sahara</name>
+        <capital>El Aaiún</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>ER</abbreviation>
+        <name>Eritrea</name>
+        <capital>Asmara</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>ES</abbreviation>
+        <name>Spain</name>
+        <capital>Madrid</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>ET</abbreviation>
+        <name>Ethiopia</name>
+        <capital>Addis Ababa</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>FI</abbreviation>
+        <name>Finland</name>
+        <capital>Helsinki</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>FJ</abbreviation>
+        <name>Fiji</name>
+        <capital>Suva</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>FK</abbreviation>
+        <name>Falkland Islands</name>
+        <capital>Stanley</capital>
+        <continent>South America</continent>
+    </country>
+    <country>
+        <abbreviation>FM</abbreviation>
+        <name>Micronesia</name>
+        <capital>Palikir</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>FO</abbreviation>
+        <name>Faroe Islands</name>
+        <capital>Tórshavn</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>FR</abbreviation>
+        <name>France</name>
+        <capital>Paris</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>GA</abbreviation>
+        <name>Gabon</name>
+        <capital>Libreville</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>GB</abbreviation>
+        <name>United Kingdom</name>
+        <capital>London</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>GD</abbreviation>
+        <name>Grenada</name>
+        <capital>St. George's</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>GE</abbreviation>
+        <name>Georgia</name>
+        <capital>Tbilisi</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>GF</abbreviation>
+        <name>French Guiana</name>
+        <capital>Cayenne</capital>
+        <continent>South America</continent>
+    </country>
+    <country>
+        <abbreviation>GG</abbreviation>
+        <name>Guernsey</name>
+        <capital>St Peter Port</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>GH</abbreviation>
+        <name>Ghana</name>
+        <capital>Accra</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>GI</abbreviation>
+        <name>Gibraltar</name>
+        <capital>Gibraltar</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>GL</abbreviation>
+        <name>Greenland</name>
+        <capital>Nuuk</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>GM</abbreviation>
+        <name>Gambia</name>
+        <capital>Banjul</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>GN</abbreviation>
+        <name>Guinea</name>
+        <capital>Conakry</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>GP</abbreviation>
+        <name>Guadeloupe</name>
+        <capital>Basse-Terre</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>GQ</abbreviation>
+        <name>Equatorial Guinea</name>
+        <capital>Malabo</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>GR</abbreviation>
+        <name>Greece</name>
+        <capital>Athens</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>GS</abbreviation>
+        <name>South Georgia and the South Sandwich Islands</name>
+        <capital>Grytviken</capital>
+        <continent>Antarctica</continent>
+    </country>
+    <country>
+        <abbreviation>GT</abbreviation>
+        <name>Guatemala</name>
+        <capital>Guatemala City</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>GU</abbreviation>
+        <name>Guam</name>
+        <capital>Hagåtña</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>GW</abbreviation>
+        <name>Guinea-Bissau</name>
+        <capital>Bissau</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>GY</abbreviation>
+        <name>Guyana</name>
+        <capital>Georgetown</capital>
+        <continent>South America</continent>
+    </country>
+    <country>
+        <abbreviation>HK</abbreviation>
+        <name>Hong Kong</name>
+        <capital>Hong Kong</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>HM</abbreviation>
+        <name>Heard Island and McDonald Islands</name>
+        <capital/>
+        <continent>Antarctica</continent>
+    </country>
+    <country>
+        <abbreviation>HN</abbreviation>
+        <name>Honduras</name>
+        <capital>Tegucigalpa</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>HR</abbreviation>
+        <name>Croatia</name>
+        <capital>Zagreb</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>HT</abbreviation>
+        <name>Haiti</name>
+        <capital>Port-au-Prince</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>HU</abbreviation>
+        <name>Hungary</name>
+        <capital>Budapest</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>ID</abbreviation>
+        <name>Indonesia</name>
+        <capital>Jakarta</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>IE</abbreviation>
+        <name>Ireland</name>
+        <capital>Dublin</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>IL</abbreviation>
+        <name>Israel</name>
+        <capital/>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>IM</abbreviation>
+        <name>Isle of Man</name>
+        <capital>Douglas</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>IN</abbreviation>
+        <name>India</name>
+        <capital>New Delhi</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>IO</abbreviation>
+        <name>British Indian Ocean Territory</name>
+        <capital/>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>IQ</abbreviation>
+        <name>Iraq</name>
+        <capital>Baghdad</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>IR</abbreviation>
+        <name>Iran</name>
+        <capital>Tehran</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>IS</abbreviation>
+        <name>Iceland</name>
+        <capital>Reykjavik</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>IT</abbreviation>
+        <name>Italy</name>
+        <capital>Rome</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>JE</abbreviation>
+        <name>Jersey</name>
+        <capital>Saint Helier</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>JM</abbreviation>
+        <name>Jamaica</name>
+        <capital>Kingston</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>JO</abbreviation>
+        <name>Jordan</name>
+        <capital>Amman</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>JP</abbreviation>
+        <name>Japan</name>
+        <capital>Tokyo</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>KE</abbreviation>
+        <name>Kenya</name>
+        <capital>Nairobi</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>KG</abbreviation>
+        <name>Kyrgyzstan</name>
+        <capital>Bishkek</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>KH</abbreviation>
+        <name>Cambodia</name>
+        <capital>Phnom Penh</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>KI</abbreviation>
+        <name>Kiribati</name>
+        <capital>Tarawa</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>KM</abbreviation>
+        <name>Comoros</name>
+        <capital>Moroni</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>KN</abbreviation>
+        <name>Saint Kitts and Nevis</name>
+        <capital>Basseterre</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>KP</abbreviation>
+        <name>North Korea</name>
+        <capital>Pyongyang</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>KR</abbreviation>
+        <name>South Korea</name>
+        <capital>Seoul</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>KW</abbreviation>
+        <name>Kuwait</name>
+        <capital>Kuwait City</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>KY</abbreviation>
+        <name>Cayman Islands</name>
+        <capital>George Town</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>KZ</abbreviation>
+        <name>Kazakhstan</name>
+        <capital>Astana</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>LA</abbreviation>
+        <name>Laos</name>
+        <capital>Vientiane</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>LB</abbreviation>
+        <name>Lebanon</name>
+        <capital>Beirut</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>LC</abbreviation>
+        <name>Saint Lucia</name>
+        <capital>Castries</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>LI</abbreviation>
+        <name>Liechtenstein</name>
+        <capital>Vaduz</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>LK</abbreviation>
+        <name>Sri Lanka</name>
+        <capital>Colombo</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>LR</abbreviation>
+        <name>Liberia</name>
+        <capital>Monrovia</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>LS</abbreviation>
+        <name>Lesotho</name>
+        <capital>Maseru</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>LT</abbreviation>
+        <name>Lithuania</name>
+        <capital>Vilnius</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>LU</abbreviation>
+        <name>Luxembourg</name>
+        <capital>Luxembourg</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>LV</abbreviation>
+        <name>Latvia</name>
+        <capital>Riga</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>LY</abbreviation>
+        <name>Libya</name>
+        <capital>Tripoli</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>MA</abbreviation>
+        <name>Morocco</name>
+        <capital>Rabat</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>MC</abbreviation>
+        <name>Monaco</name>
+        <capital>Monaco</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>MD</abbreviation>
+        <name>Moldova</name>
+        <capital>Chişinău</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>ME</abbreviation>
+        <name>Montenegro</name>
+        <capital>Podgorica</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>MF</abbreviation>
+        <name>Saint Martin</name>
+        <capital>Marigot</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>MG</abbreviation>
+        <name>Madagascar</name>
+        <capital>Antananarivo</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>MH</abbreviation>
+        <name>Marshall Islands</name>
+        <capital>Majuro</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>MK</abbreviation>
+        <name>Macedonia</name>
+        <capital>Skopje</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>ML</abbreviation>
+        <name>Mali</name>
+        <capital>Bamako</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>MM</abbreviation>
+        <name>Myanmar [Burma]</name>
+        <capital>Nay Pyi Taw</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>MN</abbreviation>
+        <name>Mongolia</name>
+        <capital>Ulan Bator</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>MO</abbreviation>
+        <name>Macao</name>
+        <capital>Macao</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>MP</abbreviation>
+        <name>Northern Mariana Islands</name>
+        <capital>Saipan</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>MQ</abbreviation>
+        <name>Martinique</name>
+        <capital>Fort-de-France</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>MR</abbreviation>
+        <name>Mauritania</name>
+        <capital>Nouakchott</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>MS</abbreviation>
+        <name>Montserrat</name>
+        <capital>Plymouth</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>MT</abbreviation>
+        <name>Malta</name>
+        <capital>Valletta</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>MU</abbreviation>
+        <name>Mauritius</name>
+        <capital>Port Louis</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>MV</abbreviation>
+        <name>Maldives</name>
+        <capital>Malé</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>MW</abbreviation>
+        <name>Malawi</name>
+        <capital>Lilongwe</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>MX</abbreviation>
+        <name>Mexico</name>
+        <capital>Mexico City</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>MY</abbreviation>
+        <name>Malaysia</name>
+        <capital>Kuala Lumpur</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>MZ</abbreviation>
+        <name>Mozambique</name>
+        <capital>Maputo</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>NA</abbreviation>
+        <name>Namibia</name>
+        <capital>Windhoek</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>NC</abbreviation>
+        <name>New Caledonia</name>
+        <capital>Noumea</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>NE</abbreviation>
+        <name>Niger</name>
+        <capital>Niamey</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>NF</abbreviation>
+        <name>Norfolk Island</name>
+        <capital>Kingston</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>NG</abbreviation>
+        <name>Nigeria</name>
+        <capital>Abuja</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>NI</abbreviation>
+        <name>Nicaragua</name>
+        <capital>Managua</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>NL</abbreviation>
+        <name>Netherlands</name>
+        <capital>Amsterdam</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>NO</abbreviation>
+        <name>Norway</name>
+        <capital>Oslo</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>NP</abbreviation>
+        <name>Nepal</name>
+        <capital>Kathmandu</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>NR</abbreviation>
+        <name>Nauru</name>
+        <capital/>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>NU</abbreviation>
+        <name>Niue</name>
+        <capital>Alofi</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>NZ</abbreviation>
+        <name>New Zealand</name>
+        <capital>Wellington</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>OM</abbreviation>
+        <name>Oman</name>
+        <capital>Muscat</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>PA</abbreviation>
+        <name>Panama</name>
+        <capital>Panama City</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>PE</abbreviation>
+        <name>Peru</name>
+        <capital>Lima</capital>
+        <continent>South America</continent>
+    </country>
+    <country>
+        <abbreviation>PF</abbreviation>
+        <name>French Polynesia</name>
+        <capital>Papeete</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>PG</abbreviation>
+        <name>Papua New Guinea</name>
+        <capital>Port Moresby</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>PH</abbreviation>
+        <name>Philippines</name>
+        <capital>Manila</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>PK</abbreviation>
+        <name>Pakistan</name>
+        <capital>Islamabad</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>PL</abbreviation>
+        <name>Poland</name>
+        <capital>Warsaw</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>PM</abbreviation>
+        <name>Saint Pierre and Miquelon</name>
+        <capital>Saint-Pierre</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>PN</abbreviation>
+        <name>Pitcairn Islands</name>
+        <capital>Adamstown</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>PR</abbreviation>
+        <name>Puerto Rico</name>
+        <capital>San Juan</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>PS</abbreviation>
+        <name>Palestine</name>
+        <capital/>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>PT</abbreviation>
+        <name>Portugal</name>
+        <capital>Lisbon</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>PW</abbreviation>
+        <name>Palau</name>
+        <capital>Melekeok - Palau State Capital</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>PY</abbreviation>
+        <name>Paraguay</name>
+        <capital>Asunción</capital>
+        <continent>South America</continent>
+    </country>
+    <country>
+        <abbreviation>QA</abbreviation>
+        <name>Qatar</name>
+        <capital>Doha</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>RE</abbreviation>
+        <name>Réunion</name>
+        <capital>Saint-Denis</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>RO</abbreviation>
+        <name>Romania</name>
+        <capital>Bucharest</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>RS</abbreviation>
+        <name>Serbia</name>
+        <capital>Belgrade</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>RU</abbreviation>
+        <name>Russia</name>
+        <capital>Moscow</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>RW</abbreviation>
+        <name>Rwanda</name>
+        <capital>Kigali</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>SA</abbreviation>
+        <name>Saudi Arabia</name>
+        <capital>Riyadh</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>SB</abbreviation>
+        <name>Solomon Islands</name>
+        <capital>Honiara</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>SC</abbreviation>
+        <name>Seychelles</name>
+        <capital>Victoria</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>SD</abbreviation>
+        <name>Sudan</name>
+        <capital>Khartoum</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>SE</abbreviation>
+        <name>Sweden</name>
+        <capital>Stockholm</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>SG</abbreviation>
+        <name>Singapore</name>
+        <capital>Singapore</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>SH</abbreviation>
+        <name>Saint Helena</name>
+        <capital>Jamestown</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>SI</abbreviation>
+        <name>Slovenia</name>
+        <capital>Ljubljana</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>SJ</abbreviation>
+        <name>Svalbard and Jan Mayen</name>
+        <capital>Longyearbyen</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>SK</abbreviation>
+        <name>Slovakia</name>
+        <capital>Bratislava</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>SL</abbreviation>
+        <name>Sierra Leone</name>
+        <capital>Freetown</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>SM</abbreviation>
+        <name>San Marino</name>
+        <capital>San Marino</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>SN</abbreviation>
+        <name>Senegal</name>
+        <capital>Dakar</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>SO</abbreviation>
+        <name>Somalia</name>
+        <capital>Mogadishu</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>SR</abbreviation>
+        <name>Suriname</name>
+        <capital>Paramaribo</capital>
+        <continent>South America</continent>
+    </country>
+    <country>
+        <abbreviation>SS</abbreviation>
+        <name>South Sudan</name>
+        <capital>Juba</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>ST</abbreviation>
+        <name>São Tomé and Príncipe</name>
+        <capital>São Tomé</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>SV</abbreviation>
+        <name>El Salvador</name>
+        <capital>San Salvador</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>SX</abbreviation>
+        <name>Sint Maarten</name>
+        <capital>Philipsburg</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>SY</abbreviation>
+        <name>Syria</name>
+        <capital>Damascus</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>SZ</abbreviation>
+        <name>Swaziland</name>
+        <capital>Mbabane</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>TC</abbreviation>
+        <name>Turks and Caicos Islands</name>
+        <capital>Cockburn Town</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>TD</abbreviation>
+        <name>Chad</name>
+        <capital>N'Djamena</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>TF</abbreviation>
+        <name>French Southern Territories</name>
+        <capital>Port-aux-Français</capital>
+        <continent>Antarctica</continent>
+    </country>
+    <country>
+        <abbreviation>TG</abbreviation>
+        <name>Togo</name>
+        <capital>Lomé</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>TH</abbreviation>
+        <name>Thailand</name>
+        <capital>Bangkok</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>TJ</abbreviation>
+        <name>Tajikistan</name>
+        <capital>Dushanbe</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>TK</abbreviation>
+        <name>Tokelau</name>
+        <capital/>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>TL</abbreviation>
+        <name>East Timor</name>
+        <capital>Dili</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>TM</abbreviation>
+        <name>Turkmenistan</name>
+        <capital>Ashgabat</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>TN</abbreviation>
+        <name>Tunisia</name>
+        <capital>Tunis</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>TO</abbreviation>
+        <name>Tonga</name>
+        <capital>Nuku'alofa</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>TR</abbreviation>
+        <name>Turkey</name>
+        <capital>Ankara</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>TT</abbreviation>
+        <name>Trinidad and Tobago</name>
+        <capital>Port of Spain</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>TV</abbreviation>
+        <name>Tuvalu</name>
+        <capital>Funafuti</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>TW</abbreviation>
+        <name>Taiwan</name>
+        <capital>Taipei</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>TZ</abbreviation>
+        <name>Tanzania</name>
+        <capital>Dodoma</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>UA</abbreviation>
+        <name>Ukraine</name>
+        <capital>Kyiv</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>UG</abbreviation>
+        <name>Uganda</name>
+        <capital>Kampala</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>UM</abbreviation>
+        <name>U.S. Minor Outlying Islands</name>
+        <capital/>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>US</abbreviation>
+        <name>United States</name>
+        <capital>Washington</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>UY</abbreviation>
+        <name>Uruguay</name>
+        <capital>Montevideo</capital>
+        <continent>South America</continent>
+    </country>
+    <country>
+        <abbreviation>UZ</abbreviation>
+        <name>Uzbekistan</name>
+        <capital>Tashkent</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>VA</abbreviation>
+        <name>Vatican City</name>
+        <capital>Vatican</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>VC</abbreviation>
+        <name>Saint Vincent and the Grenadines</name>
+        <capital>Kingstown</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>VE</abbreviation>
+        <name>Venezuela</name>
+        <capital>Caracas</capital>
+        <continent>South America</continent>
+    </country>
+    <country>
+        <abbreviation>VG</abbreviation>
+        <name>British Virgin Islands</name>
+        <capital>Road Town</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>VI</abbreviation>
+        <name>U.S. Virgin Islands</name>
+        <capital>Charlotte Amalie</capital>
+        <continent>North America</continent>
+    </country>
+    <country>
+        <abbreviation>VN</abbreviation>
+        <name>Vietnam</name>
+        <capital>Hanoi</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>VU</abbreviation>
+        <name>Vanuatu</name>
+        <capital>Port Vila</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>WF</abbreviation>
+        <name>Wallis and Futuna</name>
+        <capital>Mata-Utu</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>WS</abbreviation>
+        <name>Samoa</name>
+        <capital>Apia</capital>
+        <continent>Oceania</continent>
+    </country>
+    <country>
+        <abbreviation>XK</abbreviation>
+        <name>Kosovo</name>
+        <capital>Pristina</capital>
+        <continent>Europe</continent>
+    </country>
+    <country>
+        <abbreviation>YE</abbreviation>
+        <name>Yemen</name>
+        <capital>Sanaa</capital>
+        <continent>Asia</continent>
+    </country>
+    <country>
+        <abbreviation>YT</abbreviation>
+        <name>Mayotte</name>
+        <capital>Mamoutzou</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>ZA</abbreviation>
+        <name>South Africa</name>
+        <capital>Pretoria</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>ZM</abbreviation>
+        <name>Zambia</name>
+        <capital>Lusaka</capital>
+        <continent>Africa</continent>
+    </country>
+    <country>
+        <abbreviation>ZW</abbreviation>
+        <name>Zimbabwe</name>
+        <capital>Harare</capital>
+        <continent>Africa</continent>
+    </country>
+</countries>

@@ -71,7 +71,8 @@ public class Quiz {
 			question.answeredIncorrectly();
 			c_sessionInfo.addIncorrectAnswer();
 		}
-		System.out.println("Question statistics: " + question.getTimesCorrect() + "/" + question.getTimesTested());
+		System.out.println("Question statistics: " + question.getTimesCorrect() + "/" + question.getTimesTested() + "\t\t\t\t\t(Session statistics: " 
+					+ c_sessionInfo.getQuestionAnsweredCorrectly() + "/" + c_sessionInfo.getQuestionsAsked() + ")");
 	}
 	
 	public SessionInfo getSessionInfo() {

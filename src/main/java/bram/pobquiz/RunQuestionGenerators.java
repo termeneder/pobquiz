@@ -1,5 +1,6 @@
 package bram.pobquiz;
 
+import bram.pobquiz.questiongenerator.countrygenerator.CountryQuestionGenerator;
 import bram.pobquiz.questiongenerator.history.uspresidents.USPresidentQuestionGenerator;
 import bram.pobquiz.questiongenerator.moviegenerator.MovieQuestionGenerator;
 import bram.pobquiz.questiongenerator.stategenerator.StateQuestionGenerator;
@@ -12,6 +13,7 @@ public class RunQuestionGenerators {
 		MovieQuestionGenerator.main(args);
 		TriviaQuestionGenerator.main(args);
 		USPresidentQuestionGenerator.main(args);
+		CountryQuestionGenerator.main(args);
 	}
 	
 }

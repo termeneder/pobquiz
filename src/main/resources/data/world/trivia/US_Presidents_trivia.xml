@@ -133,5 +133,37 @@
         <Answer>John Wilkes Booth</Answer>
         <Category>US</Category>
         <Category>US Presidents</Category>
-    </Question>  
+    </Question>
+    <Question>
+        <Question>Who was the first president to be inaugurated in Washington D.C.?</Question>
+        <Answer>Thomas Jefferson</Answer>
+        <Category>US</Category>
+        <Category>US Presidents</Category>
+    </Question>
+    <Question>
+        <Question>Who said "Ask not what you your country can do for you; ask what you can do for your country"?</Question>
+        <Answer>John F. Kennedy</Answer>
+        <Category>US</Category>
+        <Category>US Presidents</Category>
+    </Question>
+    <Question>
+        <Question>Who is the only president ever to resign?</Question>
+        <Answer>Richard Nixon</Answer>
+        <Category>US</Category>
+        <Category>US Presidents</Category>
+    </Question>
+    <Question>
+        <Question>Which two presidents died on the same day (4th of july, 1826)?</Question>
+        <Answer>Thomas Jefferson</Answer>
+        <Answer>John Adams</Answer>
+        <Category>US</Category>
+        <Category>US Presidents</Category>
+    </Question>
+    <Question>
+        <Question>Who is sometimes claimed to be the first president of the U.S.?</Question>
+        <Answer>John Hanson</Answer>
+        <Category>US</Category>
+        <Category>US Presidents</Category>
+    </Question>
+
 </Trivia>
