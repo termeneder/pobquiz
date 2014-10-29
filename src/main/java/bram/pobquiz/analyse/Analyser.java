@@ -8,7 +8,7 @@ public class Analyser {
 	
 	private final Analysis[] c_analysisArray = {
 			new GeneralInfoAnalysis(),
-			new LearnedQuestionAnalysis(10,100),
+			new LearnedQuestionAnalysis(10,80),
 			new HardestQuestionAnalysis(3),
 			new MostCommonQuestionsAnalysis(3),
 			new MostCorrectQuestionsAnalysis(3),

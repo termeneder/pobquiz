@@ -1,5 +1,7 @@
 package bram.pobquiz.questiongenerator.countrygenerator;
 
+import org.apache.commons.lang3.StringUtils;
+
 import bram.pobquiz.data.geography.CountriesOfTheWorld;
 import bram.pobquiz.data.geography.Country;
 import bram.pobquiz.question.Question;
@@ -28,14 +30,16 @@ public class CapitalToCountryQuestionGenerator {
 
 
 	private void addQuestion(Country country) {
-		QuestionFactory factory = new QuestionFactory();
-		factory.withQuestion("What country has the capital " + country.getCapital() + "?");
-		factory.withAnswer(country.getName());
-		factory.withCaterorgy("Geography");
-		factory.withCaterorgy("Countries of the world");
-		factory.withCaterorgy("Capital to country");
-		Question question = factory.build();
-		c_questionList.addQuestion(question);
+		if (StringUtils.isNotBlank(country.getCapital())) {
+			QuestionFactory factory = new QuestionFactory();
+			factory.withQuestion("What country has the capital " + country.getCapital() + "?");
+			factory.withAnswer(country.getName());
+			factory.withCaterorgy("Geography");
+			factory.withCaterorgy("Countries of the world");
+			factory.withCaterorgy("Capital to country");
+			Question question = factory.build();
+			c_questionList.addQuestion(question);
+		}
 		
 	}
 	

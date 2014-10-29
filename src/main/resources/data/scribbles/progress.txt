@@ -7,7 +7,6 @@ date	Questions asked		Percentage	Longest upstreak 	Long downstreak 	#Questions	#
 25-10	361					27%			5					-20					1641		164				1121			0
 26-10	344					29%			5					-13					1641		115				1067			0
 27-10	311					32%			4					-12					1641		76				1004			0
+28-10	307					32%			5					-11					2126		318				1376			0
+29-10	342					29%			3					-16					2126		165				1285			0
 
-FIX:
-Heard Island and McDonald Islands (geen capital)
-Stad met vraagtekens Chi? nogwatnogwat

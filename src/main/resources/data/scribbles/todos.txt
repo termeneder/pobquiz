@@ -1,3 +1,7 @@
+Bugs
+
+	Norfolk Island/Jamaica hebben allebei Kingston als hoofdstad
+
 Functionaliteiten
 
 
@@ -58,3 +62,6 @@ Vragen
 		
 	Trivia
 		Wolken
+		
+	Pi
+		Welke 5 getallen volgen op deze 5 getallen (plaats n tot n+5)
