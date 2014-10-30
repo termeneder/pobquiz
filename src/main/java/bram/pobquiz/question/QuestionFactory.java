@@ -37,8 +37,14 @@ public class QuestionFactory {
 		return question;
 	}
 
-	public Object getQuestion() {
+	public String getQuestion() {
 		return c_question;
 	}
+	
+	public List<String> getAnswerList() {
+		return c_answerList;
+	}
+	
+	
 	
 }

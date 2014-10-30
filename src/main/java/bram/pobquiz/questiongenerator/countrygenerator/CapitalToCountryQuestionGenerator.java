@@ -1,10 +1,12 @@
 package bram.pobquiz.questiongenerator.countrygenerator;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import org.apache.commons.lang3.StringUtils;
 
 import bram.pobquiz.data.geography.CountriesOfTheWorld;
 import bram.pobquiz.data.geography.Country;
-import bram.pobquiz.question.Question;
 import bram.pobquiz.question.QuestionFactory;
 import bram.pobquiz.question.QuestionList;
 
@@ -21,26 +23,42 @@ public class CapitalToCountryQuestionGenerator {
 
 	public QuestionList build() {
 
-		for (Country country: c_countriesOfTheWorld) {
-			addQuestion(country);
+		List<QuestionFactory> factoryList = new ArrayList<QuestionFactory>();
+		for (Country country : c_countriesOfTheWorld) {
+			addFactory(country, factoryList);
+		}
+		for (QuestionFactory factory : factoryList) {
+			c_questionList.addQuestion(factory.build());
 		}
 		return c_questionList;
 	}
 
 
 
-	private void addQuestion(Country country) {
+
+
+
+	private void addFactory(Country country, List<QuestionFactory> factoryList) {
 		if (StringUtils.isNotBlank(country.getCapital())) {
-			QuestionFactory factory = new QuestionFactory();
-			factory.withQuestion("What country has the capital " + country.getCapital() + "?");
-			factory.withAnswer(country.getName());
-			factory.withCaterorgy("Geography");
-			factory.withCaterorgy("Countries of the world");
-			factory.withCaterorgy("Capital to country");
-			Question question = factory.build();
-			c_questionList.addQuestion(question);
+			String question = "What country has the capital " + country.getCapital() + "?";
+			QuestionFactory sameFactory = null;
+			for (QuestionFactory factory : factoryList) {
+				if (factory.getQuestion().equals(question)) {
+					sameFactory = factory;
+				}
+			}
+			if (sameFactory == null) {
+				QuestionFactory newFactory = new QuestionFactory();
+				newFactory.withQuestion(question);
+				newFactory.withAnswer(country.getName());
+				newFactory.withCaterorgy("Geography");
+				newFactory.withCaterorgy("Countries of the world");
+				newFactory.withCaterorgy("Capital to country");
+				factoryList.add(newFactory);
+			} else {
+				sameFactory.withAnswer(country.getName());
+			}
 		}
-		
 	}
 	
 }
