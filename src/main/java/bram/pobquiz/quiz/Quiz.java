@@ -51,30 +51,36 @@ public class Quiz {
 			question.answeredCorrectly();
 			c_sessionInfo.addCorrectAnswer();
 		} else {
-			System.out.println("Incorrect!");// TODO MOVE TO OUTPUTTER
-			if (question.getQuestion().isSingletonAnswer()){
-				System.out.println("Should be: " + question.getQuestion().getAnswers().get(0));// TODO MOVE TO OUTPUTTER
-			} else {
-				if (question.getQuestion().getMissedAnswers(answer).size() > 0) {
-					System.out.println("You missed:");// TODO MOVE TO OUTPUTTER
-					for (String missedAnswers : question.getQuestion().getMissedAnswers(answer)) {
-						System.out.println(" - " + missedAnswers);// TODO MOVE TO OUTPUTTER
-					}
-				}
-				if (question.getQuestion().getNonOccurringAnswers(answer).size() > 0) {
-					System.out.println("You incorrectly gave:");// TODO MOVE TO OUTPUTTER
-					for (String nonOccurringAnswer : question.getQuestion().getNonOccurringAnswers(answer)) {
-						System.out.println(" - " + nonOccurringAnswer);// TODO MOVE TO OUTPUTTER
-					}
-				}
-			}
-			question.answeredIncorrectly();
-			c_sessionInfo.addIncorrectAnswer();
+			handleIncorrectAnswer(question, answer);
+			
 		}
 		System.out.println("Question statistics: " + question.getTimesCorrect() + "/" + question.getTimesTested() + "\t\t\t\t\t(Session statistics: " 
 					+ c_sessionInfo.getQuestionAnsweredCorrectly() + "/" + c_sessionInfo.getQuestionsAsked() + ")");
 	}
 	
+	private void handleIncorrectAnswer(QuestionStats question, List<String> answer) {
+		System.out.println("Incorrect!");// TODO MOVE TO OUTPUTTER
+		if (question.getQuestion().isSingletonAnswer()){
+			System.out.println("Should be: " + question.getQuestion().getAnswers().get(0));// TODO MOVE TO OUTPUTTER
+		} else {
+			if (question.getQuestion().getMissedAnswers(answer).size() > 0) {
+				System.out.println("You missed:");// TODO MOVE TO OUTPUTTER
+				for (String missedAnswers : question.getQuestion().getMissedAnswers(answer)) {
+					System.out.println(" - " + missedAnswers);// TODO MOVE TO OUTPUTTER
+				}
+			}
+			if (question.getQuestion().getNonOccurringAnswers(answer).size() > 0) {
+				System.out.println("You incorrectly gave:");// TODO MOVE TO OUTPUTTER
+				for (String nonOccurringAnswer : question.getQuestion().getNonOccurringAnswers(answer)) {
+					System.out.println(" - " + nonOccurringAnswer);// TODO MOVE TO OUTPUTTER
+				}
+			}
+		}
+		question.answeredIncorrectly();
+		
+		c_sessionInfo.addIncorrectAnswer();
+	}
+
 	public SessionInfo getSessionInfo() {
 		return c_sessionInfo;
 	}

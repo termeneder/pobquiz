@@ -1,9 +1,9 @@
 Bugs
 
-	Norfolk Island/Jamaica hebben allebei Kingston als hoofdstad
 
 Functionaliteiten
 
+	repeat incorrect answer
 
 Vragen
 
