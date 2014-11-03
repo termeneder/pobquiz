@@ -1,5 +1,6 @@
 Bugs
 
+	fix worst ratio
 
 Functionaliteiten
 
