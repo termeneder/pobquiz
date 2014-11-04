@@ -55,7 +55,7 @@ Vragen
 		State -> club
 		Club -> state
 		Club -> Division
-		Division -> club
+		Division -> clubs
 		
 	Amerikaanse sporten
 		Baseball
@@ -66,3 +66,8 @@ Vragen
 		
 	Pi
 		Welke 5 getallen volgen op deze 5 getallen (plaats n tot n+5)
+		
+	Oorlogen
+		naam -> jaar
+		naam -> landen
+		landen + jaar -> naam

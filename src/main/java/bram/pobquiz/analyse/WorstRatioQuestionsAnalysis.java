@@ -43,7 +43,7 @@ public class WorstRatioQuestionsAnalysis extends RankingAnalysis {
 		double q2Ratio = (double)q2.getTimesCorrect()/(double)q2.getTimesTested();
 		if (q1Ratio < q2Ratio) {
 			return true;
-		} else if (q1Ratio < q2Ratio) {
+		} else if (q2Ratio < q1Ratio) {
 			return false;
 		} else {
 			return q1.getTimesTested() > q2.getTimesTested();

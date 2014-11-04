@@ -14,3 +14,4 @@ date	Questions asked		Percentage	Longest upstreak 	Long downstreak 	#Questions	#
 01-11	276					36%			5					-14					2126		0				1089			0
 02-11	268					37%			4					-8					2126		0				1064			0
 03-11	256					39%			5					-12					2126		0				1025			0
+04-11	258					38%			5					-16					2126		0				974				0
