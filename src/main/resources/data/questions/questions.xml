@@ -436,7 +436,7 @@
             <Category>US States</Category>
             <Category>US States to capital</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -460,7 +460,7 @@
             <Category>US States</Category>
             <Category>US States to capital</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -484,8 +484,8 @@
             <Category>US States</Category>
             <Category>US States to capital</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>0</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -508,8 +508,8 @@
             <Category>US States</Category>
             <Category>US States to capital</Category>
         </Question>
-        <TimesTested>3</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>4</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -568,8 +568,8 @@
             <Category>US States</Category>
             <Category>US States to capital</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -592,8 +592,8 @@
             <Category>US States</Category>
             <Category>US States to capital</Category>
         </Question>
-        <TimesTested>7</TimesTested>
-        <TimesCorrect>4</TimesCorrect>
+        <TimesTested>8</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -676,7 +676,7 @@
             <Category>US States</Category>
             <Category>US States to capital</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -712,8 +712,8 @@
             <Category>US States</Category>
             <Category>US States to capital</Category>
         </Question>
-        <TimesTested>6</TimesTested>
-        <TimesCorrect>0</TimesCorrect>
+        <TimesTested>7</TimesTested>
+        <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -856,7 +856,7 @@
             <Category>US States</Category>
             <Category>US States to capital</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -1084,8 +1084,8 @@
             <Category>US States</Category>
             <Category>Capital to US State</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -1204,8 +1204,8 @@
             <Category>US States</Category>
             <Category>Capital to US State</Category>
         </Question>
-        <TimesTested>6</TimesTested>
-        <TimesCorrect>1</TimesCorrect>
+        <TimesTested>7</TimesTested>
+        <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -1216,8 +1216,8 @@
             <Category>US States</Category>
             <Category>Capital to US State</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>0</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -1264,8 +1264,8 @@
             <Category>US States</Category>
             <Category>Capital to US State</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>1</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -1300,8 +1300,8 @@
             <Category>US States</Category>
             <Category>Capital to US State</Category>
         </Question>
-        <TimesTested>6</TimesTested>
-        <TimesCorrect>5</TimesCorrect>
+        <TimesTested>7</TimesTested>
+        <TimesCorrect>6</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -1348,8 +1348,8 @@
             <Category>US States</Category>
             <Category>Capital to US State</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>0</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -1408,8 +1408,8 @@
             <Category>US States</Category>
             <Category>Capital to US State</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>4</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -1658,7 +1658,7 @@
             <Category>US States</Category>
             <Category>State to neighbours</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -2198,7 +2198,7 @@
             <Category>US States</Category>
             <Category>State to neighbours</Category>
         </Question>
-        <TimesTested>3</TimesTested>
+        <TimesTested>4</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -2318,8 +2318,8 @@
             <Category>US States</Category>
             <Category>Neighbours to state</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>4</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -2582,8 +2582,8 @@
             <Category>US States</Category>
             <Category>Neighbours to state</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -2606,8 +2606,8 @@
             <Category>US States</Category>
             <Category>Neighbours to state</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>4</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -2690,8 +2690,8 @@
             <Category>US States</Category>
             <Category>Neighbours to state</Category>
         </Question>
-        <TimesTested>2</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>3</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -2794,7 +2794,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>3</TimesTested>
+        <TimesTested>4</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -2804,7 +2804,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -2904,8 +2904,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -2994,7 +2994,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -3144,7 +3144,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -3174,8 +3174,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>0</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -3394,7 +3394,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -3444,7 +3444,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -3494,7 +3494,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -3724,8 +3724,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -3754,7 +3754,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -3834,7 +3834,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -3874,8 +3874,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -4024,7 +4024,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -4044,7 +4044,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -4094,7 +4094,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -4164,7 +4164,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -4174,7 +4174,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -4514,7 +4514,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -4794,8 +4794,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>0</TimesCorrect>
+        <TimesTested>7</TimesTested>
+        <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -4834,7 +4834,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -4894,7 +4894,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -4954,7 +4954,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -4974,7 +4974,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -4994,7 +4994,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>3</TimesTested>
+        <TimesTested>4</TimesTested>
         <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -5114,7 +5114,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -5214,7 +5214,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -5264,8 +5264,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>1</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -5554,7 +5554,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -5584,7 +5584,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -5594,7 +5594,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -5624,7 +5624,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -5674,7 +5674,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -5784,7 +5784,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -5804,7 +5804,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -5854,8 +5854,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>3</TimesTested>
-        <TimesCorrect>0</TimesCorrect>
+        <TimesTested>4</TimesTested>
+        <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -5884,7 +5884,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>7</TimesTested>
+        <TimesTested>8</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -5894,7 +5894,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -6154,7 +6154,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -6274,7 +6274,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -6304,7 +6304,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -6584,7 +6584,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>7</TimesTested>
+        <TimesTested>8</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -6704,7 +6704,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -6774,7 +6774,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -6784,7 +6784,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -6844,7 +6844,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -6864,8 +6864,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>0</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -6874,7 +6874,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -6994,8 +6994,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>0</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -7034,7 +7034,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>3</TimesTested>
+        <TimesTested>4</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -7214,7 +7214,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -7294,7 +7294,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -7314,7 +7314,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -7334,7 +7334,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -7554,7 +7554,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -7694,7 +7694,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -7784,7 +7784,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -7804,7 +7804,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -7854,7 +7854,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -8054,7 +8054,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -8084,8 +8084,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>3</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>4</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -8094,7 +8094,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -8134,7 +8134,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -8204,7 +8204,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -8314,7 +8314,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -8394,8 +8394,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>1</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -8414,7 +8414,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -8424,7 +8424,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -8464,8 +8464,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>4</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -8494,7 +8494,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>7</TimesTested>
+        <TimesTested>8</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -8514,8 +8514,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>1</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -8734,7 +8734,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -8744,7 +8744,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -8794,7 +8794,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -8884,8 +8884,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -8924,7 +8924,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -8984,7 +8984,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -9104,7 +9104,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -9194,7 +9194,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -9304,8 +9304,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -9364,8 +9364,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -9534,7 +9534,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -9554,7 +9554,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -9634,7 +9634,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -9694,7 +9694,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -9754,7 +9754,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -9784,7 +9784,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -9844,7 +9844,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -10014,7 +10014,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -10024,8 +10024,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>0</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -10064,7 +10064,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -10144,7 +10144,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -10274,7 +10274,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -10294,8 +10294,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>7</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -10494,7 +10494,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -10504,7 +10504,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -10534,7 +10534,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -10644,7 +10644,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -10704,7 +10704,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -10744,7 +10744,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -10794,7 +10794,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>7</TimesTested>
+        <TimesTested>8</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -10984,7 +10984,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -11124,7 +11124,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -11164,7 +11164,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -11264,7 +11264,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -11324,7 +11324,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -11344,7 +11344,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -11434,8 +11434,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>0</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -11474,7 +11474,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -11514,8 +11514,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>2</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>4</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -11564,7 +11564,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -11684,7 +11684,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -11834,7 +11834,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -11904,7 +11904,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -11984,7 +11984,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -12074,7 +12074,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -12174,7 +12174,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -12294,8 +12294,8 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
-        <TimesCorrect>4</TimesCorrect>
+        <TimesTested>7</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -12314,7 +12314,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -12624,7 +12624,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -12644,7 +12644,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -12664,7 +12664,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>7</TimesTested>
+        <TimesTested>8</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -12684,7 +12684,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -12714,7 +12714,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -12764,7 +12764,7 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>3</TimesTested>
+        <TimesTested>4</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -12814,8 +12814,8 @@
             <Category>Solar System</Category>
             <Category>Planet</Category>
         </Question>
-        <TimesTested>2</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>3</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -12971,8 +12971,8 @@
             <Category>Astronomy</Category>
             <Category>Solar System</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -13081,7 +13081,7 @@
             <Category>US Presidents</Category>
             <Category>Number to US President</Category>
         </Question>
-        <TimesTested>3</TimesTested>
+        <TimesTested>4</TimesTested>
         <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -13213,8 +13213,8 @@
             <Category>US Presidents</Category>
             <Category>Number to US President</Category>
         </Question>
-        <TimesTested>3</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>4</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -13235,8 +13235,8 @@
             <Category>US Presidents</Category>
             <Category>Number to US President</Category>
         </Question>
-        <TimesTested>3</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>4</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -13257,8 +13257,8 @@
             <Category>US Presidents</Category>
             <Category>Number to US President</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -13312,8 +13312,8 @@
             <Category>US Presidents</Category>
             <Category>Number to US President</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -13455,8 +13455,8 @@
             <Category>US Presidents</Category>
             <Category>Number to US President</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -13664,8 +13664,8 @@
             <Category>US Presidents</Category>
             <Category>President in between</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -13675,8 +13675,8 @@
             <Category>US Presidents</Category>
             <Category>President in between</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -13873,8 +13873,8 @@
             <Category>US Presidents</Category>
             <Category>President in between</Category>
         </Question>
-        <TimesTested>2</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>3</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -13983,8 +13983,8 @@
             <Category>US Presidents</Category>
             <Category>President before</Category>
         </Question>
-        <TimesTested>6</TimesTested>
-        <TimesCorrect>4</TimesCorrect>
+        <TimesTested>7</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -14038,8 +14038,8 @@
             <Category>US Presidents</Category>
             <Category>President before</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>0</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -14071,8 +14071,8 @@
             <Category>US Presidents</Category>
             <Category>President before</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -14137,8 +14137,8 @@
             <Category>US Presidents</Category>
             <Category>President before</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -14270,8 +14270,8 @@
             <Category>US Presidents</Category>
             <Category>President before</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>5</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>6</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -14512,8 +14512,8 @@
             <Category>US Presidents</Category>
             <Category>President after</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>1</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -14589,8 +14589,8 @@
             <Category>US Presidents</Category>
             <Category>President after</Category>
         </Question>
-        <TimesTested>3</TimesTested>
-        <TimesCorrect>1</TimesCorrect>
+        <TimesTested>4</TimesTested>
+        <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -14623,8 +14623,8 @@
             <Category>US Presidents</Category>
             <Category>President after</Category>
         </Question>
-        <TimesTested>3</TimesTested>
-        <TimesCorrect>1</TimesCorrect>
+        <TimesTested>4</TimesTested>
+        <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -14667,8 +14667,8 @@
             <Category>US Presidents</Category>
             <Category>President after</Category>
         </Question>
-        <TimesTested>6</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>7</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -14678,8 +14678,8 @@
             <Category>US Presidents</Category>
             <Category>President after</Category>
         </Question>
-        <TimesTested>6</TimesTested>
-        <TimesCorrect>4</TimesCorrect>
+        <TimesTested>7</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -14711,8 +14711,8 @@
             <Category>US Presidents</Category>
             <Category>President after</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -14920,7 +14920,7 @@
             <Category>US Presidents</Category>
             <Category>Term to US President</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -15063,7 +15063,7 @@
             <Category>US Presidents</Category>
             <Category>Term to US President</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -15085,8 +15085,8 @@
             <Category>US Presidents</Category>
             <Category>Term to US President</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -15283,8 +15283,8 @@
             <Category>US Presidents</Category>
             <Category>Term to US President</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -15360,8 +15360,8 @@
             <Category>US Presidents</Category>
             <Category>Life to US President</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>1</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -15426,7 +15426,7 @@
             <Category>US Presidents</Category>
             <Category>Life to US President</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -15437,7 +15437,7 @@
             <Category>US Presidents</Category>
             <Category>Life to US President</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -15503,7 +15503,7 @@
             <Category>US Presidents</Category>
             <Category>Life to US President</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -15624,7 +15624,7 @@
             <Category>US Presidents</Category>
             <Category>Life to US President</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -15899,7 +15899,7 @@
             <Category>US Presidents</Category>
             <Category>US President to birth</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -16152,7 +16152,7 @@
             <Category>US Presidents</Category>
             <Category>US President to birth</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -16317,7 +16317,7 @@
             <Category>US Presidents</Category>
             <Category>US President to death</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -16350,7 +16350,7 @@
             <Category>US Presidents</Category>
             <Category>US President to death</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -16614,8 +16614,8 @@
             <Category>US Presidents</Category>
             <Category>US President to death</Category>
         </Question>
-        <TimesTested>3</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>4</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -16827,8 +16827,8 @@
             <Category>US</Category>
             <Category>US Presidents</Category>
         </Question>
-        <TimesTested>2</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>3</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -17045,8 +17045,8 @@
             <Category>US Presidents</Category>
             <Category>President to term</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -17133,8 +17133,8 @@
             <Category>US Presidents</Category>
             <Category>President to term</Category>
         </Question>
-        <TimesTested>6</TimesTested>
-        <TimesCorrect>5</TimesCorrect>
+        <TimesTested>7</TimesTested>
+        <TimesCorrect>6</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -17210,8 +17210,8 @@
             <Category>US Presidents</Category>
             <Category>President to term</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>4</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -17310,8 +17310,8 @@
             <Category>US Presidents</Category>
             <Category>President to term</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -17321,8 +17321,8 @@
             <Category>US Presidents</Category>
             <Category>President to term</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -17332,8 +17332,8 @@
             <Category>US Presidents</Category>
             <Category>President to term</Category>
         </Question>
-        <TimesTested>3</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>4</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -17783,8 +17783,8 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -17805,7 +17805,7 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -17860,7 +17860,7 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -17937,8 +17937,8 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -18014,8 +18014,8 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>4</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -18036,7 +18036,7 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -18047,8 +18047,8 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>4</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -18091,7 +18091,7 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -18168,7 +18168,7 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -18179,8 +18179,8 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>2</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>3</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -18267,7 +18267,7 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -18432,8 +18432,8 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>3</TimesTested>
-        <TimesCorrect>1</TimesCorrect>
+        <TimesTested>4</TimesTested>
+        <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -18641,8 +18641,8 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>1</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -18674,8 +18674,8 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -18685,8 +18685,8 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>1</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -18861,7 +18861,7 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -19048,7 +19048,7 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -19114,7 +19114,7 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -19378,7 +19378,7 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -19400,8 +19400,8 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>2</TimesTested>
-        <TimesCorrect>1</TimesCorrect>
+        <TimesTested>3</TimesTested>
+        <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -19422,7 +19422,7 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -19499,8 +19499,8 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>1</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -19785,7 +19785,7 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -19840,8 +19840,8 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>4</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -19972,7 +19972,7 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -19983,7 +19983,7 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -20027,7 +20027,7 @@
             <Category>Countries of the world</Category>
             <Category>Country to capital</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -20126,8 +20126,8 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>4</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -20159,7 +20159,7 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -20192,8 +20192,8 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>3</TimesTested>
-        <TimesCorrect>0</TimesCorrect>
+        <TimesTested>4</TimesTested>
+        <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -20269,7 +20269,7 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -20357,8 +20357,8 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>6</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>7</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -20368,7 +20368,7 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -20665,8 +20665,8 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -21193,8 +21193,8 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>7</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -21392,8 +21392,8 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>3</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>4</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -21645,8 +21645,8 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>0</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -21799,8 +21799,8 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -21843,7 +21843,7 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -21854,8 +21854,8 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>3</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
+        <TimesTested>4</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -21909,7 +21909,7 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -21997,7 +21997,7 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>7</TimesTested>
+        <TimesTested>8</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -22041,8 +22041,8 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>3</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>4</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -22129,8 +22129,8 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>4</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -22349,7 +22349,7 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -22360,7 +22360,7 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -22415,7 +22415,7 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -22448,8 +22448,8 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>3</TimesTested>
-        <TimesCorrect>0</TimesCorrect>
+        <TimesTested>4</TimesTested>
+        <TimesCorrect>1</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -22503,8 +22503,8 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>2</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>3</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -22514,7 +22514,7 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -22580,8 +22580,8 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>4</TimesTested>
-        <TimesCorrect>4</TimesCorrect>
+        <TimesTested>5</TimesTested>
+        <TimesCorrect>5</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -22646,7 +22646,7 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>5</TimesTested>
+        <TimesTested>6</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -22679,8 +22679,8 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>3</TimesTested>
-        <TimesCorrect>1</TimesCorrect>
+        <TimesTested>4</TimesTested>
+        <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -22712,7 +22712,7 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>4</TimesTested>
+        <TimesTested>5</TimesTested>
         <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -22723,7 +22723,7 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>6</TimesTested>
+        <TimesTested>7</TimesTested>
         <TimesCorrect>0</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
@@ -22734,8 +22734,8 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>5</TimesTested>
-        <TimesCorrect>1</TimesCorrect>
+        <TimesTested>6</TimesTested>
+        <TimesCorrect>2</TimesCorrect>
     </QuestionStats>
     <QuestionStats>
         <Question>
