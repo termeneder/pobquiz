@@ -1,7 +1,5 @@
 Bugs
 
-	fix worst ratio
-
 Functionaliteiten
 
 	repeat incorrect answer
@@ -19,7 +17,6 @@ Vragen
 	
 	Presidenten van Amerika
 		Voornaam -> Achternaam
-		Naam -> termijn
 		Speciale dingen -> President
 			
 		

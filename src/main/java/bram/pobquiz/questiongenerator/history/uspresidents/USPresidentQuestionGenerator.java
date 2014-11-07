@@ -42,6 +42,14 @@ public class USPresidentQuestionGenerator {
 		PresidentToTermQuestionGenerator presidentToTerm = new PresidentToTermQuestionGenerator(usPresidents, questionList);
 		questionList = presidentToTerm.build();
 		
+		PresidentToStartOfTermQuestionGenerator  presidentToStartTerm = new PresidentToStartOfTermQuestionGenerator(usPresidents, questionList);
+		questionList = presidentToStartTerm.build();
+		
+		PresidentToEndOfTermQuestionGenerator  presidentToEndTerm = new PresidentToEndOfTermQuestionGenerator(usPresidents, questionList);
+		questionList = presidentToEndTerm.build();
+		
+		PresidentToStartAndEndOfTermQuestionGenerator  presidentToStartAndEndTerm = new PresidentToStartAndEndOfTermQuestionGenerator(usPresidents, questionList);
+		questionList = presidentToStartAndEndTerm.build();
 		
 		
 		questionList.save();
