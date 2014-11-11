@@ -12,7 +12,7 @@ Vragen
 
 	Films (beginnend met top 250)
 		! Naam film -> Regisseur
-		Regisseur + jaar -> Naam film
+		! Regisseur + jaar -> Naam film
 		Hoofdrolspelers -> Naam film
 	
 	Presidenten van Amerika
@@ -29,8 +29,8 @@ Vragen
 	
 	Landen
 		Continent + beginletter -> landen
-		land -> omringende landen
-		omringende landen -> land
+		! land -> omringende landen
+		! omringende landen -> land
 	
 	Schrijvers (lijst van boeken van http://thegreatestbooks.org/)
 		! Boek -> Schrijver
@@ -53,6 +53,7 @@ Vragen
 		Club -> state
 		Club -> Division
 		Division -> clubs
+		Club -> amount of superbowls
 		
 	Amerikaanse sporten
 		Baseball
@@ -65,6 +66,12 @@ Vragen
 		Welke 5 getallen volgen op deze 5 getallen (plaats n tot n+5)
 		
 	Oorlogen
-		naam -> jaar
+		naam -> jaren
 		naam -> landen
-		landen + jaar -> naam
+		landen + jaren -> naam
+		
+	Wetenschappers
+		ontdekking -> wetenschapper
+		wetenschapper -> geboortejaar
+		wetenschapper -> sterftejaar
+		ontdekking + wetenschapper -> ontdekkingsjaar
