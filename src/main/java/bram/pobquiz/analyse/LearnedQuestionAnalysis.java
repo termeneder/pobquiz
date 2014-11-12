@@ -1,5 +1,7 @@
 package bram.pobquiz.analyse;
 
+import org.apache.commons.lang3.StringUtils;
+
 import bram.pobquiz.question.QuestionList;
 import bram.pobquiz.question.QuestionStats;
 
@@ -8,7 +10,9 @@ public class LearnedQuestionAnalysis implements Analysis {
 	private int c_threshold;
 	private int c_percentage;
 	
-	
+	private static final int FIRST_COLUMN_WIDTH = 23;
+	private static final int SECOND_COLUMN_WIDTH = 6;
+	private static final int THIRD_COLUMN_WIDTH = 7;
 	
 	public LearnedQuestionAnalysis(int threshold, int percentage) {
 		c_threshold = threshold;
@@ -34,7 +38,15 @@ public class LearnedQuestionAnalysis implements Analysis {
 			}
 		}
 		int learnedAmountPercentage = (learnedAmount*100)/list.size();
-		return "Amount learned: " + learnedAmount + " (" + learnedAmountPercentage + "%)";
+		int notYetLearnedAmount = list.size()-learnedAmount;
+		int notYetLearnedAmountPercentage = 100-learnedAmountPercentage;
+		return 
+			StringUtils.rightPad("Amount learned:", FIRST_COLUMN_WIDTH) + 
+			StringUtils.leftPad(Integer.toString(learnedAmount), SECOND_COLUMN_WIDTH) + 
+			StringUtils.leftPad("(" + learnedAmountPercentage + "%)" , THIRD_COLUMN_WIDTH)+"\n" + 
+			StringUtils.rightPad("Amount not yet learned:", FIRST_COLUMN_WIDTH) + 
+			StringUtils.leftPad(Integer.toString(notYetLearnedAmount), SECOND_COLUMN_WIDTH) + 
+			StringUtils.leftPad("(" + notYetLearnedAmountPercentage + "%)", THIRD_COLUMN_WIDTH);
 	}
 
 	private boolean isLearned(QuestionStats stats) {
