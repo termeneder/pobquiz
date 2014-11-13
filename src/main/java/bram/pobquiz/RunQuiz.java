@@ -1,5 +1,9 @@
 package bram.pobquiz;
 
+import org.kohsuke.args4j.CmdLineException;
+import org.kohsuke.args4j.CmdLineParser;
+import org.kohsuke.args4j.Option;
+
 import bram.pobquiz.inputter.CLIInputter;
 import bram.pobquiz.inputter.Inputter;
 import bram.pobquiz.question.QuestionList;
@@ -7,33 +11,27 @@ import bram.pobquiz.quiz.CorrectAnswersGoal;
 import bram.pobquiz.quiz.Quiz;
 import bram.pobquiz.quiz.QuizGoal;
 import bram.pobquiz.quiz.selector.BalanceAmountTestedQuestionSelector;
-import bram.pobquiz.quiz.selector.ExcludeCategorySelector;
 import bram.pobquiz.quiz.selector.QuestionSelector;
-import bram.pobquiz.quiz.selector.WeightedRandomQuestionSelector;
+import bram.pobquiz.quiz.selector.RandomQuestionSelector;
+import bram.pobquiz.quiz.selector.WeightedQuestionSelector;
 
 public class RunQuiz {
 
 	
 	
-	public static void main(String[] args) {
-		System.out.println("Quiz");
-		int correctAnswerGoal;
-		if (args.length > 0) {
-			correctAnswerGoal = Integer.parseInt(args[0]);
-		} else {
-			correctAnswerGoal = 100;
-		}
+	public static void main(String[] args) throws CmdLineException {
+		Config configs = new Config(args);
+		System.out.println("Quiz to " + configs.correctAnswerGoal);
+
+		QuestionList.setSource(configs.filename);
 		QuestionList list = QuestionList.getInstance();
-		QuestionSelector baseSelector = new WeightedRandomQuestionSelector();
-		
-		ExcludeCategorySelector excludeSelector = new ExcludeCategorySelector(baseSelector);
-		//selector.setCategoriesToExclude("US States to capital", "State to neighbours");
-		
-		BalanceAmountTestedQuestionSelector balanceSelector = new BalanceAmountTestedQuestionSelector(excludeSelector, 2);
+		QuestionSelector baseSelector = new RandomQuestionSelector();
+		QuestionSelector weightedSelector = new WeightedQuestionSelector(baseSelector);
+		BalanceAmountTestedQuestionSelector balanceSelector = new BalanceAmountTestedQuestionSelector(weightedSelector, 2);
 		
 		Inputter inputter = new CLIInputter();
 		Quiz quiz = new Quiz(list, balanceSelector, inputter);
-		QuizGoal goal = new CorrectAnswersGoal(correctAnswerGoal);
+		QuizGoal goal = new CorrectAnswersGoal(configs.correctAnswerGoal);
 		while (!goal.goalReached(quiz)) {
 			System.out.println();
 			quiz.askQuestion();
@@ -41,6 +39,23 @@ public class RunQuiz {
 		}
 		System.out.println("\nGoal reached!\n");
 		System.out.println(quiz.getSessionInfo());
+	}
+
+	private static class Config {
+		
+		@Option(name="-goal")
+		int correctAnswerGoal = 100;
+		
+		@Option(name="-file")
+		String filename;
+		
+		
+		Config(String[] args) throws CmdLineException {
+			CmdLineParser parser = new CmdLineParser(this);
+			parser.parseArgument(args);
+			
+		}
+		
 	}
 	
 }

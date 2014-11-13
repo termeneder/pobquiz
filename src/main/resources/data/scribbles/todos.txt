@@ -1,5 +1,7 @@
 Bugs
 
+	check capital Sri Lanka
+
 Functionaliteiten
 
 	repeat incorrect answer
@@ -10,7 +12,7 @@ Vragen
 		Staat -> grootste stad
 		stad -> staat
 
-	Films (beginnend met top 250)
+	Films (beginnend met top 1000)
 		! Naam film -> Regisseur
 		! Regisseur + jaar -> Naam film
 		Hoofdrolspelers -> Naam film
@@ -75,3 +77,8 @@ Vragen
 		wetenschapper -> geboortejaar
 		wetenschapper -> sterftejaar
 		ontdekking + wetenschapper -> ontdekkingsjaar
+		
+	Albums
+		Artiest + Album -> Jaar
+		Artiest + Jaar -> Album
+		Album + Jaar -> Artiest

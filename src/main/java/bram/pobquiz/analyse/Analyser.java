@@ -1,5 +1,6 @@
 package bram.pobquiz.analyse;
 
+import bram.pobquiz.analyse.DistributionAnalysis.Group;
 import bram.pobquiz.question.QuestionList;
 
 public class Analyser {
@@ -8,6 +9,8 @@ public class Analyser {
 	
 	private final Analysis[] c_analysisArray = {
 			new GeneralInfoAnalysis(),
+			new DistributionAnalysis(Group.ASKED),
+			new DistributionAnalysis(Group.CORRECT),
 			new LearnedQuestionAnalysis(10,80),
 			new HardestQuestionAnalysis(5),
 			new MostCommonQuestionsAnalysis(3),

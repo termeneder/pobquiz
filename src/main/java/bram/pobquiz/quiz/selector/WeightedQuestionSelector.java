@@ -5,12 +5,18 @@ import java.util.Random;
 import bram.pobquiz.question.QuestionList;
 import bram.pobquiz.question.QuestionStats;
 
-public class WeightedRandomQuestionSelector implements QuestionSelector {
-
+public class WeightedQuestionSelector implements QuestionSelector {
+	
+	private QuestionSelector c_baseSelector;
+	
+	public WeightedQuestionSelector(QuestionSelector baseSelector) {
+		c_baseSelector = baseSelector;
+	}
+	
 	@Override
 	public QuestionStats getQuestion(QuestionList list) {
 		while (true) {
-			QuestionStats question = getRandomQuestion(list);
+			QuestionStats question = c_baseSelector.getQuestion(list);
 			if (weightedSelect(question)) {
 				return question;
 			}
@@ -23,14 +29,5 @@ public class WeightedRandomQuestionSelector implements QuestionSelector {
 		int cutoff = question.getTimesCorrect();
 		return cutoff <= randomNumber;
 	}
-
-	private QuestionStats getRandomQuestion(QuestionList list) {
-		int listSize = list.size();
-		Random rand = new Random();
-		int randomIndex = rand.nextInt(listSize);
-		return list.get(randomIndex);
-	}
-	
-	
 
 }

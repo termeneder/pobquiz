@@ -29,8 +29,6 @@ public class QuestionList implements Iterable<QuestionStats> {
 		}
 	}
 	
-
-	
 	private boolean isAlreadyAdded(Question question) {
 		boolean isAlreadyAdded = false;
 		for (QuestionStats qs : c_questionStatList) {
@@ -54,7 +52,18 @@ public class QuestionList implements Iterable<QuestionStats> {
 		writeQuestionFile(this);
 	}
 	
+	@Override
+	public Iterator<QuestionStats> iterator() {
+		return c_questionStatList.iterator();
+	}
+	
+	public static void setSource(String location) {
+		INSTANCE = null;
+		SOURCE = location;
+	}
+	
 	private static QuestionList INSTANCE;
+	private static String SOURCE;
 	public static QuestionList getInstance() {
 		if (INSTANCE == null) {
 			INSTANCE = readQuestionFile();
@@ -86,14 +95,14 @@ public class QuestionList implements Iterable<QuestionStats> {
 	}
 	
 	private static File getQuestionFile() {
-		File file = new File("src/main/resources/data/questions/questions.xml");
+		if (SOURCE == null) {
+			throw new RuntimeException("No source set.");
+		}
+		File file = new File(SOURCE);
 		return file;
 	}
 
-	@Override
-	public Iterator<QuestionStats> iterator() {
-		return c_questionStatList.iterator();
-	}
+
 
 
 
