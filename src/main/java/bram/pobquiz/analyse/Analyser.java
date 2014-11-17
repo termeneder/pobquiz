@@ -11,6 +11,7 @@ public class Analyser {
 			new GeneralInfoAnalysis(),
 			new DistributionAnalysis(Group.ASKED),
 			new DistributionAnalysis(Group.CORRECT),
+			new DistributionAnalysis(Group.SALDO),
 			new LearnedQuestionAnalysis(10,80),
 			new HardestQuestionAnalysis(5),
 			new MostCommonQuestionsAnalysis(3),

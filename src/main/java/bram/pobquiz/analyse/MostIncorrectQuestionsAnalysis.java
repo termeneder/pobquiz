@@ -35,7 +35,7 @@ public class MostIncorrectQuestionsAnalysis extends RankingAnalysis {
 	@Override
 	protected boolean comesBefore(QuestionStats q1, QuestionStats q2) {
 		
-		return (q1.getTimesTested()-q1.getTimesCorrect()) > (q2.getTimesTested()-q2.getTimesCorrect());
+		return q1.getTimesIncorrect() > q2.getTimesIncorrect();
 	}
 	
 

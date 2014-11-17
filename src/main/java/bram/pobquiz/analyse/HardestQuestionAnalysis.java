@@ -28,14 +28,10 @@ public class HardestQuestionAnalysis extends RankingAnalysis {
 	
 	@Override
 	protected boolean comesBefore(QuestionStats q1, QuestionStats q2) {
-		if (value(q1) < value(q2)) {
+		if (q1.getSaldo() < q2.getSaldo()) {
 			return true;
 		}
 		return false;
-	}
-	
-	private int value(QuestionStats q) {
-		return q.getTimesCorrect() - (q.getTimesTested()-q.getTimesCorrect());
 	}
 
 	@Override

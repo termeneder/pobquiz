@@ -33,6 +33,14 @@ public class QuestionStats {
 		return c_timesCorrect;
 	}
 	
+	public int getTimesIncorrect() {
+		return getTimesTested() - getTimesCorrect();
+	}
+	
+	public int getSaldo() {
+		return getTimesCorrect() - getTimesIncorrect();
+	}
+	
 	public void answeredCorrectly() {
 		c_timesCorrect++;
 		c_timesTested++;
@@ -55,4 +63,6 @@ public class QuestionStats {
 	public int hashCode() {
 		return c_question.hashCode();
 	}
+
+
 }
