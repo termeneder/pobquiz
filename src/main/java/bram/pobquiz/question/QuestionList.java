@@ -18,7 +18,7 @@ public class QuestionList implements Iterable<QuestionStats> {
 	@XmlElement(name = "QuestionStats")
 	private List<QuestionStats> c_questionStatList;
 
-	private QuestionList() {
+	public QuestionList() {
 		c_questionStatList = new ArrayList<QuestionStats>();
 	}
 	
@@ -27,6 +27,11 @@ public class QuestionList implements Iterable<QuestionStats> {
 			QuestionStats newQs = new QuestionStats(question, 0, 0);
 			c_questionStatList.add(newQs);
 		}
+	}
+	
+	public void removeQuestion(QuestionStats question) {
+		c_questionStatList.remove(question);
+		
 	}
 	
 	private boolean isAlreadyAdded(Question question) {
@@ -101,6 +106,8 @@ public class QuestionList implements Iterable<QuestionStats> {
 		File file = new File(SOURCE);
 		return file;
 	}
+
+
 
 
 

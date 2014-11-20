@@ -1,10 +1,12 @@
 package bram.pobquiz.quiz;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import bram.pobquiz.inputter.Inputter;
 import bram.pobquiz.question.QuestionList;
 import bram.pobquiz.question.QuestionStats;
+import bram.pobquiz.quiz.questionHandler.AskedQuestionHandler;
 import bram.pobquiz.quiz.selector.QuestionSelector;
 
 public class Quiz {
@@ -12,14 +14,19 @@ public class Quiz {
 	private QuestionList c_list;
 	private QuestionSelector c_selector;
 	private Inputter c_inputter;
-	
 	private SessionInfo c_sessionInfo;
+	
+	private boolean c_saveListAfterQuestion; 
+	
+	private List<AskedQuestionHandler> c_askedQuestionHandler; 
 	
 	public Quiz(QuestionList list, QuestionSelector selector, Inputter inputter) {
 		c_list = list;
 		c_selector = selector;
 		c_inputter = inputter;
 		c_sessionInfo = new SessionInfo();
+		c_saveListAfterQuestion = true;
+		c_askedQuestionHandler = new ArrayList<AskedQuestionHandler>();
 	}
 	
 	public void askQuestion() {
@@ -27,10 +34,19 @@ public class Quiz {
 		printQuestion(question);
 		List<String> answer = getAnswer();
 		handleAnswer(question, answer);
-		c_list.save();
+		if (c_saveListAfterQuestion) { // TODO Move to questionhandler
+			c_list.save(); 
+		}
+		
 	}
 
-
+	public void addAskedQuestionHandler(AskedQuestionHandler handler) {
+		c_askedQuestionHandler.add(handler);
+	}
+	
+	public void setSaveListAfterQuestion(boolean newSetting) {
+		c_saveListAfterQuestion = newSetting;
+	}
 
 	private void printQuestion(QuestionStats question) {
 		System.out.println(question.getQuestion().getQuestion());// TODO MOVE TO OUTPUTTER
@@ -50,9 +66,14 @@ public class Quiz {
 			System.out.println("Correct!");// TODO MOVE TO OUTPUTTER
 			question.answeredCorrectly();
 			c_sessionInfo.addCorrectAnswer();
+			for (AskedQuestionHandler handler : c_askedQuestionHandler) {
+				handler.handleCorrectQuestion(question);
+			}
 		} else {
 			handleIncorrectAnswer(question, answer);
-			
+			for (AskedQuestionHandler handler : c_askedQuestionHandler) {
+				handler.handleIncorrectQuestion(question);
+			}
 		}
 		System.out.println("Question statistics: " + question.getTimesCorrect() + "/" + question.getTimesTested() + "\t\t\t\t\t(Session statistics: " 
 					+ c_sessionInfo.getQuestionAnsweredCorrectly() + "/" + c_sessionInfo.getQuestionsAsked() + ")");
@@ -83,5 +104,9 @@ public class Quiz {
 
 	public SessionInfo getSessionInfo() {
 		return c_sessionInfo;
+	}
+	
+	public QuestionList getQuestionList() {
+		return c_list;
 	}
 }

@@ -1,4 +1,6 @@
-package bram.pobquiz.quiz;
+package bram.pobquiz.quiz.goal;
+
+import bram.pobquiz.quiz.Quiz;
 
 public class CorrectAnswersGoal implements QuizGoal {
 
@@ -10,8 +12,13 @@ public class CorrectAnswersGoal implements QuizGoal {
 	
 	@Override
 	public boolean goalReached(Quiz quiz) {
-		// TODO Auto-generated method stub
 		return quiz.getSessionInfo().getQuestionAnsweredCorrectly() >= c_goal;
+	}
+
+	@Override
+	public String getProgress(Quiz quiz) {
+		
+		return quiz.getSessionInfo().getQuestionAnsweredCorrectly() + "/" + c_goal + " (total " + quiz.getSessionInfo().getQuestionsAsked()+  ")";
 	}
 
 }
