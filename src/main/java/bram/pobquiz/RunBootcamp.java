@@ -8,8 +8,8 @@ import bram.pobquiz.inputter.CLIInputter;
 import bram.pobquiz.inputter.Inputter;
 import bram.pobquiz.question.QuestionList;
 import bram.pobquiz.question.QuestionStats;
-import bram.pobquiz.question.filter.FilterLeastCorrect;
 import bram.pobquiz.question.filter.FilterRandom;
+import bram.pobquiz.question.filter.FilterWorstSaldo;
 import bram.pobquiz.quiz.Quiz;
 import bram.pobquiz.quiz.goal.NoQuestionsLeftGoal;
 import bram.pobquiz.quiz.goal.QuizGoal;
@@ -26,7 +26,7 @@ public class RunBootcamp {
 		System.out.println("Bootcamp");
 		QuestionList.setSource(configs.filename);
 		QuestionList list = QuestionList.getInstance();
-		QuestionList filteredList = new FilterLeastCorrect().filter(list);
+		QuestionList filteredList = new FilterWorstSaldo().filter(list);
 		if (configs.max != null) {
 			filteredList = new FilterRandom(configs.max).filter(filteredList);
 		}
