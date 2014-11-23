@@ -17,8 +17,7 @@ public class NoQuestionsLeftGoal implements QuizGoal {
 
 	@Override
 	public String getProgress(Quiz quiz) {
-		
-		return quiz.getQuestionList().size() + "/" + c_initialQuestions;
+		return (c_initialQuestions - quiz.getQuestionList().size()) + "/" + c_initialQuestions;
 	}
 	
 	

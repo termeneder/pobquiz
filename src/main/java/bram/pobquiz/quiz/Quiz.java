@@ -75,7 +75,11 @@ public class Quiz {
 				handler.handleIncorrectQuestion(question);
 			}
 		}
-		System.out.println("Question statistics: " + question.getTimesCorrect() + "/" + question.getTimesTested() + "\t\t\t\t\t(Session statistics: " 
+		String saldoString = Integer.toString(question.getSaldo());
+		if (question.getSaldo() > 0) {
+			saldoString = "+" + saldoString;
+		}
+		System.out.println("Question statistics: " + question.getTimesCorrect() + "/" + question.getTimesTested() + " ("+saldoString+")\t\t\t\t\t(Session statistics: " 
 					+ c_sessionInfo.getQuestionAnsweredCorrectly() + "/" + c_sessionInfo.getQuestionsAsked() + ")");
 	}
 	

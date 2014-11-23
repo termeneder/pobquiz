@@ -26,11 +26,16 @@ public class RunBootcamp {
 		System.out.println("Bootcamp");
 		QuestionList.setSource(configs.filename);
 		QuestionList list = QuestionList.getInstance();
-		QuestionList filteredList = new FilterWorstSaldo().filter(list);
-		if (configs.max != null) {
-			filteredList = new FilterRandom(configs.max).filter(filteredList);
+		QuestionList worstList = new FilterWorstSaldo().filter(list);
+		QuestionList filteredList;
+		System.out.println(worstList.size() + " questions have been answered correctly " + getLeastCorrect(list) + " times.");
+		if (configs.max != null && configs.max < worstList.size()) {
+			filteredList = new FilterRandom(configs.max).filter(worstList);
+			System.out.println(filteredList.size() + " selected for bootcamp.");
+		} else {
+			filteredList = worstList;
 		}
-		System.out.println(filteredList.size() + " questions have been answered correctly " + getLeastCorrect(list) + " times.");
+		
 		QuestionSelector baseSelector = new RandomQuestionSelector();
 		Inputter inputter = new CLIInputter();
 		Quiz quiz = new Quiz(filteredList, baseSelector, inputter);
