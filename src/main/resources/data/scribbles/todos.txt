@@ -4,7 +4,8 @@ Bugs
 
 Functionaliteiten
 
-	repeat incorrect answer
+	askedquestionhandler : remove above n saldo
+	streak for individual question
 
 Vragen
 
