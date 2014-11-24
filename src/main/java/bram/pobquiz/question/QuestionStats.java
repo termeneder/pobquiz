@@ -10,11 +10,14 @@ public class QuestionStats {
 	private int c_timesTested;
 	@XmlElement (name = "TimesCorrect")
 	private int c_timesCorrect;
+	@XmlElement (name = "Streak")
+	private int c_streak;
 	
-	public QuestionStats(Question question, int timesTested, int timesCorrect) {
+	public QuestionStats(Question question, int timesTested, int timesCorrect, int streak) {
 		c_question = question;
 		c_timesTested = timesTested;
 		c_timesCorrect = timesCorrect;
+		c_streak = streak;
 	}
 	
 	public QuestionStats() {
@@ -44,10 +47,16 @@ public class QuestionStats {
 	public void answeredCorrectly() {
 		c_timesCorrect++;
 		c_timesTested++;
+		c_streak = Math.max(c_streak + 1, 1);
 	}
 	
 	public void answeredIncorrectly() {
 		c_timesTested++;
+		c_streak = Math.min(c_streak - 1, -1);
+	}
+	
+	public int getStreak() {
+		return c_streak;
 	}
 	
 	@Override

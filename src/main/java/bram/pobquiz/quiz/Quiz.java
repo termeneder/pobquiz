@@ -79,7 +79,12 @@ public class Quiz {
 		if (question.getSaldo() > 0) {
 			saldoString = "+" + saldoString;
 		}
-		System.out.println("Question statistics: " + question.getTimesCorrect() + "/" + question.getTimesTested() + " ("+saldoString+")\t\t\t\t\t(Session statistics: " 
+		String streakString = Integer.toString(question.getStreak());
+		if (question.getStreak() > 0) {
+			streakString = "+" + streakString;
+		}
+		System.out.println("Question statistics: " + question.getTimesCorrect() + "/" + question.getTimesTested() 
+					+ " ("+saldoString+")\t\t(Streak: "+streakString+")\t\t\t(Session statistics: " 
 					+ c_sessionInfo.getQuestionAnsweredCorrectly() + "/" + c_sessionInfo.getQuestionsAsked() + ")");
 	}
 	

@@ -31,16 +31,16 @@ public class NumberToPresidentQuestionGenerator {
 		QuestionFactory factory = new QuestionFactory();
 		switch (president.number) {
 		case 1 : 
-			factory.withQuestion("Who whas the 1st US president?");
+			factory.withQuestion("Who was the 1st US president?");
 			break;
 		case 2 : 
-			factory.withQuestion("Who whas the 2nd US president?");
+			factory.withQuestion("Who was the 2nd US president?");
 			break;
 		case 3 : 
-			factory.withQuestion("Who whas the 3rd US president?");
+			factory.withQuestion("Who was the 3rd US president?");
 			break;
 		default : 
-			factory.withQuestion("Who whas the "+ president.number + "th US president?");
+			factory.withQuestion("Who was the "+ president.number + "th US president?");
 			break;
 		}
 

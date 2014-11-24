@@ -13,7 +13,7 @@ public class DistributionAnalysis implements Analysis {
 
 	private static final int LEFT_PAD_DISTANCE = 50;
 	
-	public enum Group {ASKED, CORRECT, INCORRECT, SALDO};
+	public enum Group {ASKED, CORRECT, INCORRECT, SALDO, STREAK};
 	
 	private final Group group;
 	
@@ -59,6 +59,9 @@ public class DistributionAnalysis implements Analysis {
 				break;
 			case SALDO : 
 				data.add(stat.getSaldo());
+				break;
+			case STREAK : 
+				data.add(stat.getStreak());
 				break;
 			}
 		}

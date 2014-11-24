@@ -24,7 +24,7 @@ public class QuestionList implements Iterable<QuestionStats> {
 	
 	public void addQuestion(Question question) {
 		if (!isAlreadyAdded(question)) {
-			QuestionStats newQs = new QuestionStats(question, 0, 0);
+			QuestionStats newQs = new QuestionStats(question, 0, 0, 0);
 			c_questionStatList.add(newQs);
 		}
 	}

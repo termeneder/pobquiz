@@ -13,7 +13,7 @@ import bram.pobquiz.question.filter.FilterWorstSaldo;
 import bram.pobquiz.quiz.Quiz;
 import bram.pobquiz.quiz.goal.NoQuestionsLeftGoal;
 import bram.pobquiz.quiz.goal.QuizGoal;
-import bram.pobquiz.quiz.questionHandler.RemoveCorrectQuestion;
+import bram.pobquiz.quiz.questionHandler.RemoveAboveSaldoQuestion;
 import bram.pobquiz.quiz.selector.QuestionSelector;
 import bram.pobquiz.quiz.selector.RandomQuestionSelector;
 
@@ -41,7 +41,7 @@ public class RunBootcamp {
 		Quiz quiz = new Quiz(filteredList, baseSelector, inputter);
 		quiz.setSaveListAfterQuestion(false);
 		
-		quiz.addAskedQuestionHandler(new RemoveCorrectQuestion(quiz, configs.correctGoal));
+		quiz.addAskedQuestionHandler(new RemoveAboveSaldoQuestion(quiz, configs.correctGoal));
 		QuizGoal goal = new NoQuestionsLeftGoal(filteredList.size());
 		
 		while (!goal.goalReached(quiz)) {
