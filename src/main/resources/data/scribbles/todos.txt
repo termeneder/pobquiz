@@ -4,8 +4,8 @@ Bugs
 
 Functionaliteiten
 
-	askedquestionhandler : remove above n saldo
-	streak for individual question
+	quizvariant: leer de bijna's (bijna positieve saldo bv.)
+	quizvariant: leer alle negative streaks
 
 Vragen
 

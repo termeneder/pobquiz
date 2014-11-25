@@ -19,7 +19,7 @@ public class StreakAnalysis implements Analysis {
 	public String analyse(QuestionList list) {
 		String str = "Streak Info: \n\n";
 		
-		str += StringUtils.leftPad("Possitive/negative streaks: ", LEFT_PAD_DISTANCE) + " " + getStreakAbove(list, 0) + "/" + getStreakBelow(list, 0) + "\n";
+		str += StringUtils.leftPad("Positive/negative streaks: ", LEFT_PAD_DISTANCE) + " " + getStreakAbove(list, 0) + "/" + getStreakBelow(list, 0) + "\n";
 		str += StringUtils.leftPad("Streaks of " + c_goodStreak + " and above: ", LEFT_PAD_DISTANCE) + " " + getStreakAbove(list, c_goodStreak-1) + "\n";
 		return str;
 	}
