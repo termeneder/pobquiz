@@ -1,6 +1,7 @@
 Bugs
 
 	check capital Sri Lanka
+	who whas tpyo (o.a. Who whas US president from x to y?)
 
 Functionaliteiten
 
