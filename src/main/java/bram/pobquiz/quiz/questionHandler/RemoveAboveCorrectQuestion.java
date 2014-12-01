@@ -3,12 +3,12 @@ package bram.pobquiz.quiz.questionHandler;
 import bram.pobquiz.question.QuestionStats;
 import bram.pobquiz.quiz.Quiz;
 
-public class RemoveCorrectQuestion implements AskedQuestionHandler {
+public class RemoveAboveCorrectQuestion implements AskedQuestionHandler {
 
 	private Quiz c_quiz;
 	private int c_correctGoal;
 	
-	public RemoveCorrectQuestion(Quiz quiz, int correctGoal) {
+	public RemoveAboveCorrectQuestion(Quiz quiz, int correctGoal) {
 		c_quiz = quiz;
 		c_correctGoal = correctGoal;
 	}

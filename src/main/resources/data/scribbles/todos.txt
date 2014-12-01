@@ -6,7 +6,11 @@ Bugs
 Functionaliteiten
 
 	quizvariant: leer de bijna's (bijna positieve saldo bv.)
-	quizvariant: leer alle negative streaks
+	
+Refactor	
+	
+	verander QuestionList, is geen singleton meer
+	Verander Quiz: verplaats c_saveListAfterQuestion naar eigen class 
 
 Vragen
 
