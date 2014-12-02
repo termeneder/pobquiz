@@ -88,3 +88,9 @@ Vragen
 		Artiest + Album -> Jaar
 		Artiest + Jaar -> Album
 		Album + Jaar -> Artiest
+		
+	Beroemde personen
+		componisten
+		n most influential people ever
+	
+	Engelse koningshuizen
