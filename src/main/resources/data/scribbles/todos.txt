@@ -39,6 +39,8 @@ Vragen
 		Continent + beginletter -> landen
 		! land -> omringende landen
 		! omringende landen -> land
+		oude namen -> nieuwe namen
+		nieuwe namen -> oude namen
 	
 	Schrijvers (lijst van boeken van http://thegreatestbooks.org/)
 		! Boek -> Schrijver
