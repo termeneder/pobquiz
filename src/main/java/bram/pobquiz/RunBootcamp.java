@@ -9,10 +9,12 @@ import bram.pobquiz.inputter.Inputter;
 import bram.pobquiz.question.QuestionList;
 import bram.pobquiz.question.QuestionStats;
 import bram.pobquiz.question.filter.FilterRandom;
+import bram.pobquiz.question.filter.FilterStreakBelow;
 import bram.pobquiz.question.filter.FilterWorstSaldo;
 import bram.pobquiz.quiz.Quiz;
 import bram.pobquiz.quiz.goal.NoQuestionsLeftGoal;
 import bram.pobquiz.quiz.goal.QuizGoal;
+import bram.pobquiz.quiz.questionHandler.RemoveAboveCorrectQuestion;
 import bram.pobquiz.quiz.questionHandler.RemoveAboveSaldoQuestion;
 import bram.pobquiz.quiz.selector.QuestionSelector;
 import bram.pobquiz.quiz.selector.RandomQuestionSelector;
@@ -24,25 +26,17 @@ public class RunBootcamp {
 	public static void main(String[] args) throws CmdLineException {
 		Config configs = new Config(args);
 		System.out.println("Bootcamp");
-		QuestionList.setSource(configs.filename);
-		QuestionList list = QuestionList.getInstance();
-		QuestionList worstList = new FilterWorstSaldo().filter(list);
-		QuestionList filteredList;
-		System.out.println(worstList.size() + " questions have been answered correctly " + getLeastCorrect(list) + " times.");
-		if (configs.max != null && configs.max < worstList.size()) {
-			filteredList = new FilterRandom(configs.max).filter(worstList);
-			System.out.println(filteredList.size() + " selected for bootcamp.");
-		} else {
-			filteredList = worstList;
-		}
+		
+		QuestionList list = getList(configs);
 		
 		QuestionSelector baseSelector = new RandomQuestionSelector();
 		Inputter inputter = new CLIInputter();
-		Quiz quiz = new Quiz(filteredList, baseSelector, inputter);
+		Quiz quiz = new Quiz(list, baseSelector, inputter);
 		quiz.setSaveListAfterQuestion(false);
 		
-		quiz.addAskedQuestionHandler(new RemoveAboveSaldoQuestion(quiz, configs.correctGoal));
-		QuizGoal goal = new NoQuestionsLeftGoal(filteredList.size());
+		quiz = setAskedQuestionHandler(quiz, configs);
+		
+		QuizGoal goal = new NoQuestionsLeftGoal(list.size());
 		
 		while (!goal.goalReached(quiz)) {
 			System.out.println();
@@ -52,6 +46,48 @@ public class RunBootcamp {
 		System.out.println("\nGoal reached!\n");
 		System.out.println(quiz.getSessionInfo()); 
 
+	}
+	
+
+
+	private static Quiz setAskedQuestionHandler(Quiz quiz, Config configs) {
+		switch (configs.goalType) {
+		case CORRECT:
+			quiz.addAskedQuestionHandler(new RemoveAboveCorrectQuestion(quiz, configs.correctGoal));
+		case SALDO: 
+		default:
+			quiz.addAskedQuestionHandler(new RemoveAboveSaldoQuestion(quiz, configs.correctGoal));
+			break;
+		}
+		return quiz;
+	}
+
+
+
+	private static QuestionList getList(Config configs) {
+		QuestionList.setSource(configs.filename);
+		QuestionList list = QuestionList.getInstance();
+		QuestionList worstList;
+		switch(configs.selectOptions) {
+		case NEGATIVE_STREAK:
+			worstList = new FilterStreakBelow(1).filter(list); 
+			System.out.println(worstList.size() + " questions have a negative streak.");
+			break;
+		case LOWEST_SALDO: 
+		default:	
+			worstList = new FilterWorstSaldo().filter(list);
+			System.out.println(worstList.size() + " questions have been answered correctly " + getLeastCorrect(list) + " times.");
+			break;
+		}
+		QuestionList filteredList;
+		
+		if (configs.max != null && configs.max < worstList.size()) {
+			filteredList = new FilterRandom(configs.max).filter(worstList);
+			System.out.println(filteredList.size() + " selected for bootcamp.");
+		} else {
+			filteredList = worstList;
+		}
+		return filteredList;
 	}
 
 	private static class Config {
@@ -65,6 +101,16 @@ public class RunBootcamp {
 		
 		@Option(name="-correctgoal")
 		int correctGoal = 1;
+		
+		enum GoalType {SALDO, CORRECT}
+		
+		@Option(name="-goal") 
+		GoalType goalType = GoalType.SALDO;
+		
+		enum SelectOptions {LOWEST_SALDO, NEGATIVE_STREAK}
+		
+		@Option(name="-select")
+		SelectOptions selectOptions = SelectOptions.LOWEST_SALDO;
 		
 		Config(String[] args) throws CmdLineException {
 			CmdLineParser parser = new CmdLineParser(this);

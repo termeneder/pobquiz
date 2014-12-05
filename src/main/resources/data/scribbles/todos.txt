@@ -6,7 +6,11 @@ Bugs
 Functionaliteiten
 
 	quizvariant: leer de bijna's (bijna positieve saldo bv.)
-	quizvariant: leer alle negative streaks
+	
+Refactor	
+	
+	verander QuestionList, is geen singleton meer
+	Verander Quiz: verplaats c_saveListAfterQuestion naar eigen class 
 
 Vragen
 
@@ -35,6 +39,8 @@ Vragen
 		Continent + beginletter -> landen
 		! land -> omringende landen
 		! omringende landen -> land
+		oude namen -> nieuwe namen
+		nieuwe namen -> oude namen
 	
 	Schrijvers (lijst van boeken van http://thegreatestbooks.org/)
 		! Boek -> Schrijver
@@ -84,3 +90,9 @@ Vragen
 		Artiest + Album -> Jaar
 		Artiest + Jaar -> Album
 		Album + Jaar -> Artiest
+		
+	Beroemde personen
+		componisten
+		n most influential people ever
+	
+	Engelse koningshuizen
