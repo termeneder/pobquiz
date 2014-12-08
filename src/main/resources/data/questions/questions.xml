@@ -9478,9 +9478,9 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>13</TimesTested>
-        <TimesCorrect>3</TimesCorrect>
-        <Streak>-4</Streak>
+        <TimesTested>14</TimesTested>
+        <TimesCorrect>4</TimesCorrect>
+        <Streak>1</Streak>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -13680,9 +13680,9 @@
             <Category>Movie</Category>
             <Category>Movie to year</Category>
         </Question>
-        <TimesTested>11</TimesTested>
+        <TimesTested>12</TimesTested>
         <TimesCorrect>0</TimesCorrect>
-        <Streak>-11</Streak>
+        <Streak>-12</Streak>
     </QuestionStats>
     <QuestionStats>
         <Question>
@@ -22212,9 +22212,9 @@
             <Category>Countries of the world</Category>
             <Category>Capital to country</Category>
         </Question>
-        <TimesTested>9</TimesTested>
-        <TimesCorrect>9</TimesCorrect>
-        <Streak>9</Streak>
+        <TimesTested>10</TimesTested>
+        <TimesCorrect>10</TimesCorrect>
+        <Streak>10</Streak>
     </QuestionStats>
     <QuestionStats>
         <Question>
