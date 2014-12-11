@@ -5,48 +5,85 @@
         <name>Andorra</name>
         <capital>Andorra la Vella</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>France</borderingCountry>
+            <borderingCountry>Spain</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>AE</abbreviation>
         <name>United Arab Emirates</name>
         <capital>Abu Dhabi</capital>
         <continent>Asia</continent>
+        <borderingCountries>
+            <borderingCountry>Oman</borderingCountry>
+            <borderingCountry>Qatar</borderingCountry>
+            <borderingCountry>Saudi Arabia</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>AF</abbreviation>
         <name>Afghanistan</name>
         <capital>Kabul</capital>
         <continent>Asia</continent>
+        <borderingCountries>
+            <borderingCountry>China</borderingCountry>
+            <borderingCountry>Iran</borderingCountry>
+            <borderingCountry>Pakistan</borderingCountry>
+            <borderingCountry>Tajikistan</borderingCountry>
+            <borderingCountry>Turkmenistan</borderingCountry>
+            <borderingCountry>Uzbekistan</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>AG</abbreviation>
         <name>Antigua and Barbuda</name>
         <capital>St. John's</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>AI</abbreviation>
         <name>Anguilla</name>
         <capital>The Valley</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>AL</abbreviation>
         <name>Albania</name>
         <capital>Tirana</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Greece</borderingCountry>
+            <borderingCountry>Kosovo</borderingCountry>
+            <borderingCountry>Macedonia</borderingCountry>
+            <borderingCountry>Montenegro</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>AM</abbreviation>
         <name>Armenia</name>
         <capital>Yerevan</capital>
         <continent>Asia</continent>
+        <borderingCountries>
+            <borderingCountry>Azerbaijan</borderingCountry>
+            <borderingCountry>Georgia</borderingCountry>
+            <borderingCountry>Iran</borderingCountry>
+            <borderingCountry>Turkey</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>AO</abbreviation>
         <name>Angola</name>
         <capital>Luanda</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Democratic Republic of the Congo</borderingCountry>
+            <borderingCountry>Republic of the Congo</borderingCountry>
+            <borderingCountry>Namibia</borderingCountry>
+            <borderingCountry>Zambia</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>AQ</abbreviation>
@@ -59,30 +96,50 @@
         <name>Argentina</name>
         <capital>Buenos Aires</capital>
         <continent>South America</continent>
+        <borderingCountries>
+            <borderingCountry>Bolivia</borderingCountry>
+            <borderingCountry>Brazil</borderingCountry>
+            <borderingCountry>Chile</borderingCountry>
+            <borderingCountry>Paraguay</borderingCountry>
+            <borderingCountry>Uruguay</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>AS</abbreviation>
         <name>American Samoa</name>
         <capital>Pago Pago</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>AT</abbreviation>
         <name>Austria</name>
         <capital>Vienna</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Czech Republic</borderingCountry>
+            <borderingCountry>Germany</borderingCountry>
+            <borderingCountry>Hungary</borderingCountry>
+            <borderingCountry>Italy</borderingCountry>
+            <borderingCountry>Liechtenstein</borderingCountry>
+            <borderingCountry>Slovakia</borderingCountry>
+            <borderingCountry>Slovenia</borderingCountry>
+            <borderingCountry>Switzerland</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>AU</abbreviation>
         <name>Australia</name>
         <capital>Canberra</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>AW</abbreviation>
         <name>Aruba</name>
         <capital>Oranjestad</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>AX</abbreviation>
@@ -95,6 +152,13 @@
         <name>Azerbaijan</name>
         <capital>Baku</capital>
         <continent>Asia</continent>
+        <borderingCountries>
+            <borderingCountry>Armenia</borderingCountry>
+            <borderingCountry>Georgia</borderingCountry>
+            <borderingCountry>Iran</borderingCountry>
+            <borderingCountry>Russia</borderingCountry>
+            <borderingCountry>Turkey</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>BA</abbreviation>
