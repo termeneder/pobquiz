@@ -1,9 +1,11 @@
 Bugs
 
-	check capital Sri Lanka
+	check capital Sri Lanka/South Africa/South Georgia and the South Sandwich Islands
 	who whas tpyo (o.a. Who whas US president from x to y?)
-	check antartica/Aland
-
+	check antartica/Aland/Bonaire/
+	check spelling Curacao
+	check Akrotiri and Dhekelia/Gaza Strip (Palestinian territories)
+	
 Functionaliteiten
 
 	quizvariant: leer de bijna's (bijna positieve saldo bv.)
@@ -40,8 +42,11 @@ Vragen
 		Continent + beginletter -> landen
 		! land -> omringende landen (http://en.wikipedia.org/wiki/List_of_countries_and_territories_by_land_borders)
 		! omringende landen -> land
+		landen -> territories
+		! territory -> land
 		oude namen -> nieuwe namen
 		nieuwe namen -> oude namen
+		alternatieve namen -> alternatieve namen
 	
 	Schrijvers (lijst van boeken van http://thegreatestbooks.org/)
 		! Boek -> Schrijver

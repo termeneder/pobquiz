@@ -165,78 +165,133 @@
         <name>Bosnia and Herzegovina</name>
         <capital>Sarajevo</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Croatia</borderingCountry>
+            <borderingCountry>Montenegro</borderingCountry>
+            <borderingCountry>Serbia</borderingCountry>
+        </borderingCountries>        
     </country>
     <country>
         <abbreviation>BB</abbreviation>
         <name>Barbados</name>
         <capital>Bridgetown</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>BD</abbreviation>
         <name>Bangladesh</name>
         <capital>Dhaka</capital>
         <continent>Asia</continent>
+        <borderingCountries>
+            <borderingCountry>Burma</borderingCountry>
+            <borderingCountry>India</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>BE</abbreviation>
         <name>Belgium</name>
         <capital>Brussels</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>France</borderingCountry>
+            <borderingCountry>Germany</borderingCountry>
+            <borderingCountry>Luxembourg</borderingCountry>
+            <borderingCountry>Netherlands</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>BF</abbreviation>
         <name>Burkina Faso</name>
         <capital>Ouagadougou</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Benin</borderingCountry>
+            <borderingCountry>Ivory Coast</borderingCountry>
+            <borderingCountry>Ghana</borderingCountry>
+            <borderingCountry>Mali</borderingCountry>
+            <borderingCountry>Niger</borderingCountry>
+            <borderingCountry>Togo</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>BG</abbreviation>
         <name>Bulgaria</name>
         <capital>Sofia</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Greece</borderingCountry>
+            <borderingCountry>Macedonia</borderingCountry>
+            <borderingCountry>Romania</borderingCountry>
+            <borderingCountry>Serbia</borderingCountry>
+            <borderingCountry>Turkey</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>BH</abbreviation>
         <name>Bahrain</name>
         <capital>Manama</capital>
         <continent>Asia</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>BI</abbreviation>
         <name>Burundi</name>
         <capital>Bujumbura</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Democratic Republic of the Congo</borderingCountry>
+            <borderingCountry>Rwanda</borderingCountry>
+            <borderingCountry>Tanzania</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>BJ</abbreviation>
         <name>Benin</name>
         <capital>Porto-Novo</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Burkina Faso</borderingCountry>
+            <borderingCountry>Niger</borderingCountry>
+            <borderingCountry>Nigeria</borderingCountry>
+            <borderingCountry>Togo</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>BL</abbreviation>
         <name>Saint Barthélemy</name>
         <capital>Gustavia</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>BM</abbreviation>
         <name>Bermuda</name>
         <capital>Hamilton</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>BN</abbreviation>
         <name>Brunei</name>
         <capital>Bandar Seri Begawan</capital>
         <continent>Asia</continent>
+        <borderingCountries>
+            <borderingCountry>Malaysia</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>BO</abbreviation>
         <name>Bolivia</name>
         <capital>Sucre</capital>
         <continent>South America</continent>
+        <borderingCountries>
+            <borderingCountry>Argentina</borderingCountry>
+            <borderingCountry>Brazil</borderingCountry>
+            <borderingCountry>Chile</borderingCountry>
+            <borderingCountry>Paraguay</borderingCountry>
+            <borderingCountry>Peru</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>BQ</abbreviation>
@@ -249,504 +304,885 @@
         <name>Brazil</name>
         <capital>Brasília</capital>
         <continent>South America</continent>
+        <borderingCountries>
+            <borderingCountry>Argentina</borderingCountry>
+            <borderingCountry>Bolivia</borderingCountry>
+            <borderingCountry>Colombia</borderingCountry>
+            <borderingCountry>French Guiana</borderingCountry>
+            <borderingCountry>Guyana</borderingCountry>
+            <borderingCountry>Paraguay</borderingCountry>
+            <borderingCountry>Peru</borderingCountry>
+            <borderingCountry>Suriname</borderingCountry>
+            <borderingCountry>Uruguay</borderingCountry>
+            <borderingCountry>Venezuela</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>BS</abbreviation>
         <name>Bahamas</name>
         <capital>Nassau</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>BT</abbreviation>
         <name>Bhutan</name>
         <capital>Thimphu</capital>
         <continent>Asia</continent>
+        <borderingCountries>
+            <borderingCountry>China</borderingCountry>
+            <borderingCountry>India</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>BV</abbreviation>
         <name>Bouvet Island</name>
         <capital/>
         <continent>Antarctica</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>BW</abbreviation>
         <name>Botswana</name>
         <capital>Gaborone</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Namibia</borderingCountry>
+            <borderingCountry>South Africa</borderingCountry>
+            <borderingCountry>Zambia</borderingCountry>
+            <borderingCountry>Zimbabwe</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>BY</abbreviation>
         <name>Belarus</name>
         <capital>Minsk</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Latvia</borderingCountry>
+            <borderingCountry>Lithuania</borderingCountry>
+            <borderingCountry>Poland</borderingCountry>
+            <borderingCountry>Russia</borderingCountry>
+            <borderingCountry>Ukraine</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>BZ</abbreviation>
         <name>Belize</name>
         <capital>Belmopan</capital>
         <continent>North America</continent>
+        <borderingCountries>
+            <borderingCountry>Guatemala</borderingCountry>
+            <borderingCountry>Mexico</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>CA</abbreviation>
         <name>Canada</name>
         <capital>Ottawa</capital>
         <continent>North America</continent>
+        <borderingCountries>
+            <borderingCountry>United States</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>CC</abbreviation>
         <name>Cocos [Keeling] Islands</name>
         <capital>West Island</capital>
         <continent>Asia</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>CD</abbreviation>
         <name>Democratic Republic of the Congo</name>
         <capital>Kinshasa</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Angola</borderingCountry>
+            <borderingCountry>Burundi</borderingCountry>
+            <borderingCountry>Central African Republic</borderingCountry>
+            <borderingCountry>Republic of the Congo</borderingCountry>
+            <borderingCountry>Rwanda</borderingCountry>
+            <borderingCountry>South Sudan</borderingCountry>
+            <borderingCountry>Tanzania</borderingCountry>
+            <borderingCountry>Uganda</borderingCountry>
+            <borderingCountry>Zambia</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>CF</abbreviation>
         <name>Central African Republic</name>
         <capital>Bangui</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Cameroon</borderingCountry>
+            <borderingCountry>Chad</borderingCountry>
+            <borderingCountry>Democratic Republic of the Congo</borderingCountry>
+            <borderingCountry>Republic of the Congo</borderingCountry>
+            <borderingCountry>South Sudan</borderingCountry>
+            <borderingCountry>Sudan</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>CG</abbreviation>
         <name>Republic of the Congo</name>
         <capital>Brazzaville</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Angola</borderingCountry>
+            <borderingCountry>Cameroon</borderingCountry>
+            <borderingCountry>Central African Republic</borderingCountry>
+            <borderingCountry>Democratic Republic of the Congo</borderingCountry>
+            <borderingCountry>Gabon</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>CH</abbreviation>
         <name>Switzerland</name>
         <capital>Berne</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Austria</borderingCountry>
+            <borderingCountry>France</borderingCountry>
+            <borderingCountry>Italy</borderingCountry>
+            <borderingCountry>Liechtenstein</borderingCountry>
+            <borderingCountry>Germany</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>CI</abbreviation>
         <name>Ivory Coast</name>
         <capital>Yamoussoukro</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Burkina Faso</borderingCountry>
+            <borderingCountry>Ghana</borderingCountry>
+            <borderingCountry>Guinea</borderingCountry>
+            <borderingCountry>Liberia</borderingCountry>
+            <borderingCountry>Mali</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>CK</abbreviation>
         <name>Cook Islands</name>
         <capital>Avarua</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>CL</abbreviation>
         <name>Chile</name>
         <capital>Santiago</capital>
         <continent>South America</continent>
+        <borderingCountries>
+            <borderingCountry>Argentina</borderingCountry>
+            <borderingCountry>Bolivia</borderingCountry>
+            <borderingCountry>Peru</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>CM</abbreviation>
         <name>Cameroon</name>
         <capital>Yaoundé</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Central African Republic</borderingCountry>
+            <borderingCountry>Chad</borderingCountry>
+            <borderingCountry>Republic of the Congo</borderingCountry>
+            <borderingCountry>Equatorial Guinea</borderingCountry>
+            <borderingCountry>Gabon</borderingCountry>
+            <borderingCountry>Nigeria</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>CN</abbreviation>
         <name>China</name>
         <capital>Beijing</capital>
         <continent>Asia</continent>
+        <borderingCountries>
+            <borderingCountry>Afghanistan</borderingCountry>
+            <borderingCountry>Bhutan</borderingCountry>
+            <borderingCountry>Myanmar [Burma]</borderingCountry>
+            <borderingCountry>Hong Kong</borderingCountry>
+            <borderingCountry>India</borderingCountry>
+            <borderingCountry>Kazakhstan</borderingCountry>
+            <borderingCountry>North Korea</borderingCountry>
+            <borderingCountry>Kyrgyzstan</borderingCountry>
+            <borderingCountry>Laos</borderingCountry>
+            <borderingCountry>Macao</borderingCountry>
+            <borderingCountry>Mongolia</borderingCountry>
+            <borderingCountry>Nepal</borderingCountry>
+            <borderingCountry>Pakistan</borderingCountry>
+            <borderingCountry>Russia</borderingCountry>
+            <borderingCountry>Tajikistan</borderingCountry>
+            <borderingCountry>Vietnam</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>CO</abbreviation>
         <name>Colombia</name>
         <capital>Bogotá</capital>
         <continent>South America</continent>
+        <borderingCountries>
+            <borderingCountry>Brazil</borderingCountry>
+            <borderingCountry>Ecuador</borderingCountry>
+            <borderingCountry>Panama</borderingCountry>
+            <borderingCountry>Peru</borderingCountry>
+            <borderingCountry>Venezuela</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>CR</abbreviation>
         <name>Costa Rica</name>
         <capital>San José</capital>
         <continent>North America</continent>
+        <borderingCountries>
+            <borderingCountry>Nicaragua</borderingCountry>
+            <borderingCountry>Panama</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>CU</abbreviation>
         <name>Cuba</name>
         <capital>Havana</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>CV</abbreviation>
         <name>Cape Verde</name>
         <capital>Praia</capital>
         <continent>Africa</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>CW</abbreviation>
         <name>Curacao</name>
         <capital>Willemstad</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>CX</abbreviation>
         <name>Christmas Island</name>
         <capital>The Settlement</capital>
         <continent>Asia</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>CY</abbreviation>
         <name>Cyprus</name>
         <capital>Nicosia</capital>
         <continent>Europe</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>CZ</abbreviation>
         <name>Czech Republic</name>
         <capital>Prague</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Austria</borderingCountry>
+            <borderingCountry>Germany</borderingCountry>
+            <borderingCountry>Poland</borderingCountry>
+            <borderingCountry>Slovakia</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>DE</abbreviation>
         <name>Germany</name>
         <capital>Berlin</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Austria</borderingCountry>
+            <borderingCountry>Belgium</borderingCountry>
+            <borderingCountry>Czech Republic</borderingCountry>
+            <borderingCountry>Denmark</borderingCountry>
+            <borderingCountry>France</borderingCountry>
+            <borderingCountry>Luxembourg</borderingCountry>
+            <borderingCountry>Netherlands</borderingCountry>
+            <borderingCountry>Poland</borderingCountry>
+            <borderingCountry>Switzerland</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>DJ</abbreviation>
         <name>Djibouti</name>
         <capital>Djibouti</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Eritrea</borderingCountry>
+            <borderingCountry>Ethiopia</borderingCountry>
+            <borderingCountry>Somalia</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>DK</abbreviation>
         <name>Denmark</name>
         <capital>Copenhagen</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Germany</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>DM</abbreviation>
         <name>Dominica</name>
         <capital>Roseau</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>DO</abbreviation>
         <name>Dominican Republic</name>
         <capital>Santo Domingo</capital>
         <continent>North America</continent>
+        <borderingCountries>
+            <borderingCountry>Haiti</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>DZ</abbreviation>
         <name>Algeria</name>
         <capital>Algiers</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Libya</borderingCountry>
+            <borderingCountry>Mali</borderingCountry>
+            <borderingCountry>Mauritania</borderingCountry>
+            <borderingCountry>Morocco</borderingCountry>
+            <borderingCountry>Niger</borderingCountry>
+            <borderingCountry>Tunisia</borderingCountry>
+            <borderingCountry>Western Sahara</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>EC</abbreviation>
         <name>Ecuador</name>
         <capital>Quito</capital>
         <continent>South America</continent>
+        <borderingCountries>
+            <borderingCountry>Colombia</borderingCountry>
+            <borderingCountry>Peru</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>EE</abbreviation>
         <name>Estonia</name>
         <capital>Tallinn</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Latvia</borderingCountry>
+            <borderingCountry>Russia</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>EG</abbreviation>
         <name>Egypt</name>
         <capital>Cairo</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Israel</borderingCountry>
+            <borderingCountry>Libya</borderingCountry>
+            <borderingCountry>Palestine</borderingCountry>
+            <borderingCountry>Sudan</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>EH</abbreviation>
         <name>Western Sahara</name>
         <capital>El Aaiún</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Algeria</borderingCountry>
+            <borderingCountry>Mauritania</borderingCountry>
+            <borderingCountry>Morocco</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>ER</abbreviation>
         <name>Eritrea</name>
         <capital>Asmara</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Djibouti</borderingCountry>
+            <borderingCountry>Ethiopia</borderingCountry>
+            <borderingCountry>Sudan</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>ES</abbreviation>
         <name>Spain</name>
         <capital>Madrid</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Andorra</borderingCountry>
+            <borderingCountry>France</borderingCountry>
+            <borderingCountry>Gibraltar</borderingCountry>
+            <borderingCountry>Portugal</borderingCountry>
+            <borderingCountry>Morocco</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>ET</abbreviation>
         <name>Ethiopia</name>
         <capital>Addis Ababa</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Djibouti</borderingCountry>
+            <borderingCountry>Eritrea</borderingCountry>
+            <borderingCountry>Kenya</borderingCountry>
+            <borderingCountry>Somalia</borderingCountry>
+            <borderingCountry>South Sudan</borderingCountry>
+            <borderingCountry>Sudan</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>FI</abbreviation>
         <name>Finland</name>
         <capital>Helsinki</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Norway</borderingCountry>
+            <borderingCountry>Sweden</borderingCountry>
+            <borderingCountry>Russia</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>FJ</abbreviation>
         <name>Fiji</name>
         <capital>Suva</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>FK</abbreviation>
         <name>Falkland Islands</name>
         <capital>Stanley</capital>
         <continent>South America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>FM</abbreviation>
         <name>Micronesia</name>
         <capital>Palikir</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>FO</abbreviation>
         <name>Faroe Islands</name>
         <capital>Tórshavn</capital>
         <continent>Europe</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>FR</abbreviation>
         <name>France</name>
         <capital>Paris</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Andorra</borderingCountry>
+            <borderingCountry>Belgium</borderingCountry>
+            <borderingCountry>Germany</borderingCountry>
+            <borderingCountry>Italy</borderingCountry>
+            <borderingCountry>Luxembourg</borderingCountry>
+            <borderingCountry>Monaco</borderingCountry>
+            <borderingCountry>Spain</borderingCountry>
+            <borderingCountry>Switzerland</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>GA</abbreviation>
         <name>Gabon</name>
         <capital>Libreville</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Cameroon</borderingCountry>
+            <borderingCountry>Republic of the Congo</borderingCountry>
+            <borderingCountry>Equatorial Guinea</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>GB</abbreviation>
         <name>United Kingdom</name>
         <capital>London</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Ireland</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>GD</abbreviation>
         <name>Grenada</name>
         <capital>St. George's</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>GE</abbreviation>
         <name>Georgia</name>
         <capital>Tbilisi</capital>
         <continent>Asia</continent>
+        <borderingCountries>
+            <borderingCountry>Armenia</borderingCountry>
+            <borderingCountry>Azerbaijan</borderingCountry>
+            <borderingCountry>Russia</borderingCountry>
+            <borderingCountry>Turkey</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>GF</abbreviation>
         <name>French Guiana</name>
         <capital>Cayenne</capital>
         <continent>South America</continent>
+        <borderingCountries>
+            <borderingCountry>Brazil</borderingCountry>
+            <borderingCountry>Suriname</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>GG</abbreviation>
         <name>Guernsey</name>
         <capital>St Peter Port</capital>
         <continent>Europe</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>GH</abbreviation>
         <name>Ghana</name>
         <capital>Accra</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Burkina Faso</borderingCountry>
+            <borderingCountry>Ivory Coast</borderingCountry>
+            <borderingCountry>Togo</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>GI</abbreviation>
         <name>Gibraltar</name>
         <capital>Gibraltar</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Spain</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>GL</abbreviation>
         <name>Greenland</name>
         <capital>Nuuk</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>GM</abbreviation>
         <name>Gambia</name>
         <capital>Banjul</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Senegal</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>GN</abbreviation>
         <name>Guinea</name>
         <capital>Conakry</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Ivory Coast</borderingCountry>
+            <borderingCountry>Guinea-Bissau</borderingCountry>
+            <borderingCountry>Liberia</borderingCountry>
+            <borderingCountry>Mali</borderingCountry>
+            <borderingCountry>Senegal</borderingCountry>
+            <borderingCountry>Sierra Leone</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>GP</abbreviation>
         <name>Guadeloupe</name>
         <capital>Basse-Terre</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>GQ</abbreviation>
         <name>Equatorial Guinea</name>
         <capital>Malabo</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Cameroon</borderingCountry>
+            <borderingCountry>Gabon</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>GR</abbreviation>
         <name>Greece</name>
         <capital>Athens</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Albania</borderingCountry>
+            <borderingCountry>Bulgaria</borderingCountry>
+            <borderingCountry>Turkey</borderingCountry>
+            <borderingCountry>Macedonia</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>GS</abbreviation>
         <name>South Georgia and the South Sandwich Islands</name>
         <capital>Grytviken</capital>
         <continent>Antarctica</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>GT</abbreviation>
         <name>Guatemala</name>
         <capital>Guatemala City</capital>
         <continent>North America</continent>
+        <borderingCountries>
+            <borderingCountry>Belize</borderingCountry>
+            <borderingCountry>El Salvador</borderingCountry>
+            <borderingCountry>Honduras</borderingCountry>
+            <borderingCountry>Mexico</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>GU</abbreviation>
         <name>Guam</name>
         <capital>Hagåtña</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>GW</abbreviation>
         <name>Guinea-Bissau</name>
         <capital>Bissau</capital>
         <continent>Africa</continent>
+        <borderingCountries>
+            <borderingCountry>Guinea</borderingCountry>
+            <borderingCountry>Senegal</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>GY</abbreviation>
         <name>Guyana</name>
         <capital>Georgetown</capital>
         <continent>South America</continent>
+        <borderingCountries>
+            <borderingCountry>Brazil</borderingCountry>
+            <borderingCountry>Suriname</borderingCountry>
+            <borderingCountry>Venezuela</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>HK</abbreviation>
         <name>Hong Kong</name>
         <capital>Hong Kong</capital>
         <continent>Asia</continent>
+        <borderingCountries>
+            <borderingCountry>China</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>HM</abbreviation>
         <name>Heard Island and McDonald Islands</name>
         <capital/>
         <continent>Antarctica</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>HN</abbreviation>
         <name>Honduras</name>
         <capital>Tegucigalpa</capital>
         <continent>North America</continent>
+        <borderingCountries>
+            <borderingCountry>Guatemala</borderingCountry>
+            <borderingCountry>El Salvador</borderingCountry>
+            <borderingCountry>Nicaragua</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>HR</abbreviation>
         <name>Croatia</name>
         <capital>Zagreb</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Bosnia and Herzegovina</borderingCountry>
+            <borderingCountry>Hungary</borderingCountry>
+            <borderingCountry>Montenegro</borderingCountry>
+            <borderingCountry>Serbia</borderingCountry>
+            <borderingCountry>Slovenia</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>HT</abbreviation>
         <name>Haiti</name>
         <capital>Port-au-Prince</capital>
         <continent>North America</continent>
+        <borderingCountries>
+            <borderingCountry>Dominican Republic</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>HU</abbreviation>
         <name>Hungary</name>
         <capital>Budapest</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Austria</borderingCountry>
+            <borderingCountry>Croatia</borderingCountry>
+            <borderingCountry>Romania</borderingCountry>
+            <borderingCountry>Serbia</borderingCountry>
+            <borderingCountry>Slovakia</borderingCountry>
+            <borderingCountry>Slovenia</borderingCountry>
+            <borderingCountry>Ukraine</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>ID</abbreviation>
         <name>Indonesia</name>
         <capital>Jakarta</capital>
         <continent>Asia</continent>
+        <borderingCountries>
+            <borderingCountry>East Timor</borderingCountry>
+            <borderingCountry>Malaysia</borderingCountry>
+            <borderingCountry>Papua New Guinea</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>IE</abbreviation>
         <name>Ireland</name>
         <capital>Dublin</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>United Kingdom</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>IL</abbreviation>
         <name>Israel</name>
         <capital/>
         <continent>Asia</continent>
+        <borderingCountries>
+            <borderingCountry>Egypt</borderingCountry>
+            <borderingCountry>Palestine</borderingCountry>
+            <borderingCountry>Jordan</borderingCountry>
+            <borderingCountry>Lebanon</borderingCountry>
+            <borderingCountry>Syria</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>IM</abbreviation>
         <name>Isle of Man</name>
         <capital>Douglas</capital>
         <continent>Europe</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>IN</abbreviation>
         <name>India</name>
         <capital>New Delhi</capital>
         <continent>Asia</continent>
+        <borderingCountries>
+            <borderingCountry>Bangladesh</borderingCountry>
+            <borderingCountry>Bhutan</borderingCountry>
+            <borderingCountry>Myanmar [Burma]</borderingCountry>
+            <borderingCountry>China</borderingCountry>
+            <borderingCountry>Nepal</borderingCountry>
+            <borderingCountry>Pakistan</borderingCountry>
+            <borderingCountry>Sri Lanka</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>IO</abbreviation>
         <name>British Indian Ocean Territory</name>
         <capital/>
         <continent>Asia</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>IQ</abbreviation>
         <name>Iraq</name>
         <capital>Baghdad</capital>
         <continent>Asia</continent>
+        <borderingCountries>
+            <borderingCountry>Iran</borderingCountry>
+            <borderingCountry>Jordan</borderingCountry>
+            <borderingCountry>Kuwait</borderingCountry>
+            <borderingCountry>Saudi Arabia</borderingCountry>
+            <borderingCountry>Syria</borderingCountry>
+            <borderingCountry>Turkey</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>IR</abbreviation>
         <name>Iran</name>
         <capital>Tehran</capital>
         <continent>Asia</continent>
+        <borderingCountries>
+            <borderingCountry>Afghanistan</borderingCountry>
+            <borderingCountry>Armenia</borderingCountry>
+            <borderingCountry>Azerbaijan</borderingCountry>
+            <borderingCountry>Iraq</borderingCountry>
+            <borderingCountry>Pakistan</borderingCountry>
+            <borderingCountry>Turkey</borderingCountry>
+            <borderingCountry>Turkmenistan</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>IS</abbreviation>
         <name>Iceland</name>
         <capital>Reykjavik</capital>
         <continent>Europe</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>IT</abbreviation>
         <name>Italy</name>
         <capital>Rome</capital>
         <continent>Europe</continent>
+        <borderingCountries>
+            <borderingCountry>Austria</borderingCountry>
+            <borderingCountry>France</borderingCountry>
+            <borderingCountry>San Marino</borderingCountry>
+            <borderingCountry>Slovenia</borderingCountry>
+            <borderingCountry>Switzerland</borderingCountry>
+            <borderingCountry>Vatican City</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>JE</abbreviation>
         <name>Jersey</name>
         <capital>Saint Helier</capital>
         <continent>Europe</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>JM</abbreviation>
         <name>Jamaica</name>
         <capital>Kingston</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>JO</abbreviation>
         <name>Jordan</name>
         <capital>Amman</capital>
         <continent>Asia</continent>
+        <borderingCountries>
+            <borderingCountry>Iraq</borderingCountry>
+            <borderingCountry>Israel</borderingCountry>
+            <borderingCountry>Saudi Arabia</borderingCountry>
+            <borderingCountry>Syria</borderingCountry>
+            <borderingCountry>Palestine</borderingCountry>
+        </borderingCountries>
     </country>
     <country>
         <abbreviation>JP</abbreviation>
         <name>Japan</name>
         <capital>Tokyo</capital>
         <continent>Asia</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>KE</abbreviation>
