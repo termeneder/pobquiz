@@ -24,6 +24,8 @@ public class CountryQuestionGenerator {
 		BorderingCountriesToCountryQuestionGenerator neighbourToCountry = new BorderingCountriesToCountryQuestionGenerator(countriesOfTheWorld, questionList);
 		questionList = neighbourToCountry.build();
 		
+		CountryToNeighboursQuestionGenerator countryToNeighbours = new CountryToNeighboursQuestionGenerator(countriesOfTheWorld, questionList);
+		questionList = countryToNeighbours.build();
 			
 		questionList.save();
 	}

@@ -37,7 +37,7 @@ public class BorderingCountriesToCountryQuestionGenerator {
 
 
 	private void addFactory(Country country, List<QuestionFactory> factoryList) {
-		if (0 < country.getNeighbours().size()) {
+		if (country.getNeighbours() != null && 0 < country.getNeighbours().size()) {
 			String question = createQuestionString(country);
 			QuestionFactory sameFactory = null;
 			for (QuestionFactory factory : factoryList) {
