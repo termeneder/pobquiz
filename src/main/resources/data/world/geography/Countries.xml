@@ -5,35 +5,35 @@
         <name>Andorra</name>
         <capital>Andorra la Vella</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>France</borderingCountry>
-            <borderingCountry>Spain</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>France</neighbour>
+        <neighbour>Spain</neighbour>
+
     </country>
     <country>
         <abbreviation>AE</abbreviation>
         <name>United Arab Emirates</name>
         <capital>Abu Dhabi</capital>
         <continent>Asia</continent>
-        <borderingCountries>
-            <borderingCountry>Oman</borderingCountry>
-            <borderingCountry>Qatar</borderingCountry>
-            <borderingCountry>Saudi Arabia</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Oman</neighbour>
+        <neighbour>Qatar</neighbour>
+        <neighbour>Saudi Arabia</neighbour>
+
     </country>
     <country>
         <abbreviation>AF</abbreviation>
         <name>Afghanistan</name>
         <capital>Kabul</capital>
         <continent>Asia</continent>
-        <borderingCountries>
-            <borderingCountry>China</borderingCountry>
-            <borderingCountry>Iran</borderingCountry>
-            <borderingCountry>Pakistan</borderingCountry>
-            <borderingCountry>Tajikistan</borderingCountry>
-            <borderingCountry>Turkmenistan</borderingCountry>
-            <borderingCountry>Uzbekistan</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>China</neighbour>
+        <neighbour>Iran</neighbour>
+        <neighbour>Pakistan</neighbour>
+        <neighbour>Tajikistan</neighbour>
+        <neighbour>Turkmenistan</neighbour>
+        <neighbour>Uzbekistan</neighbour>
+
     </country>
     <country>
         <abbreviation>AG</abbreviation>
@@ -54,36 +54,36 @@
         <name>Albania</name>
         <capital>Tirana</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Greece</borderingCountry>
-            <borderingCountry>Kosovo</borderingCountry>
-            <borderingCountry>Macedonia</borderingCountry>
-            <borderingCountry>Montenegro</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Greece</neighbour>
+        <neighbour>Kosovo</neighbour>
+        <neighbour>Macedonia</neighbour>
+        <neighbour>Montenegro</neighbour>
+
     </country>
     <country>
         <abbreviation>AM</abbreviation>
         <name>Armenia</name>
         <capital>Yerevan</capital>
         <continent>Asia</continent>
-        <borderingCountries>
-            <borderingCountry>Azerbaijan</borderingCountry>
-            <borderingCountry>Georgia</borderingCountry>
-            <borderingCountry>Iran</borderingCountry>
-            <borderingCountry>Turkey</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Azerbaijan</neighbour>
+        <neighbour>Georgia</neighbour>
+        <neighbour>Iran</neighbour>
+        <neighbour>Turkey</neighbour>
+
     </country>
     <country>
         <abbreviation>AO</abbreviation>
         <name>Angola</name>
         <capital>Luanda</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Democratic Republic of the Congo</borderingCountry>
-            <borderingCountry>Republic of the Congo</borderingCountry>
-            <borderingCountry>Namibia</borderingCountry>
-            <borderingCountry>Zambia</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Democratic Republic of the Congo</neighbour>
+        <neighbour>Republic of the Congo</neighbour>
+        <neighbour>Namibia</neighbour>
+        <neighbour>Zambia</neighbour>
+
     </country>
     <country>
         <abbreviation>AQ</abbreviation>
@@ -96,13 +96,13 @@
         <name>Argentina</name>
         <capital>Buenos Aires</capital>
         <continent>South America</continent>
-        <borderingCountries>
-            <borderingCountry>Bolivia</borderingCountry>
-            <borderingCountry>Brazil</borderingCountry>
-            <borderingCountry>Chile</borderingCountry>
-            <borderingCountry>Paraguay</borderingCountry>
-            <borderingCountry>Uruguay</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Bolivia</neighbour>
+        <neighbour>Brazil</neighbour>
+        <neighbour>Chile</neighbour>
+        <neighbour>Paraguay</neighbour>
+        <neighbour>Uruguay</neighbour>
+
     </country>
     <country>
         <abbreviation>AS</abbreviation>
@@ -116,16 +116,16 @@
         <name>Austria</name>
         <capital>Vienna</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Czech Republic</borderingCountry>
-            <borderingCountry>Germany</borderingCountry>
-            <borderingCountry>Hungary</borderingCountry>
-            <borderingCountry>Italy</borderingCountry>
-            <borderingCountry>Liechtenstein</borderingCountry>
-            <borderingCountry>Slovakia</borderingCountry>
-            <borderingCountry>Slovenia</borderingCountry>
-            <borderingCountry>Switzerland</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Czech Republic</neighbour>
+        <neighbour>Germany</neighbour>
+        <neighbour>Hungary</neighbour>
+        <neighbour>Italy</neighbour>
+        <neighbour>Liechtenstein</neighbour>
+        <neighbour>Slovakia</neighbour>
+        <neighbour>Slovenia</neighbour>
+        <neighbour>Switzerland</neighbour>
+
     </country>
     <country>
         <abbreviation>AU</abbreviation>
@@ -152,24 +152,24 @@
         <name>Azerbaijan</name>
         <capital>Baku</capital>
         <continent>Asia</continent>
-        <borderingCountries>
-            <borderingCountry>Armenia</borderingCountry>
-            <borderingCountry>Georgia</borderingCountry>
-            <borderingCountry>Iran</borderingCountry>
-            <borderingCountry>Russia</borderingCountry>
-            <borderingCountry>Turkey</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Armenia</neighbour>
+        <neighbour>Georgia</neighbour>
+        <neighbour>Iran</neighbour>
+        <neighbour>Russia</neighbour>
+        <neighbour>Turkey</neighbour>
+
     </country>
     <country>
         <abbreviation>BA</abbreviation>
         <name>Bosnia and Herzegovina</name>
         <capital>Sarajevo</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Croatia</borderingCountry>
-            <borderingCountry>Montenegro</borderingCountry>
-            <borderingCountry>Serbia</borderingCountry>
-        </borderingCountries>        
+
+        <neighbour>Croatia</neighbour>
+        <neighbour>Montenegro</neighbour>
+        <neighbour>Serbia</neighbour>
+
     </country>
     <country>
         <abbreviation>BB</abbreviation>
@@ -183,49 +183,49 @@
         <name>Bangladesh</name>
         <capital>Dhaka</capital>
         <continent>Asia</continent>
-        <borderingCountries>
-            <borderingCountry>Burma</borderingCountry>
-            <borderingCountry>India</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Burma</neighbour>
+        <neighbour>India</neighbour>
+
     </country>
     <country>
         <abbreviation>BE</abbreviation>
         <name>Belgium</name>
         <capital>Brussels</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>France</borderingCountry>
-            <borderingCountry>Germany</borderingCountry>
-            <borderingCountry>Luxembourg</borderingCountry>
-            <borderingCountry>Netherlands</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>France</neighbour>
+        <neighbour>Germany</neighbour>
+        <neighbour>Luxembourg</neighbour>
+        <neighbour>Netherlands</neighbour>
+
     </country>
     <country>
         <abbreviation>BF</abbreviation>
         <name>Burkina Faso</name>
         <capital>Ouagadougou</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Benin</borderingCountry>
-            <borderingCountry>Ivory Coast</borderingCountry>
-            <borderingCountry>Ghana</borderingCountry>
-            <borderingCountry>Mali</borderingCountry>
-            <borderingCountry>Niger</borderingCountry>
-            <borderingCountry>Togo</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Benin</neighbour>
+        <neighbour>Ivory Coast</neighbour>
+        <neighbour>Ghana</neighbour>
+        <neighbour>Mali</neighbour>
+        <neighbour>Niger</neighbour>
+        <neighbour>Togo</neighbour>
+
     </country>
     <country>
         <abbreviation>BG</abbreviation>
         <name>Bulgaria</name>
         <capital>Sofia</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Greece</borderingCountry>
-            <borderingCountry>Macedonia</borderingCountry>
-            <borderingCountry>Romania</borderingCountry>
-            <borderingCountry>Serbia</borderingCountry>
-            <borderingCountry>Turkey</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Greece</neighbour>
+        <neighbour>Macedonia</neighbour>
+        <neighbour>Romania</neighbour>
+        <neighbour>Serbia</neighbour>
+        <neighbour>Turkey</neighbour>
+
     </country>
     <country>
         <abbreviation>BH</abbreviation>
@@ -239,23 +239,23 @@
         <name>Burundi</name>
         <capital>Bujumbura</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Democratic Republic of the Congo</borderingCountry>
-            <borderingCountry>Rwanda</borderingCountry>
-            <borderingCountry>Tanzania</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Democratic Republic of the Congo</neighbour>
+        <neighbour>Rwanda</neighbour>
+        <neighbour>Tanzania</neighbour>
+
     </country>
     <country>
         <abbreviation>BJ</abbreviation>
         <name>Benin</name>
         <capital>Porto-Novo</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Burkina Faso</borderingCountry>
-            <borderingCountry>Niger</borderingCountry>
-            <borderingCountry>Nigeria</borderingCountry>
-            <borderingCountry>Togo</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Burkina Faso</neighbour>
+        <neighbour>Niger</neighbour>
+        <neighbour>Nigeria</neighbour>
+        <neighbour>Togo</neighbour>
+
     </country>
     <country>
         <abbreviation>BL</abbreviation>
@@ -276,22 +276,22 @@
         <name>Brunei</name>
         <capital>Bandar Seri Begawan</capital>
         <continent>Asia</continent>
-        <borderingCountries>
-            <borderingCountry>Malaysia</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Malaysia</neighbour>
+
     </country>
     <country>
         <abbreviation>BO</abbreviation>
         <name>Bolivia</name>
         <capital>Sucre</capital>
         <continent>South America</continent>
-        <borderingCountries>
-            <borderingCountry>Argentina</borderingCountry>
-            <borderingCountry>Brazil</borderingCountry>
-            <borderingCountry>Chile</borderingCountry>
-            <borderingCountry>Paraguay</borderingCountry>
-            <borderingCountry>Peru</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Argentina</neighbour>
+        <neighbour>Brazil</neighbour>
+        <neighbour>Chile</neighbour>
+        <neighbour>Paraguay</neighbour>
+        <neighbour>Peru</neighbour>
+
     </country>
     <country>
         <abbreviation>BQ</abbreviation>
@@ -304,18 +304,18 @@
         <name>Brazil</name>
         <capital>Brasília</capital>
         <continent>South America</continent>
-        <borderingCountries>
-            <borderingCountry>Argentina</borderingCountry>
-            <borderingCountry>Bolivia</borderingCountry>
-            <borderingCountry>Colombia</borderingCountry>
-            <borderingCountry>French Guiana</borderingCountry>
-            <borderingCountry>Guyana</borderingCountry>
-            <borderingCountry>Paraguay</borderingCountry>
-            <borderingCountry>Peru</borderingCountry>
-            <borderingCountry>Suriname</borderingCountry>
-            <borderingCountry>Uruguay</borderingCountry>
-            <borderingCountry>Venezuela</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Argentina</neighbour>
+        <neighbour>Bolivia</neighbour>
+        <neighbour>Colombia</neighbour>
+        <neighbour>French Guiana</neighbour>
+        <neighbour>Guyana</neighbour>
+        <neighbour>Paraguay</neighbour>
+        <neighbour>Peru</neighbour>
+        <neighbour>Suriname</neighbour>
+        <neighbour>Uruguay</neighbour>
+        <neighbour>Venezuela</neighbour>
+
     </country>
     <country>
         <abbreviation>BS</abbreviation>
@@ -329,10 +329,10 @@
         <name>Bhutan</name>
         <capital>Thimphu</capital>
         <continent>Asia</continent>
-        <borderingCountries>
-            <borderingCountry>China</borderingCountry>
-            <borderingCountry>India</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>China</neighbour>
+        <neighbour>India</neighbour>
+
     </country>
     <country>
         <abbreviation>BV</abbreviation>
@@ -346,44 +346,44 @@
         <name>Botswana</name>
         <capital>Gaborone</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Namibia</borderingCountry>
-            <borderingCountry>South Africa</borderingCountry>
-            <borderingCountry>Zambia</borderingCountry>
-            <borderingCountry>Zimbabwe</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Namibia</neighbour>
+        <neighbour>South Africa</neighbour>
+        <neighbour>Zambia</neighbour>
+        <neighbour>Zimbabwe</neighbour>
+
     </country>
     <country>
         <abbreviation>BY</abbreviation>
         <name>Belarus</name>
         <capital>Minsk</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Latvia</borderingCountry>
-            <borderingCountry>Lithuania</borderingCountry>
-            <borderingCountry>Poland</borderingCountry>
-            <borderingCountry>Russia</borderingCountry>
-            <borderingCountry>Ukraine</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Latvia</neighbour>
+        <neighbour>Lithuania</neighbour>
+        <neighbour>Poland</neighbour>
+        <neighbour>Russia</neighbour>
+        <neighbour>Ukraine</neighbour>
+
     </country>
     <country>
         <abbreviation>BZ</abbreviation>
         <name>Belize</name>
         <capital>Belmopan</capital>
         <continent>North America</continent>
-        <borderingCountries>
-            <borderingCountry>Guatemala</borderingCountry>
-            <borderingCountry>Mexico</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Guatemala</neighbour>
+        <neighbour>Mexico</neighbour>
+
     </country>
     <country>
         <abbreviation>CA</abbreviation>
         <name>Canada</name>
         <capital>Ottawa</capital>
         <continent>North America</continent>
-        <borderingCountries>
-            <borderingCountry>United States</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>United States</neighbour>
+
     </country>
     <country>
         <abbreviation>CC</abbreviation>
@@ -397,70 +397,70 @@
         <name>Democratic Republic of the Congo</name>
         <capital>Kinshasa</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Angola</borderingCountry>
-            <borderingCountry>Burundi</borderingCountry>
-            <borderingCountry>Central African Republic</borderingCountry>
-            <borderingCountry>Republic of the Congo</borderingCountry>
-            <borderingCountry>Rwanda</borderingCountry>
-            <borderingCountry>South Sudan</borderingCountry>
-            <borderingCountry>Tanzania</borderingCountry>
-            <borderingCountry>Uganda</borderingCountry>
-            <borderingCountry>Zambia</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Angola</neighbour>
+        <neighbour>Burundi</neighbour>
+        <neighbour>Central African Republic</neighbour>
+        <neighbour>Republic of the Congo</neighbour>
+        <neighbour>Rwanda</neighbour>
+        <neighbour>South Sudan</neighbour>
+        <neighbour>Tanzania</neighbour>
+        <neighbour>Uganda</neighbour>
+        <neighbour>Zambia</neighbour>
+
     </country>
     <country>
         <abbreviation>CF</abbreviation>
         <name>Central African Republic</name>
         <capital>Bangui</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Cameroon</borderingCountry>
-            <borderingCountry>Chad</borderingCountry>
-            <borderingCountry>Democratic Republic of the Congo</borderingCountry>
-            <borderingCountry>Republic of the Congo</borderingCountry>
-            <borderingCountry>South Sudan</borderingCountry>
-            <borderingCountry>Sudan</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Cameroon</neighbour>
+        <neighbour>Chad</neighbour>
+        <neighbour>Democratic Republic of the Congo</neighbour>
+        <neighbour>Republic of the Congo</neighbour>
+        <neighbour>South Sudan</neighbour>
+        <neighbour>Sudan</neighbour>
+
     </country>
     <country>
         <abbreviation>CG</abbreviation>
         <name>Republic of the Congo</name>
         <capital>Brazzaville</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Angola</borderingCountry>
-            <borderingCountry>Cameroon</borderingCountry>
-            <borderingCountry>Central African Republic</borderingCountry>
-            <borderingCountry>Democratic Republic of the Congo</borderingCountry>
-            <borderingCountry>Gabon</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Angola</neighbour>
+        <neighbour>Cameroon</neighbour>
+        <neighbour>Central African Republic</neighbour>
+        <neighbour>Democratic Republic of the Congo</neighbour>
+        <neighbour>Gabon</neighbour>
+
     </country>
     <country>
         <abbreviation>CH</abbreviation>
         <name>Switzerland</name>
         <capital>Berne</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Austria</borderingCountry>
-            <borderingCountry>France</borderingCountry>
-            <borderingCountry>Italy</borderingCountry>
-            <borderingCountry>Liechtenstein</borderingCountry>
-            <borderingCountry>Germany</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Austria</neighbour>
+        <neighbour>France</neighbour>
+        <neighbour>Italy</neighbour>
+        <neighbour>Liechtenstein</neighbour>
+        <neighbour>Germany</neighbour>
+
     </country>
     <country>
         <abbreviation>CI</abbreviation>
         <name>Ivory Coast</name>
         <capital>Yamoussoukro</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Burkina Faso</borderingCountry>
-            <borderingCountry>Ghana</borderingCountry>
-            <borderingCountry>Guinea</borderingCountry>
-            <borderingCountry>Liberia</borderingCountry>
-            <borderingCountry>Mali</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Burkina Faso</neighbour>
+        <neighbour>Ghana</neighbour>
+        <neighbour>Guinea</neighbour>
+        <neighbour>Liberia</neighbour>
+        <neighbour>Mali</neighbour>
+
     </country>
     <country>
         <abbreviation>CK</abbreviation>
@@ -474,72 +474,72 @@
         <name>Chile</name>
         <capital>Santiago</capital>
         <continent>South America</continent>
-        <borderingCountries>
-            <borderingCountry>Argentina</borderingCountry>
-            <borderingCountry>Bolivia</borderingCountry>
-            <borderingCountry>Peru</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Argentina</neighbour>
+        <neighbour>Bolivia</neighbour>
+        <neighbour>Peru</neighbour>
+
     </country>
     <country>
         <abbreviation>CM</abbreviation>
         <name>Cameroon</name>
         <capital>Yaoundé</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Central African Republic</borderingCountry>
-            <borderingCountry>Chad</borderingCountry>
-            <borderingCountry>Republic of the Congo</borderingCountry>
-            <borderingCountry>Equatorial Guinea</borderingCountry>
-            <borderingCountry>Gabon</borderingCountry>
-            <borderingCountry>Nigeria</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Central African Republic</neighbour>
+        <neighbour>Chad</neighbour>
+        <neighbour>Republic of the Congo</neighbour>
+        <neighbour>Equatorial Guinea</neighbour>
+        <neighbour>Gabon</neighbour>
+        <neighbour>Nigeria</neighbour>
+
     </country>
     <country>
         <abbreviation>CN</abbreviation>
         <name>China</name>
         <capital>Beijing</capital>
         <continent>Asia</continent>
-        <borderingCountries>
-            <borderingCountry>Afghanistan</borderingCountry>
-            <borderingCountry>Bhutan</borderingCountry>
-            <borderingCountry>Myanmar [Burma]</borderingCountry>
-            <borderingCountry>Hong Kong</borderingCountry>
-            <borderingCountry>India</borderingCountry>
-            <borderingCountry>Kazakhstan</borderingCountry>
-            <borderingCountry>North Korea</borderingCountry>
-            <borderingCountry>Kyrgyzstan</borderingCountry>
-            <borderingCountry>Laos</borderingCountry>
-            <borderingCountry>Macao</borderingCountry>
-            <borderingCountry>Mongolia</borderingCountry>
-            <borderingCountry>Nepal</borderingCountry>
-            <borderingCountry>Pakistan</borderingCountry>
-            <borderingCountry>Russia</borderingCountry>
-            <borderingCountry>Tajikistan</borderingCountry>
-            <borderingCountry>Vietnam</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Afghanistan</neighbour>
+        <neighbour>Bhutan</neighbour>
+        <neighbour>Myanmar [Burma]</neighbour>
+        <neighbour>Hong Kong</neighbour>
+        <neighbour>India</neighbour>
+        <neighbour>Kazakhstan</neighbour>
+        <neighbour>North Korea</neighbour>
+        <neighbour>Kyrgyzstan</neighbour>
+        <neighbour>Laos</neighbour>
+        <neighbour>Macao</neighbour>
+        <neighbour>Mongolia</neighbour>
+        <neighbour>Nepal</neighbour>
+        <neighbour>Pakistan</neighbour>
+        <neighbour>Russia</neighbour>
+        <neighbour>Tajikistan</neighbour>
+        <neighbour>Vietnam</neighbour>
+
     </country>
     <country>
         <abbreviation>CO</abbreviation>
         <name>Colombia</name>
         <capital>Bogotá</capital>
         <continent>South America</continent>
-        <borderingCountries>
-            <borderingCountry>Brazil</borderingCountry>
-            <borderingCountry>Ecuador</borderingCountry>
-            <borderingCountry>Panama</borderingCountry>
-            <borderingCountry>Peru</borderingCountry>
-            <borderingCountry>Venezuela</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Brazil</neighbour>
+        <neighbour>Ecuador</neighbour>
+        <neighbour>Panama</neighbour>
+        <neighbour>Peru</neighbour>
+        <neighbour>Venezuela</neighbour>
+
     </country>
     <country>
         <abbreviation>CR</abbreviation>
         <name>Costa Rica</name>
         <capital>San José</capital>
         <continent>North America</continent>
-        <borderingCountries>
-            <borderingCountry>Nicaragua</borderingCountry>
-            <borderingCountry>Panama</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Nicaragua</neighbour>
+        <neighbour>Panama</neighbour>
+
     </country>
     <country>
         <abbreviation>CU</abbreviation>
@@ -581,49 +581,49 @@
         <name>Czech Republic</name>
         <capital>Prague</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Austria</borderingCountry>
-            <borderingCountry>Germany</borderingCountry>
-            <borderingCountry>Poland</borderingCountry>
-            <borderingCountry>Slovakia</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Austria</neighbour>
+        <neighbour>Germany</neighbour>
+        <neighbour>Poland</neighbour>
+        <neighbour>Slovakia</neighbour>
+
     </country>
     <country>
         <abbreviation>DE</abbreviation>
         <name>Germany</name>
         <capital>Berlin</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Austria</borderingCountry>
-            <borderingCountry>Belgium</borderingCountry>
-            <borderingCountry>Czech Republic</borderingCountry>
-            <borderingCountry>Denmark</borderingCountry>
-            <borderingCountry>France</borderingCountry>
-            <borderingCountry>Luxembourg</borderingCountry>
-            <borderingCountry>Netherlands</borderingCountry>
-            <borderingCountry>Poland</borderingCountry>
-            <borderingCountry>Switzerland</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Austria</neighbour>
+        <neighbour>Belgium</neighbour>
+        <neighbour>Czech Republic</neighbour>
+        <neighbour>Denmark</neighbour>
+        <neighbour>France</neighbour>
+        <neighbour>Luxembourg</neighbour>
+        <neighbour>Netherlands</neighbour>
+        <neighbour>Poland</neighbour>
+        <neighbour>Switzerland</neighbour>
+
     </country>
     <country>
         <abbreviation>DJ</abbreviation>
         <name>Djibouti</name>
         <capital>Djibouti</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Eritrea</borderingCountry>
-            <borderingCountry>Ethiopia</borderingCountry>
-            <borderingCountry>Somalia</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Eritrea</neighbour>
+        <neighbour>Ethiopia</neighbour>
+        <neighbour>Somalia</neighbour>
+
     </country>
     <country>
         <abbreviation>DK</abbreviation>
         <name>Denmark</name>
         <capital>Copenhagen</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Germany</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Germany</neighbour>
+
     </country>
     <country>
         <abbreviation>DM</abbreviation>
@@ -637,116 +637,116 @@
         <name>Dominican Republic</name>
         <capital>Santo Domingo</capital>
         <continent>North America</continent>
-        <borderingCountries>
-            <borderingCountry>Haiti</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Haiti</neighbour>
+
     </country>
     <country>
         <abbreviation>DZ</abbreviation>
         <name>Algeria</name>
         <capital>Algiers</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Libya</borderingCountry>
-            <borderingCountry>Mali</borderingCountry>
-            <borderingCountry>Mauritania</borderingCountry>
-            <borderingCountry>Morocco</borderingCountry>
-            <borderingCountry>Niger</borderingCountry>
-            <borderingCountry>Tunisia</borderingCountry>
-            <borderingCountry>Western Sahara</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Libya</neighbour>
+        <neighbour>Mali</neighbour>
+        <neighbour>Mauritania</neighbour>
+        <neighbour>Morocco</neighbour>
+        <neighbour>Niger</neighbour>
+        <neighbour>Tunisia</neighbour>
+        <neighbour>Western Sahara</neighbour>
+
     </country>
     <country>
         <abbreviation>EC</abbreviation>
         <name>Ecuador</name>
         <capital>Quito</capital>
         <continent>South America</continent>
-        <borderingCountries>
-            <borderingCountry>Colombia</borderingCountry>
-            <borderingCountry>Peru</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Colombia</neighbour>
+        <neighbour>Peru</neighbour>
+
     </country>
     <country>
         <abbreviation>EE</abbreviation>
         <name>Estonia</name>
         <capital>Tallinn</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Latvia</borderingCountry>
-            <borderingCountry>Russia</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Latvia</neighbour>
+        <neighbour>Russia</neighbour>
+
     </country>
     <country>
         <abbreviation>EG</abbreviation>
         <name>Egypt</name>
         <capital>Cairo</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Israel</borderingCountry>
-            <borderingCountry>Libya</borderingCountry>
-            <borderingCountry>Palestine</borderingCountry>
-            <borderingCountry>Sudan</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Israel</neighbour>
+        <neighbour>Libya</neighbour>
+        <neighbour>Palestine</neighbour>
+        <neighbour>Sudan</neighbour>
+
     </country>
     <country>
         <abbreviation>EH</abbreviation>
         <name>Western Sahara</name>
         <capital>El Aaiún</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Algeria</borderingCountry>
-            <borderingCountry>Mauritania</borderingCountry>
-            <borderingCountry>Morocco</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Algeria</neighbour>
+        <neighbour>Mauritania</neighbour>
+        <neighbour>Morocco</neighbour>
+
     </country>
     <country>
         <abbreviation>ER</abbreviation>
         <name>Eritrea</name>
         <capital>Asmara</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Djibouti</borderingCountry>
-            <borderingCountry>Ethiopia</borderingCountry>
-            <borderingCountry>Sudan</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Djibouti</neighbour>
+        <neighbour>Ethiopia</neighbour>
+        <neighbour>Sudan</neighbour>
+
     </country>
     <country>
         <abbreviation>ES</abbreviation>
         <name>Spain</name>
         <capital>Madrid</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Andorra</borderingCountry>
-            <borderingCountry>France</borderingCountry>
-            <borderingCountry>Gibraltar</borderingCountry>
-            <borderingCountry>Portugal</borderingCountry>
-            <borderingCountry>Morocco</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Andorra</neighbour>
+        <neighbour>France</neighbour>
+        <neighbour>Gibraltar</neighbour>
+        <neighbour>Portugal</neighbour>
+        <neighbour>Morocco</neighbour>
+
     </country>
     <country>
         <abbreviation>ET</abbreviation>
         <name>Ethiopia</name>
         <capital>Addis Ababa</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Djibouti</borderingCountry>
-            <borderingCountry>Eritrea</borderingCountry>
-            <borderingCountry>Kenya</borderingCountry>
-            <borderingCountry>Somalia</borderingCountry>
-            <borderingCountry>South Sudan</borderingCountry>
-            <borderingCountry>Sudan</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Djibouti</neighbour>
+        <neighbour>Eritrea</neighbour>
+        <neighbour>Kenya</neighbour>
+        <neighbour>Somalia</neighbour>
+        <neighbour>South Sudan</neighbour>
+        <neighbour>Sudan</neighbour>
+
     </country>
     <country>
         <abbreviation>FI</abbreviation>
         <name>Finland</name>
         <capital>Helsinki</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Norway</borderingCountry>
-            <borderingCountry>Sweden</borderingCountry>
-            <borderingCountry>Russia</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Norway</neighbour>
+        <neighbour>Sweden</neighbour>
+        <neighbour>Russia</neighbour>
+
     </country>
     <country>
         <abbreviation>FJ</abbreviation>
@@ -781,36 +781,36 @@
         <name>France</name>
         <capital>Paris</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Andorra</borderingCountry>
-            <borderingCountry>Belgium</borderingCountry>
-            <borderingCountry>Germany</borderingCountry>
-            <borderingCountry>Italy</borderingCountry>
-            <borderingCountry>Luxembourg</borderingCountry>
-            <borderingCountry>Monaco</borderingCountry>
-            <borderingCountry>Spain</borderingCountry>
-            <borderingCountry>Switzerland</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Andorra</neighbour>
+        <neighbour>Belgium</neighbour>
+        <neighbour>Germany</neighbour>
+        <neighbour>Italy</neighbour>
+        <neighbour>Luxembourg</neighbour>
+        <neighbour>Monaco</neighbour>
+        <neighbour>Spain</neighbour>
+        <neighbour>Switzerland</neighbour>
+
     </country>
     <country>
         <abbreviation>GA</abbreviation>
         <name>Gabon</name>
         <capital>Libreville</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Cameroon</borderingCountry>
-            <borderingCountry>Republic of the Congo</borderingCountry>
-            <borderingCountry>Equatorial Guinea</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Cameroon</neighbour>
+        <neighbour>Republic of the Congo</neighbour>
+        <neighbour>Equatorial Guinea</neighbour>
+
     </country>
     <country>
         <abbreviation>GB</abbreviation>
         <name>United Kingdom</name>
         <capital>London</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Ireland</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Ireland</neighbour>
+
     </country>
     <country>
         <abbreviation>GD</abbreviation>
@@ -824,22 +824,22 @@
         <name>Georgia</name>
         <capital>Tbilisi</capital>
         <continent>Asia</continent>
-        <borderingCountries>
-            <borderingCountry>Armenia</borderingCountry>
-            <borderingCountry>Azerbaijan</borderingCountry>
-            <borderingCountry>Russia</borderingCountry>
-            <borderingCountry>Turkey</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Armenia</neighbour>
+        <neighbour>Azerbaijan</neighbour>
+        <neighbour>Russia</neighbour>
+        <neighbour>Turkey</neighbour>
+
     </country>
     <country>
         <abbreviation>GF</abbreviation>
         <name>French Guiana</name>
         <capital>Cayenne</capital>
         <continent>South America</continent>
-        <borderingCountries>
-            <borderingCountry>Brazil</borderingCountry>
-            <borderingCountry>Suriname</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Brazil</neighbour>
+        <neighbour>Suriname</neighbour>
+
     </country>
     <country>
         <abbreviation>GG</abbreviation>
@@ -853,20 +853,20 @@
         <name>Ghana</name>
         <capital>Accra</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Burkina Faso</borderingCountry>
-            <borderingCountry>Ivory Coast</borderingCountry>
-            <borderingCountry>Togo</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Burkina Faso</neighbour>
+        <neighbour>Ivory Coast</neighbour>
+        <neighbour>Togo</neighbour>
+
     </country>
     <country>
         <abbreviation>GI</abbreviation>
         <name>Gibraltar</name>
         <capital>Gibraltar</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Spain</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Spain</neighbour>
+
     </country>
     <country>
         <abbreviation>GL</abbreviation>
@@ -880,23 +880,23 @@
         <name>Gambia</name>
         <capital>Banjul</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Senegal</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Senegal</neighbour>
+
     </country>
     <country>
         <abbreviation>GN</abbreviation>
         <name>Guinea</name>
         <capital>Conakry</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Ivory Coast</borderingCountry>
-            <borderingCountry>Guinea-Bissau</borderingCountry>
-            <borderingCountry>Liberia</borderingCountry>
-            <borderingCountry>Mali</borderingCountry>
-            <borderingCountry>Senegal</borderingCountry>
-            <borderingCountry>Sierra Leone</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Ivory Coast</neighbour>
+        <neighbour>Guinea-Bissau</neighbour>
+        <neighbour>Liberia</neighbour>
+        <neighbour>Mali</neighbour>
+        <neighbour>Senegal</neighbour>
+        <neighbour>Sierra Leone</neighbour>
+
     </country>
     <country>
         <abbreviation>GP</abbreviation>
@@ -910,22 +910,22 @@
         <name>Equatorial Guinea</name>
         <capital>Malabo</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Cameroon</borderingCountry>
-            <borderingCountry>Gabon</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Cameroon</neighbour>
+        <neighbour>Gabon</neighbour>
+
     </country>
     <country>
         <abbreviation>GR</abbreviation>
         <name>Greece</name>
         <capital>Athens</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Albania</borderingCountry>
-            <borderingCountry>Bulgaria</borderingCountry>
-            <borderingCountry>Turkey</borderingCountry>
-            <borderingCountry>Macedonia</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Albania</neighbour>
+        <neighbour>Bulgaria</neighbour>
+        <neighbour>Turkey</neighbour>
+        <neighbour>Macedonia</neighbour>
+
     </country>
     <country>
         <abbreviation>GS</abbreviation>
@@ -939,12 +939,12 @@
         <name>Guatemala</name>
         <capital>Guatemala City</capital>
         <continent>North America</continent>
-        <borderingCountries>
-            <borderingCountry>Belize</borderingCountry>
-            <borderingCountry>El Salvador</borderingCountry>
-            <borderingCountry>Honduras</borderingCountry>
-            <borderingCountry>Mexico</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Belize</neighbour>
+        <neighbour>El Salvador</neighbour>
+        <neighbour>Honduras</neighbour>
+        <neighbour>Mexico</neighbour>
+
     </country>
     <country>
         <abbreviation>GU</abbreviation>
@@ -958,30 +958,30 @@
         <name>Guinea-Bissau</name>
         <capital>Bissau</capital>
         <continent>Africa</continent>
-        <borderingCountries>
-            <borderingCountry>Guinea</borderingCountry>
-            <borderingCountry>Senegal</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Guinea</neighbour>
+        <neighbour>Senegal</neighbour>
+
     </country>
     <country>
         <abbreviation>GY</abbreviation>
         <name>Guyana</name>
         <capital>Georgetown</capital>
         <continent>South America</continent>
-        <borderingCountries>
-            <borderingCountry>Brazil</borderingCountry>
-            <borderingCountry>Suriname</borderingCountry>
-            <borderingCountry>Venezuela</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Brazil</neighbour>
+        <neighbour>Suriname</neighbour>
+        <neighbour>Venezuela</neighbour>
+
     </country>
     <country>
         <abbreviation>HK</abbreviation>
         <name>Hong Kong</name>
         <capital>Hong Kong</capital>
         <continent>Asia</continent>
-        <borderingCountries>
-            <borderingCountry>China</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>China</neighbour>
+
     </country>
     <country>
         <abbreviation>HM</abbreviation>
@@ -995,81 +995,81 @@
         <name>Honduras</name>
         <capital>Tegucigalpa</capital>
         <continent>North America</continent>
-        <borderingCountries>
-            <borderingCountry>Guatemala</borderingCountry>
-            <borderingCountry>El Salvador</borderingCountry>
-            <borderingCountry>Nicaragua</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Guatemala</neighbour>
+        <neighbour>El Salvador</neighbour>
+        <neighbour>Nicaragua</neighbour>
+
     </country>
     <country>
         <abbreviation>HR</abbreviation>
         <name>Croatia</name>
         <capital>Zagreb</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Bosnia and Herzegovina</borderingCountry>
-            <borderingCountry>Hungary</borderingCountry>
-            <borderingCountry>Montenegro</borderingCountry>
-            <borderingCountry>Serbia</borderingCountry>
-            <borderingCountry>Slovenia</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Bosnia and Herzegovina</neighbour>
+        <neighbour>Hungary</neighbour>
+        <neighbour>Montenegro</neighbour>
+        <neighbour>Serbia</neighbour>
+        <neighbour>Slovenia</neighbour>
+
     </country>
     <country>
         <abbreviation>HT</abbreviation>
         <name>Haiti</name>
         <capital>Port-au-Prince</capital>
         <continent>North America</continent>
-        <borderingCountries>
-            <borderingCountry>Dominican Republic</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Dominican Republic</neighbour>
+
     </country>
     <country>
         <abbreviation>HU</abbreviation>
         <name>Hungary</name>
         <capital>Budapest</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Austria</borderingCountry>
-            <borderingCountry>Croatia</borderingCountry>
-            <borderingCountry>Romania</borderingCountry>
-            <borderingCountry>Serbia</borderingCountry>
-            <borderingCountry>Slovakia</borderingCountry>
-            <borderingCountry>Slovenia</borderingCountry>
-            <borderingCountry>Ukraine</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Austria</neighbour>
+        <neighbour>Croatia</neighbour>
+        <neighbour>Romania</neighbour>
+        <neighbour>Serbia</neighbour>
+        <neighbour>Slovakia</neighbour>
+        <neighbour>Slovenia</neighbour>
+        <neighbour>Ukraine</neighbour>
+
     </country>
     <country>
         <abbreviation>ID</abbreviation>
         <name>Indonesia</name>
         <capital>Jakarta</capital>
         <continent>Asia</continent>
-        <borderingCountries>
-            <borderingCountry>East Timor</borderingCountry>
-            <borderingCountry>Malaysia</borderingCountry>
-            <borderingCountry>Papua New Guinea</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>East Timor</neighbour>
+        <neighbour>Malaysia</neighbour>
+        <neighbour>Papua New Guinea</neighbour>
+
     </country>
     <country>
         <abbreviation>IE</abbreviation>
         <name>Ireland</name>
         <capital>Dublin</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>United Kingdom</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>United Kingdom</neighbour>
+
     </country>
     <country>
         <abbreviation>IL</abbreviation>
         <name>Israel</name>
         <capital/>
         <continent>Asia</continent>
-        <borderingCountries>
-            <borderingCountry>Egypt</borderingCountry>
-            <borderingCountry>Palestine</borderingCountry>
-            <borderingCountry>Jordan</borderingCountry>
-            <borderingCountry>Lebanon</borderingCountry>
-            <borderingCountry>Syria</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Egypt</neighbour>
+        <neighbour>Palestine</neighbour>
+        <neighbour>Jordan</neighbour>
+        <neighbour>Lebanon</neighbour>
+        <neighbour>Syria</neighbour>
+
     </country>
     <country>
         <abbreviation>IM</abbreviation>
@@ -1083,15 +1083,15 @@
         <name>India</name>
         <capital>New Delhi</capital>
         <continent>Asia</continent>
-        <borderingCountries>
-            <borderingCountry>Bangladesh</borderingCountry>
-            <borderingCountry>Bhutan</borderingCountry>
-            <borderingCountry>Myanmar [Burma]</borderingCountry>
-            <borderingCountry>China</borderingCountry>
-            <borderingCountry>Nepal</borderingCountry>
-            <borderingCountry>Pakistan</borderingCountry>
-            <borderingCountry>Sri Lanka</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Bangladesh</neighbour>
+        <neighbour>Bhutan</neighbour>
+        <neighbour>Myanmar [Burma]</neighbour>
+        <neighbour>China</neighbour>
+        <neighbour>Nepal</neighbour>
+        <neighbour>Pakistan</neighbour>
+        <neighbour>Sri Lanka</neighbour>
+
     </country>
     <country>
         <abbreviation>IO</abbreviation>
@@ -1105,29 +1105,29 @@
         <name>Iraq</name>
         <capital>Baghdad</capital>
         <continent>Asia</continent>
-        <borderingCountries>
-            <borderingCountry>Iran</borderingCountry>
-            <borderingCountry>Jordan</borderingCountry>
-            <borderingCountry>Kuwait</borderingCountry>
-            <borderingCountry>Saudi Arabia</borderingCountry>
-            <borderingCountry>Syria</borderingCountry>
-            <borderingCountry>Turkey</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Iran</neighbour>
+        <neighbour>Jordan</neighbour>
+        <neighbour>Kuwait</neighbour>
+        <neighbour>Saudi Arabia</neighbour>
+        <neighbour>Syria</neighbour>
+        <neighbour>Turkey</neighbour>
+
     </country>
     <country>
         <abbreviation>IR</abbreviation>
         <name>Iran</name>
         <capital>Tehran</capital>
         <continent>Asia</continent>
-        <borderingCountries>
-            <borderingCountry>Afghanistan</borderingCountry>
-            <borderingCountry>Armenia</borderingCountry>
-            <borderingCountry>Azerbaijan</borderingCountry>
-            <borderingCountry>Iraq</borderingCountry>
-            <borderingCountry>Pakistan</borderingCountry>
-            <borderingCountry>Turkey</borderingCountry>
-            <borderingCountry>Turkmenistan</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Afghanistan</neighbour>
+        <neighbour>Armenia</neighbour>
+        <neighbour>Azerbaijan</neighbour>
+        <neighbour>Iraq</neighbour>
+        <neighbour>Pakistan</neighbour>
+        <neighbour>Turkey</neighbour>
+        <neighbour>Turkmenistan</neighbour>
+
     </country>
     <country>
         <abbreviation>IS</abbreviation>
@@ -1141,14 +1141,14 @@
         <name>Italy</name>
         <capital>Rome</capital>
         <continent>Europe</continent>
-        <borderingCountries>
-            <borderingCountry>Austria</borderingCountry>
-            <borderingCountry>France</borderingCountry>
-            <borderingCountry>San Marino</borderingCountry>
-            <borderingCountry>Slovenia</borderingCountry>
-            <borderingCountry>Switzerland</borderingCountry>
-            <borderingCountry>Vatican City</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Austria</neighbour>
+        <neighbour>France</neighbour>
+        <neighbour>San Marino</neighbour>
+        <neighbour>Slovenia</neighbour>
+        <neighbour>Switzerland</neighbour>
+        <neighbour>Vatican City</neighbour>
+
     </country>
     <country>
         <abbreviation>JE</abbreviation>
@@ -1169,13 +1169,13 @@
         <name>Jordan</name>
         <capital>Amman</capital>
         <continent>Asia</continent>
-        <borderingCountries>
-            <borderingCountry>Iraq</borderingCountry>
-            <borderingCountry>Israel</borderingCountry>
-            <borderingCountry>Saudi Arabia</borderingCountry>
-            <borderingCountry>Syria</borderingCountry>
-            <borderingCountry>Palestine</borderingCountry>
-        </borderingCountries>
+
+        <neighbour>Iraq</neighbour>
+        <neighbour>Israel</neighbour>
+        <neighbour>Saudi Arabia</neighbour>
+        <neighbour>Syria</neighbour>
+        <neighbour>Palestine</neighbour>
+
     </country>
     <country>
         <abbreviation>JP</abbreviation>
@@ -1189,618 +1189,1046 @@
         <name>Kenya</name>
         <capital>Nairobi</capital>
         <continent>Africa</continent>
+
+        <neighbour>Ethiopia</neighbour>
+        <neighbour>Somalia</neighbour>
+        <neighbour>South Sudan</neighbour>
+        <neighbour>Tanzania</neighbour>
+        <neighbour>Uganda</neighbour>
+
     </country>
     <country>
         <abbreviation>KG</abbreviation>
         <name>Kyrgyzstan</name>
         <capital>Bishkek</capital>
         <continent>Asia</continent>
+
+        <neighbour>China</neighbour>
+        <neighbour>Kazakhstan</neighbour>
+        <neighbour>Tajikistan</neighbour>
+        <neighbour>Uzbekistan</neighbour>
+
     </country>
     <country>
         <abbreviation>KH</abbreviation>
         <name>Cambodia</name>
         <capital>Phnom Penh</capital>
         <continent>Asia</continent>
+
+        <neighbour>Laos</neighbour>
+        <neighbour>Thailand</neighbour>
+        <neighbour>Vietnam</neighbour>
+
     </country>
     <country>
         <abbreviation>KI</abbreviation>
         <name>Kiribati</name>
         <capital>Tarawa</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>KM</abbreviation>
         <name>Comoros</name>
         <capital>Moroni</capital>
         <continent>Africa</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>KN</abbreviation>
         <name>Saint Kitts and Nevis</name>
         <capital>Basseterre</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>KP</abbreviation>
         <name>North Korea</name>
         <capital>Pyongyang</capital>
         <continent>Asia</continent>
+
+        <neighbour>China</neighbour>
+        <neighbour>South Korea</neighbour>
+        <neighbour>Russia</neighbour>
+
     </country>
     <country>
         <abbreviation>KR</abbreviation>
         <name>South Korea</name>
         <capital>Seoul</capital>
         <continent>Asia</continent>
+
+        <neighbour>North Korea</neighbour>
+
     </country>
     <country>
         <abbreviation>KW</abbreviation>
         <name>Kuwait</name>
         <capital>Kuwait City</capital>
         <continent>Asia</continent>
+
+        <neighbour>Iraq</neighbour>
+        <neighbour>Saudi Arabia</neighbour>
+
     </country>
     <country>
         <abbreviation>KY</abbreviation>
         <name>Cayman Islands</name>
         <capital>George Town</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>KZ</abbreviation>
         <name>Kazakhstan</name>
         <capital>Astana</capital>
         <continent>Asia</continent>
+
+        <neighbour>China</neighbour>
+        <neighbour>Kyrgyzstan</neighbour>
+        <neighbour>Russia</neighbour>
+        <neighbour>Turkmenistan</neighbour>
+        <neighbour>Uzbekistan</neighbour>
+
     </country>
     <country>
         <abbreviation>LA</abbreviation>
         <name>Laos</name>
         <capital>Vientiane</capital>
         <continent>Asia</continent>
+
+        <neighbour>Burma</neighbour>
+        <neighbour>Cambodia</neighbour>
+        <neighbour>China</neighbour>
+        <neighbour>Thailand</neighbour>
+        <neighbour>Vietnam</neighbour>
+
     </country>
     <country>
         <abbreviation>LB</abbreviation>
         <name>Lebanon</name>
         <capital>Beirut</capital>
         <continent>Asia</continent>
+
+        <neighbour>Israel</neighbour>
+        <neighbour>Syria</neighbour>
+
     </country>
     <country>
         <abbreviation>LC</abbreviation>
         <name>Saint Lucia</name>
         <capital>Castries</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>LI</abbreviation>
         <name>Liechtenstein</name>
         <capital>Vaduz</capital>
         <continent>Europe</continent>
+
+        <neighbour>Austria</neighbour>
+        <neighbour>Switzerland</neighbour>
+
     </country>
     <country>
         <abbreviation>LK</abbreviation>
         <name>Sri Lanka</name>
         <capital>Colombo</capital>
         <continent>Asia</continent>
+
+        <neighbour>India</neighbour>
+
     </country>
     <country>
         <abbreviation>LR</abbreviation>
         <name>Liberia</name>
         <capital>Monrovia</capital>
         <continent>Africa</continent>
+
+        <neighbour>Guinea</neighbour>
+        <neighbour>Ivory Coast</neighbour>
+        <neighbour>Sierra Leone</neighbour>
+
     </country>
     <country>
         <abbreviation>LS</abbreviation>
         <name>Lesotho</name>
         <capital>Maseru</capital>
         <continent>Africa</continent>
+
+        <neighbour>South Africa</neighbour>
+
     </country>
     <country>
         <abbreviation>LT</abbreviation>
         <name>Lithuania</name>
         <capital>Vilnius</capital>
         <continent>Europe</continent>
+
+        <neighbour>Belarus</neighbour>
+        <neighbour>Latvia</neighbour>
+        <neighbour>Poland</neighbour>
+        <neighbour>Russia</neighbour>
+
     </country>
     <country>
         <abbreviation>LU</abbreviation>
         <name>Luxembourg</name>
         <capital>Luxembourg</capital>
         <continent>Europe</continent>
+
+        <neighbour>Belgium</neighbour>
+        <neighbour>France</neighbour>
+        <neighbour>Germany</neighbour>
+
     </country>
     <country>
         <abbreviation>LV</abbreviation>
         <name>Latvia</name>
         <capital>Riga</capital>
         <continent>Europe</continent>
+
+        <neighbour>Belarus</neighbour>
+        <neighbour>Estonia</neighbour>
+        <neighbour>Lithuania</neighbour>
+        <neighbour>Russia</neighbour>
+
     </country>
     <country>
         <abbreviation>LY</abbreviation>
         <name>Libya</name>
         <capital>Tripoli</capital>
         <continent>Africa</continent>
+
+        <neighbour>Algeria</neighbour>
+        <neighbour>Chad</neighbour>
+        <neighbour>Egypt</neighbour>
+        <neighbour>Niger</neighbour>
+        <neighbour>Sudan</neighbour>
+        <neighbour>Tunisia</neighbour>
+
     </country>
     <country>
         <abbreviation>MA</abbreviation>
         <name>Morocco</name>
         <capital>Rabat</capital>
         <continent>Africa</continent>
+
+        <neighbour>Algeria</neighbour>
+        <neighbour>Western Sahara</neighbour>
+        <neighbour>Spain</neighbour>
+
     </country>
     <country>
         <abbreviation>MC</abbreviation>
         <name>Monaco</name>
         <capital>Monaco</capital>
         <continent>Europe</continent>
+
+        <neighbour>France</neighbour>
+
     </country>
     <country>
         <abbreviation>MD</abbreviation>
         <name>Moldova</name>
         <capital>Chişinău</capital>
         <continent>Europe</continent>
+
+        <neighbour>Romania</neighbour>
+        <neighbour>Ukraine</neighbour>
+
     </country>
     <country>
         <abbreviation>ME</abbreviation>
         <name>Montenegro</name>
         <capital>Podgorica</capital>
         <continent>Europe</continent>
+
+        <neighbour>Albania</neighbour>
+        <neighbour>Bosnia and Herzegovina</neighbour>
+        <neighbour>Croatia</neighbour>
+        <neighbour>Kosovo</neighbour>
+        <neighbour>Serbia</neighbour>
+
     </country>
     <country>
         <abbreviation>MF</abbreviation>
         <name>Saint Martin</name>
         <capital>Marigot</capital>
         <continent>North America</continent>
+
+        <neighbour>Sint Maarten</neighbour>
+
     </country>
     <country>
         <abbreviation>MG</abbreviation>
         <name>Madagascar</name>
         <capital>Antananarivo</capital>
         <continent>Africa</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>MH</abbreviation>
         <name>Marshall Islands</name>
         <capital>Majuro</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>MK</abbreviation>
         <name>Macedonia</name>
         <capital>Skopje</capital>
         <continent>Europe</continent>
+
+        <neighbour>Albania</neighbour>
+        <neighbour>Bulgaria</neighbour>
+        <neighbour>Greece</neighbour>
+        <neighbour>Kosovo</neighbour>
+        <neighbour>Serbia</neighbour>
+
     </country>
     <country>
         <abbreviation>ML</abbreviation>
         <name>Mali</name>
         <capital>Bamako</capital>
         <continent>Africa</continent>
+
+        <neighbour>Algeria</neighbour>
+        <neighbour>Burkina Faso</neighbour>
+        <neighbour>Guinea</neighbour>
+        <neighbour>Ivory Coast</neighbour>
+        <neighbour>Mauritania</neighbour>
+        <neighbour>Niger</neighbour>
+        <neighbour>Senegal</neighbour>
+
     </country>
     <country>
         <abbreviation>MM</abbreviation>
         <name>Myanmar [Burma]</name>
         <capital>Nay Pyi Taw</capital>
         <continent>Asia</continent>
+
+        <neighbour>Bangladesh</neighbour>
+        <neighbour>China</neighbour>
+        <neighbour>India</neighbour>
+        <neighbour>Laos</neighbour>
+        <neighbour>Thailand</neighbour>
+
     </country>
     <country>
         <abbreviation>MN</abbreviation>
         <name>Mongolia</name>
         <capital>Ulan Bator</capital>
         <continent>Asia</continent>
+
+        <neighbour>China</neighbour>
+        <neighbour>Russia</neighbour>
+
     </country>
     <country>
         <abbreviation>MO</abbreviation>
         <name>Macao</name>
         <capital>Macao</capital>
         <continent>Asia</continent>
+
+        <neighbour>China</neighbour>
+
     </country>
     <country>
         <abbreviation>MP</abbreviation>
         <name>Northern Mariana Islands</name>
         <capital>Saipan</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>MQ</abbreviation>
         <name>Martinique</name>
         <capital>Fort-de-France</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>MR</abbreviation>
         <name>Mauritania</name>
         <capital>Nouakchott</capital>
         <continent>Africa</continent>
+
+        <neighbour>Algeria</neighbour>
+        <neighbour>Mali</neighbour>
+        <neighbour>Senegal</neighbour>
+        <neighbour>Western Sahara</neighbour>
+
     </country>
     <country>
         <abbreviation>MS</abbreviation>
         <name>Montserrat</name>
         <capital>Plymouth</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>MT</abbreviation>
         <name>Malta</name>
         <capital>Valletta</capital>
         <continent>Europe</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>MU</abbreviation>
         <name>Mauritius</name>
         <capital>Port Louis</capital>
         <continent>Africa</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>MV</abbreviation>
         <name>Maldives</name>
         <capital>Malé</capital>
         <continent>Asia</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>MW</abbreviation>
         <name>Malawi</name>
         <capital>Lilongwe</capital>
         <continent>Africa</continent>
+
+        <neighbour>Mozambique</neighbour>
+        <neighbour>Tanzania</neighbour>
+        <neighbour>Zambia</neighbour>
+
     </country>
     <country>
         <abbreviation>MX</abbreviation>
         <name>Mexico</name>
         <capital>Mexico City</capital>
         <continent>North America</continent>
+
+        <neighbour>Belize</neighbour>
+        <neighbour>Guatemala</neighbour>
+        <neighbour>United States</neighbour>
+
     </country>
     <country>
         <abbreviation>MY</abbreviation>
         <name>Malaysia</name>
         <capital>Kuala Lumpur</capital>
         <continent>Asia</continent>
+
+        <neighbour>Brunei</neighbour>
+        <neighbour>Indonesia</neighbour>
+        <neighbour>Thailand</neighbour>
+
     </country>
     <country>
         <abbreviation>MZ</abbreviation>
         <name>Mozambique</name>
         <capital>Maputo</capital>
         <continent>Africa</continent>
+
+        <neighbour>Malawi</neighbour>
+        <neighbour>South Africa</neighbour>
+        <neighbour>Swaziland</neighbour>
+        <neighbour>Tanzania</neighbour>
+        <neighbour>Zambia</neighbour>
+        <neighbour>Zimbabwe</neighbour>
+
     </country>
     <country>
         <abbreviation>NA</abbreviation>
         <name>Namibia</name>
         <capital>Windhoek</capital>
         <continent>Africa</continent>
+
+        <neighbour>Angola</neighbour>
+        <neighbour>Botswana</neighbour>
+        <neighbour>South Africa</neighbour>
+        <neighbour>Zambia</neighbour>
+
     </country>
     <country>
         <abbreviation>NC</abbreviation>
         <name>New Caledonia</name>
         <capital>Noumea</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>NE</abbreviation>
         <name>Niger</name>
         <capital>Niamey</capital>
         <continent>Africa</continent>
+
+        <neighbour>Algeria</neighbour>
+        <neighbour>Benin</neighbour>
+        <neighbour>Burkina Faso</neighbour>
+        <neighbour>Chad</neighbour>
+        <neighbour>Libya</neighbour>
+        <neighbour>Mali</neighbour>
+        <neighbour>Nigeria</neighbour>
+
     </country>
     <country>
         <abbreviation>NF</abbreviation>
         <name>Norfolk Island</name>
         <capital>Kingston</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>NG</abbreviation>
         <name>Nigeria</name>
         <capital>Abuja</capital>
         <continent>Africa</continent>
+
+        <neighbour>Benin</neighbour>
+        <neighbour>Cameroon</neighbour>
+        <neighbour>Chad</neighbour>
+        <neighbour>Niger</neighbour>
+
     </country>
     <country>
         <abbreviation>NI</abbreviation>
         <name>Nicaragua</name>
         <capital>Managua</capital>
         <continent>North America</continent>
+
+        <neighbour>Costa Rica</neighbour>
+        <neighbour>Honduras</neighbour>
+
     </country>
     <country>
         <abbreviation>NL</abbreviation>
         <name>Netherlands</name>
         <capital>Amsterdam</capital>
         <continent>Europe</continent>
+
+        <neighbour>Belgium</neighbour>
+        <neighbour>Germany</neighbour>
+
     </country>
     <country>
         <abbreviation>NO</abbreviation>
         <name>Norway</name>
         <capital>Oslo</capital>
         <continent>Europe</continent>
+
+        <neighbour>Finland</neighbour>
+        <neighbour>Sweden</neighbour>
+        <neighbour>Russia</neighbour>
+
     </country>
     <country>
         <abbreviation>NP</abbreviation>
         <name>Nepal</name>
         <capital>Kathmandu</capital>
         <continent>Asia</continent>
+
+        <neighbour>China</neighbour>
+        <neighbour>India</neighbour>
+
     </country>
     <country>
         <abbreviation>NR</abbreviation>
         <name>Nauru</name>
         <capital/>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>NU</abbreviation>
         <name>Niue</name>
         <capital>Alofi</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>NZ</abbreviation>
         <name>New Zealand</name>
         <capital>Wellington</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>OM</abbreviation>
         <name>Oman</name>
         <capital>Muscat</capital>
         <continent>Asia</continent>
+
+        <neighbour>Saudi Arabia</neighbour>
+        <neighbour>United Arab Emirates</neighbour>
+        <neighbour>Yemen</neighbour>
+
     </country>
     <country>
         <abbreviation>PA</abbreviation>
         <name>Panama</name>
         <capital>Panama City</capital>
         <continent>North America</continent>
+
+        <neighbour>Colombia</neighbour>
+        <neighbour>Costa Rica</neighbour>
+
     </country>
     <country>
         <abbreviation>PE</abbreviation>
         <name>Peru</name>
         <capital>Lima</capital>
         <continent>South America</continent>
+
+        <neighbour>Bolivia</neighbour>
+        <neighbour>Brazil</neighbour>
+        <neighbour>Chile</neighbour>
+        <neighbour>Colombia</neighbour>
+        <neighbour>Ecuador</neighbour>
+
     </country>
     <country>
         <abbreviation>PF</abbreviation>
         <name>French Polynesia</name>
         <capital>Papeete</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>PG</abbreviation>
         <name>Papua New Guinea</name>
         <capital>Port Moresby</capital>
         <continent>Oceania</continent>
+
+        <neighbour>Indonesia</neighbour>
+
     </country>
     <country>
         <abbreviation>PH</abbreviation>
         <name>Philippines</name>
         <capital>Manila</capital>
         <continent>Asia</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>PK</abbreviation>
         <name>Pakistan</name>
         <capital>Islamabad</capital>
         <continent>Asia</continent>
+
+        <neighbour>Afghanistan</neighbour>
+        <neighbour>China</neighbour>
+        <neighbour>India</neighbour>
+        <neighbour>Iran</neighbour>
+
     </country>
     <country>
         <abbreviation>PL</abbreviation>
         <name>Poland</name>
         <capital>Warsaw</capital>
         <continent>Europe</continent>
+
+        <neighbour>Belarus</neighbour>
+        <neighbour>Czech Republic</neighbour>
+        <neighbour>Germany</neighbour>
+        <neighbour>Lithuania</neighbour>
+        <neighbour>Russia</neighbour>
+        <neighbour>Slovakia</neighbour>
+        <neighbour>Ukraine</neighbour>
+
     </country>
     <country>
         <abbreviation>PM</abbreviation>
         <name>Saint Pierre and Miquelon</name>
         <capital>Saint-Pierre</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>PN</abbreviation>
         <name>Pitcairn Islands</name>
         <capital>Adamstown</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>PR</abbreviation>
         <name>Puerto Rico</name>
         <capital>San Juan</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>PS</abbreviation>
         <name>Palestine</name>
         <capital/>
         <continent>Asia</continent>
+
+        <neighbour>Egypt</neighbour>
+        <neighbour>Israel</neighbour>
+        <neighbour>Jordan</neighbour>
+
     </country>
     <country>
         <abbreviation>PT</abbreviation>
         <name>Portugal</name>
         <capital>Lisbon</capital>
         <continent>Europe</continent>
+
+        <neighbour>Spain</neighbour>
+
     </country>
     <country>
         <abbreviation>PW</abbreviation>
         <name>Palau</name>
         <capital>Melekeok - Palau State Capital</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>PY</abbreviation>
         <name>Paraguay</name>
         <capital>Asunción</capital>
         <continent>South America</continent>
+
+        <neighbour>Argentina</neighbour>
+        <neighbour>Bolivia</neighbour>
+        <neighbour>Brazil</neighbour>
+
     </country>
     <country>
         <abbreviation>QA</abbreviation>
         <name>Qatar</name>
         <capital>Doha</capital>
         <continent>Asia</continent>
+
+        <neighbour>Saudi Arabia</neighbour>
+        <neighbour>United Arab Emirates</neighbour>
+
     </country>
     <country>
         <abbreviation>RE</abbreviation>
         <name>Réunion</name>
         <capital>Saint-Denis</capital>
         <continent>Africa</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>RO</abbreviation>
         <name>Romania</name>
         <capital>Bucharest</capital>
         <continent>Europe</continent>
+
+        <neighbour>Bulgaria</neighbour>
+        <neighbour>Hungary</neighbour>
+        <neighbour>Moldova</neighbour>
+        <neighbour>Serbia</neighbour>
+        <neighbour>Ukraine</neighbour>
+
     </country>
     <country>
         <abbreviation>RS</abbreviation>
         <name>Serbia</name>
         <capital>Belgrade</capital>
         <continent>Europe</continent>
+
+        <neighbour>Bosnia and Herzegovina</neighbour>
+        <neighbour>Bulgaria</neighbour>
+        <neighbour>Croatia</neighbour>
+        <neighbour>Hungary</neighbour>
+        <neighbour>Kosovo</neighbour>
+        <neighbour>Macedonia</neighbour>
+        <neighbour>Montenegro</neighbour>
+        <neighbour>Romania</neighbour>
+
     </country>
     <country>
         <abbreviation>RU</abbreviation>
         <name>Russia</name>
         <capital>Moscow</capital>
         <continent>Europe</continent>
+
+        <neighbour>Azerbaijan</neighbour>
+        <neighbour>Belarus</neighbour>
+        <neighbour>China</neighbour>
+        <neighbour>Estonia</neighbour>
+        <neighbour>Finland</neighbour>
+        <neighbour>Georgia</neighbour>
+        <neighbour>Kazakhstan</neighbour>
+        <neighbour>North Korea</neighbour>
+        <neighbour>Latvia</neighbour>
+        <neighbour>Lithuania</neighbour>
+        <neighbour>Mongolia</neighbour>
+        <neighbour>Norway</neighbour>
+        <neighbour>Poland</neighbour>
+        <neighbour>Ukraine</neighbour>
+
     </country>
     <country>
         <abbreviation>RW</abbreviation>
         <name>Rwanda</name>
         <capital>Kigali</capital>
         <continent>Africa</continent>
+
+        <neighbour>Burundi</neighbour>
+        <neighbour>Democratic Republic of the Congo</neighbour>
+        <neighbour>Tanzania</neighbour>
+        <neighbour>Uganda</neighbour>
+
     </country>
     <country>
         <abbreviation>SA</abbreviation>
         <name>Saudi Arabia</name>
         <capital>Riyadh</capital>
         <continent>Asia</continent>
+
+        <neighbour>Iraq</neighbour>
+        <neighbour>Jordan</neighbour>
+        <neighbour>Kuwait</neighbour>
+        <neighbour>Oman</neighbour>
+        <neighbour>Qatar</neighbour>
+        <neighbour>United Arab Emirates</neighbour>
+        <neighbour>Yemen</neighbour>
+
     </country>
     <country>
         <abbreviation>SB</abbreviation>
         <name>Solomon Islands</name>
         <capital>Honiara</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>SC</abbreviation>
         <name>Seychelles</name>
         <capital>Victoria</capital>
         <continent>Africa</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>SD</abbreviation>
         <name>Sudan</name>
         <capital>Khartoum</capital>
         <continent>Africa</continent>
+
+        <neighbour>Central African Republic</neighbour>
+        <neighbour>Chad</neighbour>
+        <neighbour>Egypt</neighbour>
+        <neighbour>Eritrea</neighbour>
+        <neighbour>Ethiopia</neighbour>
+        <neighbour>Libya</neighbour>
+        <neighbour>South Sudan</neighbour>
+
     </country>
     <country>
         <abbreviation>SE</abbreviation>
         <name>Sweden</name>
         <capital>Stockholm</capital>
         <continent>Europe</continent>
+
+        <neighbour>Finland</neighbour>
+        <neighbour>Norway</neighbour>
+
     </country>
     <country>
         <abbreviation>SG</abbreviation>
         <name>Singapore</name>
         <capital>Singapore</capital>
         <continent>Asia</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>SH</abbreviation>
         <name>Saint Helena</name>
         <capital>Jamestown</capital>
         <continent>Africa</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>SI</abbreviation>
         <name>Slovenia</name>
         <capital>Ljubljana</capital>
         <continent>Europe</continent>
+
+        <neighbour>Austria</neighbour>
+        <neighbour>Croatia</neighbour>
+        <neighbour>Italy</neighbour>
+        <neighbour>Hungary</neighbour>
+
     </country>
     <country>
         <abbreviation>SJ</abbreviation>
         <name>Svalbard and Jan Mayen</name>
         <capital>Longyearbyen</capital>
         <continent>Europe</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>SK</abbreviation>
         <name>Slovakia</name>
         <capital>Bratislava</capital>
         <continent>Europe</continent>
+
+        <neighbour>Austria</neighbour>
+        <neighbour>Czech Republic</neighbour>
+        <neighbour>Hungary</neighbour>
+        <neighbour>Poland</neighbour>
+        <neighbour>Ukraine</neighbour>
+
     </country>
     <country>
         <abbreviation>SL</abbreviation>
         <name>Sierra Leone</name>
         <capital>Freetown</capital>
         <continent>Africa</continent>
+
+        <neighbour>Guinea</neighbour>
+        <neighbour>Liberia</neighbour>
+
     </country>
     <country>
         <abbreviation>SM</abbreviation>
         <name>San Marino</name>
         <capital>San Marino</capital>
         <continent>Europe</continent>
+
+        <neighbour>Italy</neighbour>
+
     </country>
     <country>
         <abbreviation>SN</abbreviation>
         <name>Senegal</name>
         <capital>Dakar</capital>
         <continent>Africa</continent>
+
+        <neighbour>Gambia</neighbour>
+        <neighbour>Guinea</neighbour>
+        <neighbour>Guinea-Bissau</neighbour>
+        <neighbour>Mali</neighbour>
+        <neighbour>Mauritania</neighbour>
+
     </country>
     <country>
         <abbreviation>SO</abbreviation>
         <name>Somalia</name>
         <capital>Mogadishu</capital>
         <continent>Africa</continent>
+
+        <neighbour>Djibouti</neighbour>
+        <neighbour>Ethiopia</neighbour>
+        <neighbour>Kenya</neighbour>
+
     </country>
     <country>
         <abbreviation>SR</abbreviation>
         <name>Suriname</name>
         <capital>Paramaribo</capital>
         <continent>South America</continent>
+
+        <neighbour>Brazil</neighbour>
+        <neighbour>French Guiana</neighbour>
+        <neighbour>Guyana</neighbour>
+
     </country>
     <country>
         <abbreviation>SS</abbreviation>
         <name>South Sudan</name>
         <capital>Juba</capital>
         <continent>Africa</continent>
+
+        <neighbour>Central African Republic</neighbour>
+        <neighbour>Democratic Republic of the Congo</neighbour>
+        <neighbour>Ethiopia</neighbour>
+        <neighbour>Kenya</neighbour>
+        <neighbour>Sudan</neighbour>
+        <neighbour>Uganda</neighbour>
+
     </country>
     <country>
         <abbreviation>ST</abbreviation>
         <name>São Tomé and Príncipe</name>
         <capital>São Tomé</capital>
         <continent>Africa</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>SV</abbreviation>
         <name>El Salvador</name>
         <capital>San Salvador</capital>
         <continent>North America</continent>
+
+        <neighbour>Guatemala</neighbour>
+        <neighbour>Honduras</neighbour>
+
     </country>
     <country>
         <abbreviation>SX</abbreviation>
         <name>Sint Maarten</name>
         <capital>Philipsburg</capital>
         <continent>North America</continent>
+
+        <neighbour>Saint Martin</neighbour>
+
     </country>
     <country>
         <abbreviation>SY</abbreviation>
         <name>Syria</name>
         <capital>Damascus</capital>
         <continent>Asia</continent>
+
+        <neighbour>Iraq</neighbour>
+        <neighbour>Israel</neighbour>
+        <neighbour>Jordan</neighbour>
+        <neighbour>Lebanon</neighbour>
+        <neighbour>Turkey</neighbour>
+
     </country>
     <country>
         <abbreviation>SZ</abbreviation>
         <name>Swaziland</name>
         <capital>Mbabane</capital>
         <continent>Africa</continent>
+
+        <neighbour>Mozambique</neighbour>
+        <neighbour>South Africa</neighbour>
+
     </country>
     <country>
         <abbreviation>TC</abbreviation>
         <name>Turks and Caicos Islands</name>
         <capital>Cockburn Town</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>TD</abbreviation>
         <name>Chad</name>
         <capital>N'Djamena</capital>
         <continent>Africa</continent>
+
+        <neighbour>Cameroon</neighbour>
+        <neighbour>Central African Republic</neighbour>
+        <neighbour>Libya</neighbour>
+        <neighbour>Niger</neighbour>
+        <neighbour>Nigeria</neighbour>
+        <neighbour>Sudan</neighbour>
+
     </country>
     <country>
         <abbreviation>TF</abbreviation>
         <name>French Southern Territories</name>
         <capital>Port-aux-Français</capital>
         <continent>Antarctica</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>TG</abbreviation>
         <name>Togo</name>
         <capital>Lomé</capital>
         <continent>Africa</continent>
+
+        <neighbour>Benin</neighbour>
+        <neighbour>Burkina Faso</neighbour>
+        <neighbour>Ghana</neighbour>
+
     </country>
     <country>
         <abbreviation>TH</abbreviation>
@@ -1813,78 +2241,138 @@
         <name>Tajikistan</name>
         <capital>Dushanbe</capital>
         <continent>Asia</continent>
+
+        <neighbour>Burma</neighbour>
+        <neighbour>Cambodia</neighbour>
+        <neighbour>Laos</neighbour>
+        <neighbour>Malaysia</neighbour>
+
     </country>
     <country>
         <abbreviation>TK</abbreviation>
         <name>Tokelau</name>
         <capital/>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>TL</abbreviation>
         <name>East Timor</name>
         <capital>Dili</capital>
         <continent>Oceania</continent>
+
+        <neighbour>Indonesia</neighbour>
+
     </country>
     <country>
         <abbreviation>TM</abbreviation>
         <name>Turkmenistan</name>
         <capital>Ashgabat</capital>
         <continent>Asia</continent>
+
+        <neighbour>Afghanistan</neighbour>
+        <neighbour>Iran</neighbour>
+        <neighbour>Kazakhstan</neighbour>
+        <neighbour>Uzbekistan</neighbour>
+
     </country>
     <country>
         <abbreviation>TN</abbreviation>
         <name>Tunisia</name>
         <capital>Tunis</capital>
         <continent>Africa</continent>
+
+        <neighbour>Algeria</neighbour>
+        <neighbour>Libya</neighbour>
+
     </country>
     <country>
         <abbreviation>TO</abbreviation>
         <name>Tonga</name>
         <capital>Nuku'alofa</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>TR</abbreviation>
         <name>Turkey</name>
         <capital>Ankara</capital>
         <continent>Asia</continent>
+
+        <neighbour>Armenia</neighbour>
+        <neighbour>Azerbaijan</neighbour>
+        <neighbour>Bulgaria</neighbour>
+        <neighbour>Georgia</neighbour>
+        <neighbour>Greece</neighbour>
+        <neighbour>Iran</neighbour>
+        <neighbour>Iraq</neighbour>
+        <neighbour>Syria</neighbour>
+
     </country>
     <country>
         <abbreviation>TT</abbreviation>
         <name>Trinidad and Tobago</name>
         <capital>Port of Spain</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>TV</abbreviation>
         <name>Tuvalu</name>
         <capital>Funafuti</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>TW</abbreviation>
         <name>Taiwan</name>
         <capital>Taipei</capital>
         <continent>Asia</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>TZ</abbreviation>
         <name>Tanzania</name>
         <capital>Dodoma</capital>
         <continent>Africa</continent>
+
+        <neighbour>Burundi</neighbour>
+        <neighbour>Democratic Republic of the Congo</neighbour>
+        <neighbour>Kenya</neighbour>
+        <neighbour>Malawi</neighbour>
+        <neighbour>Mozambique</neighbour>
+        <neighbour>Rwanda</neighbour>
+        <neighbour>Uganda</neighbour>
+        <neighbour>Zambia</neighbour>
+
     </country>
     <country>
         <abbreviation>UA</abbreviation>
         <name>Ukraine</name>
         <capital>Kyiv</capital>
         <continent>Europe</continent>
+
+        <neighbour>Belarus</neighbour>
+        <neighbour>Hungary</neighbour>
+        <neighbour>Moldova</neighbour>
+        <neighbour>Poland</neighbour>
+        <neighbour>Romania</neighbour>
+        <neighbour>Russia</neighbour>
+        <neighbour>Slovakia</neighbour>
+
     </country>
     <country>
         <abbreviation>UG</abbreviation>
         <name>Uganda</name>
         <capital>Kampala</capital>
         <continent>Africa</continent>
+
+        <neighbour>Democratic Republic of the Congo</neighbour>
+        <neighbour>Kenya</neighbour>
+        <neighbour>Rwanda</neighbour>
+        <neighbour>South Sudan</neighbour>
+        <neighbour>Tanzania</neighbour>
+
     </country>
     <country>
         <abbreviation>UM</abbreviation>
@@ -1897,107 +2385,176 @@
         <name>United States</name>
         <capital>Washington</capital>
         <continent>North America</continent>
+
+        <neighbour>Canada</neighbour>
+        <neighbour>Mexico</neighbour>
+
     </country>
     <country>
         <abbreviation>UY</abbreviation>
         <name>Uruguay</name>
         <capital>Montevideo</capital>
         <continent>South America</continent>
+
+        <neighbour>Argentina</neighbour>
+        <neighbour>Brazil</neighbour>
+
     </country>
     <country>
         <abbreviation>UZ</abbreviation>
         <name>Uzbekistan</name>
         <capital>Tashkent</capital>
         <continent>Asia</continent>
+
+        <neighbour>Afghanistan</neighbour>
+        <neighbour>Kazakhstan</neighbour>
+        <neighbour>Kyrgyzstan</neighbour>
+        <neighbour>Tajikistan</neighbour>
+        <neighbour>Turkmenistan</neighbour>
+
     </country>
     <country>
         <abbreviation>VA</abbreviation>
         <name>Vatican City</name>
         <capital>Vatican</capital>
         <continent>Europe</continent>
+
+        <neighbour>Italy</neighbour>
+
     </country>
     <country>
         <abbreviation>VC</abbreviation>
         <name>Saint Vincent and the Grenadines</name>
         <capital>Kingstown</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>VE</abbreviation>
         <name>Venezuela</name>
         <capital>Caracas</capital>
         <continent>South America</continent>
+
+        <neighbour>Brazil</neighbour>
+        <neighbour>Colombia</neighbour>
+        <neighbour>Guyana</neighbour>
+
     </country>
     <country>
         <abbreviation>VG</abbreviation>
         <name>British Virgin Islands</name>
         <capital>Road Town</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>VI</abbreviation>
         <name>U.S. Virgin Islands</name>
         <capital>Charlotte Amalie</capital>
         <continent>North America</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>VN</abbreviation>
         <name>Vietnam</name>
         <capital>Hanoi</capital>
         <continent>Asia</continent>
+
+        <neighbour>Cambodia</neighbour>
+        <neighbour>China</neighbour>
+        <neighbour>Laos</neighbour>
+
     </country>
     <country>
         <abbreviation>VU</abbreviation>
         <name>Vanuatu</name>
         <capital>Port Vila</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>WF</abbreviation>
         <name>Wallis and Futuna</name>
         <capital>Mata-Utu</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>WS</abbreviation>
         <name>Samoa</name>
         <capital>Apia</capital>
         <continent>Oceania</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>XK</abbreviation>
         <name>Kosovo</name>
         <capital>Pristina</capital>
         <continent>Europe</continent>
+
+        <neighbour>Albania</neighbour>
+        <neighbour>Macedonia</neighbour>
+        <neighbour>Montenegro</neighbour>
+        <neighbour>Serbia</neighbour>
+
     </country>
     <country>
         <abbreviation>YE</abbreviation>
         <name>Yemen</name>
         <capital>Sanaa</capital>
         <continent>Asia</continent>
+
+        <neighbour>Oman</neighbour>
+        <neighbour>Saudi Arabia</neighbour>
+
     </country>
     <country>
         <abbreviation>YT</abbreviation>
         <name>Mayotte</name>
         <capital>Mamoutzou</capital>
         <continent>Africa</continent>
+        <borderingCountries/>
     </country>
     <country>
         <abbreviation>ZA</abbreviation>
         <name>South Africa</name>
         <capital>Pretoria</capital>
         <continent>Africa</continent>
+
+        <neighbour>Botswana</neighbour>
+        <neighbour>Lesotho</neighbour>
+        <neighbour>Mozambique</neighbour>
+        <neighbour>Namibia</neighbour>
+        <neighbour>Swaziland</neighbour>
+        <neighbour>Zimbabwe</neighbour>
+
     </country>
     <country>
         <abbreviation>ZM</abbreviation>
         <name>Zambia</name>
         <capital>Lusaka</capital>
         <continent>Africa</continent>
+
+        <neighbour>Angola</neighbour>
+        <neighbour>Botswana</neighbour>
+        <neighbour>Democratic Republic of the Congo</neighbour>
+        <neighbour>Malawi</neighbour>
+        <neighbour>Mozambique</neighbour>
+        <neighbour>Namibia</neighbour>
+        <neighbour>Tanzania</neighbour>
+        <neighbour>Zimbabwe</neighbour>
+
     </country>
     <country>
         <abbreviation>ZW</abbreviation>
         <name>Zimbabwe</name>
         <capital>Harare</capital>
         <continent>Africa</continent>
+
+        <neighbour>Botswana</neighbour>
+        <neighbour>Mozambique</neighbour>
+        <neighbour>South Africa</neighbour>
+        <neighbour>Zambia</neighbour>
+
     </country>
 </countries>

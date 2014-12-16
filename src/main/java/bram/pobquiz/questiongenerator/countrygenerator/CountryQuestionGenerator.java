@@ -21,6 +21,10 @@ public class CountryQuestionGenerator {
 		CapitalToCountryQuestionGenerator capitalToState = new CapitalToCountryQuestionGenerator(countriesOfTheWorld, questionList);
 		questionList = capitalToState.build();
 
+		BorderingCountriesToCountryQuestionGenerator neighbourToCountry = new BorderingCountriesToCountryQuestionGenerator(countriesOfTheWorld, questionList);
+		questionList = neighbourToCountry.build();
+		
+			
 		questionList.save();
 	}
 
