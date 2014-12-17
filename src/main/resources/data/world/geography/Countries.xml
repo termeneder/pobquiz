@@ -184,7 +184,7 @@
         <capital>Dhaka</capital>
         <continent>Asia</continent>
 
-        <neighbour>Burma</neighbour>
+        <neighbour>Myanmar [Burma]</neighbour>
         <neighbour>India</neighbour>
 
     </country>
@@ -557,7 +557,7 @@
     </country>
     <country>
         <abbreviation>CW</abbreviation>
-        <name>Curacao</name>
+        <name>Curaçao</name>
         <capital>Willemstad</capital>
         <continent>North America</continent>
         <borderingCountries/>
@@ -1297,7 +1297,7 @@
         <capital>Vientiane</capital>
         <continent>Asia</continent>
 
-        <neighbour>Burma</neighbour>
+        <neighbour>Myanmar [Burma]</neighbour>
         <neighbour>Cambodia</neighbour>
         <neighbour>China</neighbour>
         <neighbour>Thailand</neighbour>
@@ -2242,7 +2242,7 @@
         <capital>Dushanbe</capital>
         <continent>Asia</continent>
 
-        <neighbour>Burma</neighbour>
+        <neighbour>Myanmar [Burma]</neighbour>
         <neighbour>Cambodia</neighbour>
         <neighbour>Laos</neighbour>
         <neighbour>Malaysia</neighbour>
