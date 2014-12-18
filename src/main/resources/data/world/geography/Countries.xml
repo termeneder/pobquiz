@@ -2235,6 +2235,12 @@
         <name>Thailand</name>
         <capital>Bangkok</capital>
         <continent>Asia</continent>
+        
+        <neighbour>Myanmar [Burma]</neighbour>
+        <neighbour>Cambodia</neighbour>
+        <neighbour>Laos</neighbour>
+        <neighbour>Malaysia</neighbour>
+        
     </country>
     <country>
         <abbreviation>TJ</abbreviation>
@@ -2242,10 +2248,10 @@
         <capital>Dushanbe</capital>
         <continent>Asia</continent>
 
-        <neighbour>Myanmar [Burma]</neighbour>
-        <neighbour>Cambodia</neighbour>
-        <neighbour>Laos</neighbour>
-        <neighbour>Malaysia</neighbour>
+        <neighbour>Afghanistan</neighbour>
+        <neighbour>China</neighbour>
+        <neighbour>Kyrgyzstan</neighbour>
+        <neighbour>Uzbekistan</neighbour>
 
     </country>
     <country>
