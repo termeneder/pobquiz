@@ -21,10 +21,11 @@ Vragen
 		Staat -> grootste stad
 		stad -> staat
 
-	Films (beginnend met top 1000)
+	Films
 		! Naam film -> Regisseur
 		! Regisseur + jaar -> Naam film
 		Hoofdrolspelers -> Naam film
+		Voeg films toe die ik heb gezien
 	
 	Presidenten van Amerika
 		Voornaam -> Achternaam
