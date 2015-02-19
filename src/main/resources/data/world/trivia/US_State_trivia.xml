@@ -124,7 +124,13 @@
         <Category>US</Category>
         <Category>US States</Category>
     </Question>
-
+    <Question>
+        <Question>On what states does Washington, D.C. border?</Question>
+        <Answer>Maryland</Answer>
+        <Answer>Virginia</Answer>
+        <Category>US</Category>
+        <Category>US States</Category>
+    </Question>
 
 
 

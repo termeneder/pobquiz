@@ -35,7 +35,6 @@ public class RunQuiz {
 		while (!goal.goalReached(quiz)) {
 			System.out.println();
 			quiz.askQuestion();
-			
 		}
 		System.out.println("\nGoal reached!\n");
 		System.out.println(quiz.getSessionInfo());
