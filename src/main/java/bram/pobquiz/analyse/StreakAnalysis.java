@@ -9,10 +9,10 @@ public class StreakAnalysis implements Analysis {
 
 	private static final int LEFT_PAD_DISTANCE = 50;
 	
-	private final int c_goodStreak;
+	private final int[] c_goodStreaks;
 	
-	public StreakAnalysis(int goodStreak) {
-		c_goodStreak = goodStreak;
+	public StreakAnalysis(int ... goodStreaks) {
+		c_goodStreaks = goodStreaks;
 	}
 	
 	@Override
@@ -20,7 +20,9 @@ public class StreakAnalysis implements Analysis {
 		String str = "Streak Info: \n\n";
 		
 		str += StringUtils.leftPad("Positive/negative streaks: ", LEFT_PAD_DISTANCE) + " " + getStreakAbove(list, 0) + "/" + getStreakBelow(list, 0) + "\n";
-		str += StringUtils.leftPad("Streaks of " + c_goodStreak + " and above: ", LEFT_PAD_DISTANCE) + " " + getStreakAbove(list, c_goodStreak-1) + "\n";
+		for (int streak : c_goodStreaks) {
+			str += StringUtils.leftPad("Streaks of " + streak + " and above: ", LEFT_PAD_DISTANCE) + " " + getStreakAbove(list, streak-1) + "\n";
+		}
 		return str;
 	}
 

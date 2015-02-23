@@ -10,7 +10,7 @@ public class Analyser {
 	private final Analysis[] c_analysisArray = {
 			new GeneralInfoAnalysis(),
 			new LearnedQuestionAnalysis(10,80),
-			new StreakAnalysis(5),
+			new StreakAnalysis(5, 10, 25),
 			new DistributionAnalysis(Group.ASKED),
 			new DistributionAnalysis(Group.CORRECT),
 			new DistributionAnalysis(Group.SALDO),
