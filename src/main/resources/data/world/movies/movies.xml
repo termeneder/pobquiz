@@ -486,6 +486,14 @@
         <actor></actor>
     </Movie>
     <Movie>
+        <name>American Sniper</name>
+        <year>2014</year>
+        <director>Clint Eastwood</director>
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+    </Movie>
+    <Movie>
         <name>American Splendor</name>
         <year>2003</year>
         <director>Shari Springer Berman</director>
@@ -865,6 +873,15 @@
         <actor></actor>
     </Movie>
     <Movie>
+        <name>Big Hero 6</name>
+        <year>2014</year>
+        <director>Don Hall</director>
+        <director>Chris Williams</director>
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+    </Movie>
+    <Movie>
         <name>Big Fish</name>
         <year>2003</year>
         <director>Tim Burton</director>
@@ -876,6 +893,14 @@
         <name>Billy Elliot</name>
         <year>2000</year>
         <director>Stephen Daldry</director>
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+    </Movie>
+    <Movie>
+        <name>Birdman: Or (The Unexpected Virtue of Ignorance)</name>
+        <year>2014</year>
+        <director>Alejandro González Iñárritu</director>
         <actor></actor>
         <actor></actor>
         <actor></actor>
@@ -5009,6 +5034,14 @@
         <actor></actor>
     </Movie>
     <Movie>
+        <name>Selma</name>
+        <year>2014</year>
+        <director>Ava DuVernay</director>
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+    </Movie>
+    <Movie>
         <name>Sense and Sensibility</name>
         <year>1995</year>
         <director>Ang Lee</director>
@@ -6464,6 +6497,14 @@
         <actor></actor>
     </Movie>
     <Movie>
+        <name>The Imitation Game</name>
+        <year>2014</year>
+        <director>Morten Tyldum</director>
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+    </Movie>
+    <Movie>
         <name>The Impossible</name>
         <year>2012</year>
         <director>J.A. Bayona</director>
@@ -7315,6 +7356,14 @@
         <actor></actor>
     </Movie>
     <Movie>
+        <name>The Theory of Everything</name>
+        <year>2014</year>
+        <director>James Marsh</director>
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+    </Movie>
+    <Movie>
         <name>The Thin Red Line</name>
         <year>1998</year>
         <director>Terrence Malick</director>
@@ -7893,6 +7942,14 @@
         <name>Where Eagles Dare</name>
         <year>1968</year>
         <director>Brian G. Hutton</director>
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+    </Movie>
+    <Movie>
+        <name>Whiplash</name>
+        <year>2014</year>
+        <director>Damien Chazelle</director>
         <actor></actor>
         <actor></actor>
         <actor></actor>
