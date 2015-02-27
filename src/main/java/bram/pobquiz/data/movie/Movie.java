@@ -22,4 +22,8 @@ public class Movie {
 	public Integer getYear() {
 		return c_year;
 	}
+	
+	public List<String> getDirectors() {
+		return c_directorList;
+	}
 }
