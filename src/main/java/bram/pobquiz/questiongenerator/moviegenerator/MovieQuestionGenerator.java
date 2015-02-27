@@ -21,6 +21,9 @@ public class MovieQuestionGenerator {
 		MovieNameToDirectorQuestionGenerator movieNameToDirector = new MovieNameToDirectorQuestionGenerator(movieList, questionList);
 		questionList = movieNameToDirector.build();
 		
+		DirectorAndYearToMovieNameQuestionGenerator directorAndYearToMovie = new DirectorAndYearToMovieNameQuestionGenerator(movieList, questionList);
+		questionList = directorAndYearToMovie.build();
+		
 		questionList.save();
 	}
 

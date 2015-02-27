@@ -70,7 +70,7 @@ public class DirectorAndYearToMovieNameQuestionGenerator {
 			}
 			question += movie.getDirectors().get(i);
 		}
-		question += "in " + movie.getYear() + "?";
+		question += " in " + movie.getYear() + "?";
 		return question;
 	}
 	
