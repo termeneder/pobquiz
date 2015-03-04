@@ -81,7 +81,7 @@ Vragen
 		Welke 5 getallen volgen op deze 5 getallen (plaats n tot n+5)
 		
 	Oorlogen
-		naam -> jaren
+		! naam -> jaren
 		naam -> landen
 		landen + jaren -> naam
 		
