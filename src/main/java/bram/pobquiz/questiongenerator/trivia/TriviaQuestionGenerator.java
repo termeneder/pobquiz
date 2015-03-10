@@ -16,6 +16,12 @@ public class TriviaQuestionGenerator {
 		TriviaFromFileQuestionGenerator usPresidents = new TriviaFromFileQuestionGenerator(questionList, "src/main/resources/data/world/trivia/US_Presidents_trivia.xml");
 		questionList = usPresidents.build();
 		
+		TriviaFromFileQuestionGenerator country = new TriviaFromFileQuestionGenerator(questionList, "src/main/resources/data/world/trivia/Countries_trivia.xml");
+		questionList = country.build();
+		
+		TriviaFromFileQuestionGenerator ukmonarchy = new TriviaFromFileQuestionGenerator(questionList, "src/main/resources/data/world/trivia/British_monarch_trivia.xml");
+		questionList = ukmonarchy.build();
+		
 		questionList.save();
 	}
 

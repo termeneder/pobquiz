@@ -1,0 +1,521 @@
+<UKMonarchs>
+    <monarch>
+        <name>Anne</name>
+        <house>House of Stuart</house>
+        <beginTerm>1707</beginTerm>
+        <endTerm>1714</endTerm>
+        <gender>female</gender>
+        <monarch_of>Great Britain</monarch_of>
+    </monarch>
+    <monarch>
+        <name>George I</name>
+        <house>House of Hanover</house>
+        <beginTerm>1714</beginTerm>
+        <endTerm>1727</endTerm>
+        <gender>male</gender>
+        <monarch_of>Great Britain</monarch_of>
+    </monarch>
+    <monarch>
+        <name>George II</name>
+        <house>House of Hanover</house>
+        <beginTerm>1727</beginTerm>
+        <endTerm>1760</endTerm>
+        <gender>male</gender>
+        <monarch_of>Great Britain</monarch_of>
+    </monarch>
+    <monarch>
+        <name>George III</name>
+        <house>House of Hanover</house>
+        <beginTerm>1760</beginTerm>
+        <endTerm>1820</endTerm>
+        <gender>male</gender>
+        <monarch_of>Great Britain</monarch_of>
+    </monarch>
+    <monarch>
+        <name>George IV</name>
+        <house>House of Hanover</house>
+        <beginTerm>1820</beginTerm>
+        <endTerm>1830</endTerm>
+        <gender>male</gender>
+        <monarch_of>Great Britain</monarch_of>
+    </monarch>
+    <monarch>
+        <name>William IV</name>
+        <house>House of Hanover</house>
+        <beginTerm>1830</beginTerm>
+        <endTerm>1837</endTerm>
+        <gender>male</gender>
+        <monarch_of>Great Britain</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Victoria</name>
+        <house>House of Hanover</house>
+        <beginTerm>1837</beginTerm>
+        <endTerm>1901</endTerm>
+        <gender>female</gender>
+        <monarch_of>Great Britain</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edward VII</name>
+        <house>House of Saxe-Coburg and Gotha</house>
+        <beginTerm>1901</beginTerm>
+        <endTerm>1910</endTerm>
+        <gender>male</gender>
+        <monarch_of>Great Britain</monarch_of>
+    </monarch>
+    <monarch>
+        <name>George V</name>
+        <house>House of Windsor</house>
+        <beginTerm>1910</beginTerm>
+        <endTerm>1936</endTerm>
+        <gender>male</gender>
+        <monarch_of>Great Britain</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edward VIII</name>
+        <house>House of Windsor</house>
+        <beginTerm>1936</beginTerm>
+        <endTerm>1936</endTerm>
+        <gender>male</gender>
+        <monarch_of>Great Britain</monarch_of>
+    </monarch>
+    <monarch>
+        <name>George VI</name>
+        <house>House of Windsor</house>
+        <beginTerm>1936</beginTerm>
+        <endTerm>1952</endTerm>
+        <gender>male</gender>
+        <monarch_of>Great Britain</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Elizabeth II</name>
+        <house>House of Windsor</house>
+        <beginTerm>1952</beginTerm>
+        <gender>female</gender>
+        <monarch_of>Great Britain</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Alfred the Great</name>
+        <house>House of Wessex</house>
+        <beginTerm>871</beginTerm>
+        <endTerm>899</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edward the Elder</name>
+        <house>House of Wessex</house>
+        <beginTerm>899</beginTerm>
+        <endTerm>924</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Æthelstan</name>
+        <house>House of Wessex</house>
+        <beginTerm>924</beginTerm>
+        <endTerm>939</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edmund I</name>
+        <house>House of Wessex</house>
+        <beginTerm>939</beginTerm>
+        <endTerm>946</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Eadred</name>
+        <house>House of Wessex</house>
+        <beginTerm>946</beginTerm>
+        <endTerm>955</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Eadwig</name>
+        <house>House of Wessex</house>
+        <beginTerm>955</beginTerm>
+        <endTerm>959</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edgar the Peaceful</name>
+        <house>House of Wessex</house>
+        <beginTerm>959</beginTerm>
+        <endTerm>976</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edward the Martyr</name>
+        <house>House of Wessex</house>
+        <beginTerm>975</beginTerm>
+        <endTerm>978</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Æthelred the Unready</name>
+        <house>House of Wessex</house>
+        <beginTerm>978</beginTerm>
+        <endTerm>1013</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Sweyn Forkbeard</name>
+        <house>House of Denmark</house>
+        <beginTerm>1013</beginTerm>
+        <endTerm>1014</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Æthelred the Unready</name>
+        <house>House of Wessex</house>
+        <beginTerm>1014</beginTerm>
+        <endTerm>1016</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edmund Ironside</name>
+        <house>House of Wessex</house>
+        <beginTerm>1016</beginTerm>
+        <endTerm>1016</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Cnut</name>
+        <house>House of Denmark</house>
+        <beginTerm>1016</beginTerm>
+        <endTerm>1035</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Harold Harefoot</name>
+        <house>House of Denmark</house>
+        <beginTerm>1035</beginTerm>
+        <endTerm>1040</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Harthacnut</name>
+        <house>House of Denmark</house>
+        <beginTerm>1040</beginTerm>
+        <endTerm>1042</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edward the Confessor</name>
+        <house>House of Wessex</house>
+        <beginTerm>1042</beginTerm>
+        <endTerm>1066</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edward the Confessor</name>
+        <house>House of Wessex</house>
+        <beginTerm>1042</beginTerm>
+        <endTerm>1066</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Harold Godwinson</name>
+        <house>House of Wessex</house>
+        <beginTerm>1066</beginTerm>
+        <endTerm>1066</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edgar the Ætheling</name>
+        <house>House of Wessex</house>
+        <beginTerm>1066</beginTerm>
+        <endTerm>1066</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>William I</name>
+        <house>House of Normandy</house>
+        <beginTerm>1066</beginTerm>
+        <endTerm>1087</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>William II</name>
+        <house>House of Normandy</house>
+        <beginTerm>1087</beginTerm>
+        <endTerm>1100</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Henry I</name>
+        <house>House of Normandy</house>
+        <beginTerm>1100</beginTerm>
+        <endTerm>1135</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Stephen</name>
+        <house>House of Blois</house>
+        <beginTerm>1135</beginTerm>
+        <endTerm>1154</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Henry II</name>
+        <house>House of Anjou</house>
+        <beginTerm>1154</beginTerm>
+        <endTerm>1189</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Henry the Young King</name>
+        <house>House of Anjou</house>
+        <beginTerm>1170</beginTerm>
+        <endTerm>1183</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Richard I</name>
+        <house>House of Anjou</house>
+        <beginTerm>1189</beginTerm>
+        <endTerm>1199</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>John</name>
+        <house>House of Anjou</house>
+        <beginTerm>1199</beginTerm>
+        <endTerm>1216</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Henry III</name>
+        <house>House of Plantagenet</house>
+        <beginTerm>1216</beginTerm>
+        <endTerm>1272</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edward I</name>
+        <house>House of Plantagenet</house>
+        <beginTerm>1272</beginTerm>
+        <endTerm>1307</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edward II</name>
+        <house>House of Plantagenet</house>
+        <beginTerm>1307</beginTerm>
+        <endTerm>1327</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edward III</name>
+        <house>House of Plantagenet</house>
+        <beginTerm>1327</beginTerm>
+        <endTerm>1377</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Richard II</name>
+        <house>House of Plantagenet</house>
+        <beginTerm>1377</beginTerm>
+        <endTerm>1399</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Henry IV</name>
+        <house>House of Lancaster</house>
+        <beginTerm>1399</beginTerm>
+        <endTerm>1413</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Henry V</name>
+        <house>House of Lancaster</house>
+        <beginTerm>1413</beginTerm>
+        <endTerm>1422</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Henry VI</name>
+        <house>House of Lancaster</house>
+        <beginTerm>1422</beginTerm>
+        <endTerm>1461</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edward IV</name>
+        <house>House of York</house>
+        <beginTerm>1461</beginTerm>
+        <endTerm>1470</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Henry VI</name>
+        <house>House of Lancaster</house>
+        <beginTerm>1470</beginTerm>
+        <endTerm>1471</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edward IV</name>
+        <house>House of York</house>
+        <beginTerm>1471</beginTerm>
+        <endTerm>1483</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edward V</name>
+        <house>House of York</house>
+        <beginTerm>1483</beginTerm>
+        <endTerm>1483</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Richard III</name>
+        <house>House of York</house>
+        <beginTerm>1483</beginTerm>
+        <endTerm>1485</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Henry VII</name>
+        <house>House of Tudor</house>
+        <beginTerm>1485</beginTerm>
+        <endTerm>1509</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Henry VIII</name>
+        <house>House of Tudor</house>
+        <beginTerm>1509</beginTerm>
+        <endTerm>1547</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edward VI</name>
+        <house>House of Tudor</house>
+        <beginTerm>1547</beginTerm>
+        <endTerm>1553</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Mary I</name>
+        <house>House of Tudor</house>
+        <beginTerm>1553</beginTerm>
+        <endTerm>1558</endTerm>
+        <gender>female</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Philip II of Spain</name>
+        <house>House of Tudor</house>
+        <beginTerm>1554</beginTerm>
+        <endTerm>1558</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Elizabeth I</name>
+        <house>House of Tudor</house>
+        <beginTerm>1558</beginTerm>
+        <endTerm>1603</endTerm>
+        <gender>female</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>James I</name>
+        <house>House of Stuart</house>
+        <beginTerm>1603</beginTerm>
+        <endTerm>1625</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Charles I</name>
+        <house>House of Stuart</house>
+        <beginTerm>1625</beginTerm>
+        <endTerm>1649</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Charles II</name>
+        <house>House of Stuart</house>
+        <beginTerm>1660</beginTerm>
+        <endTerm>1685</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>James II</name>
+        <house>House of Stuart</house>
+        <beginTerm>1685</beginTerm>
+        <endTerm>1688</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Mary II</name>
+        <house>House of Stuart</house>
+        <beginTerm>1689</beginTerm>
+        <endTerm>1694</endTerm>
+        <gender>female</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>William III</name>
+        <house>House of Stuart</house>
+        <beginTerm>1689</beginTerm>
+        <endTerm>1702</endTerm>
+        <gender>male</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Anne</name>
+        <house>House of Stuart</house>
+        <beginTerm>1702</beginTerm>
+        <endTerm>1707</endTerm>
+        <gender>female</gender>
+        <monarch_of>England</monarch_of>
+    </monarch>
+</UKMonarchs>
