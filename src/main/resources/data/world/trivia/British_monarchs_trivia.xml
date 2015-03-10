@@ -14,7 +14,7 @@
     </Question>
     <Question>
         <Question>Which house ruled Great Britain from 1707 to 1714?</Question>
-        <Answer>Stuart</Answer>
+        <Answer>House of Stuart</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
@@ -27,7 +27,7 @@
     </Question>
     <Question>
         <Question>Which house ruled Great Britain from 1714 to 1901?</Question>
-        <Answer>Hanover</Answer>
+        <Answer>House of Hanover</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
@@ -40,7 +40,7 @@
     </Question>
     <Question>
         <Question>Which house ruled Great Britain from 1901 to 1917?</Question>
-        <Answer>Saxe-Coburg and Gotha</Answer>
+        <Answer>House of Saxe-Coburg and Gotha</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
@@ -53,7 +53,7 @@
     </Question>
     <Question>
         <Question>Which house rules Great Britain from 1917 to present?</Question>
-        <Answer>Windsor</Answer>
+        <Answer>House of Windsor</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
@@ -76,19 +76,19 @@
     </Question>
     <Question>
         <Question>Which house ruled England from 871 to 1013?</Question>
-        <Answer>Wessex</Answer>
+        <Answer>House of Wessex</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
     <Question>
         <Question>Which house ruled England from 1014 to 1016?</Question>
-        <Answer>Wessex</Answer>
+        <Answer>House of Wessex</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
     <Question>
         <Question>Which house ruled England from 1042 to 1066?</Question>
-        <Answer>Wessex</Answer>
+        <Answer>House of Wessex</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
@@ -103,13 +103,13 @@
     </Question>
     <Question>
         <Question>Which house ruled England from 1013 to 1014?</Question>
-        <Answer>Denmark</Answer>
+        <Answer>House of Denmark</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
     <Question>
         <Question>Which house ruled England from 1016 to 1042?</Question>
-        <Answer>Denmark</Answer>
+        <Answer>House of Denmark</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
@@ -122,7 +122,7 @@
     </Question>
     <Question>
         <Question>Which house ruled England from 1066 to 1135?</Question>
-        <Answer>Normandy</Answer>
+        <Answer>House of Normandy</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
@@ -135,7 +135,7 @@
     </Question>
     <Question>
         <Question>Which house ruled England from 1135 to 1154?</Question>
-        <Answer>Blois</Answer>
+        <Answer>House of Blois</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
@@ -154,7 +154,7 @@
     </Question>
     <Question>
         <Question>Which house ruled England from 1154 to 1216?</Question>
-        <Answer>Anjou</Answer>
+        <Answer>House of Anjou</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
@@ -179,7 +179,7 @@
     </Question>
     <Question>
         <Question>Which house ruled England from 1216 to 1399?</Question>
-        <Answer>Plantagenet</Answer>
+        <Answer>House of Plantagenet</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
@@ -194,13 +194,13 @@
     </Question>
     <Question>
         <Question>Which house ruled England from 1399 to 1461?</Question>
-        <Answer>Lancaster</Answer>
+        <Answer>House of Lancaster</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
     <Question>
         <Question>Which house ruled England from 1470 to 1471?</Question>
-        <Answer>Lancaster</Answer>
+        <Answer>House of Lancaster</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
@@ -215,13 +215,13 @@
     </Question>
     <Question>
         <Question>Which house ruled England from 1461 to 1470?</Question>
-        <Answer>York</Answer>
+        <Answer>House of York</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
     <Question>
         <Question>Which house ruled England from 1471 to 1485?</Question>
-        <Answer>York</Answer>
+        <Answer>House of York</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
@@ -234,7 +234,7 @@
     </Question>
     <Question>
         <Question>Which house ruled England from 1485 to 1603?</Question>
-        <Answer>Tudors</Answer>
+        <Answer>House of Tudors</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
@@ -259,7 +259,7 @@
     </Question>
     <Question>
         <Question>Which house ruled England from 1603 to 1649?</Question>
-        <Answer>Tudors</Answer>
+        <Answer>House of Stuart</Answer>
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
@@ -345,5 +345,129 @@
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
-    
+    <Question>
+        <Question>The house of Alpin ruled Scotland from when to when?</Question>
+        <Answer>848</Answer>
+        <Answer>1034</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>Which house ruled Scotland from 848 to 1034?</Question>
+        <Answer>House of Alpin</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>The house of Dunkeld ruled Scotland from when to when?</Question>
+        <Answer>1034</Answer>
+        <Answer>1286</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>Which house ruled Scotland from 1034 to 1286?</Question>
+        <Answer>House of Dunkeld</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>The house of Sverre ruled Scotland from when to when?</Question>
+        <Answer>1286</Answer>
+        <Answer>1290</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>Which house ruled Scotland from 1286 to 1290?</Question>
+        <Answer>House of Sverre</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>When did the First Interregnum of Scotland take place?</Question>
+        <Answer>1290</Answer>
+        <Answer>1292</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question> 
+    <Question>
+        <Question>When did the Second Interregnum of Scotland take place?</Question>
+        <Answer>1296</Answer>
+        <Answer>1306</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question> 
+    <Question>
+        <Question>What were the de facto heads of state called during the Interregnums of Scotland?</Question>
+        <Answer>Guardians of Scotland</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>The house of Balliol ruled Scotland from when to when?</Question>
+        <Answer>1292</Answer>
+        <Answer>1296</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>Which house ruled Scotland from 1292 to 1296?</Question>
+        <Answer>House of Balliol</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>The house of Bruce ruled Scotland from when to when?</Question>
+        <Answer>1306</Answer>
+        <Answer>1371</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>Which house ruled Scotland from 1306 to 1371?</Question>
+        <Answer>House of Bruce</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>The house of Stewart ruled Scotland from when to when?</Question>
+        <Answer>1371</Answer>
+        <Answer>1567</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>Which house ruled Scotland from 1371 to 1567?</Question>
+        <Answer>House of Stewart</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>The house of Stuart ruled Scotland from when to when?</Question>
+        <Answer>1567</Answer>
+        <Answer>1651</Answer>
+        <Answer>1660</Answer>
+        <Answer>1707</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>Which house ruled Scotland from 1567 to 1651?</Question>
+        <Answer>House of Stuart</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>Which house ruled Scotland from 1660 to 1707?</Question>
+        <Answer>House of Stuart</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>Who consistently claimed, starting in 1976, to be the "uncrowned King of Scotland"?</Question>
+        <Answer>Idi Amin Dada</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
 </Trivia>

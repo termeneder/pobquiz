@@ -518,4 +518,404 @@
         <gender>female</gender>
         <monarch_of>England</monarch_of>
     </monarch>
+    <monarch>
+        <name>Kenneth MacAlpin I</name>
+        <house>House of Alpin</house>
+        <beginTerm>843</beginTerm>
+        <endTerm>858</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Donald I</name>
+        <house>House of Alpin</house>
+        <beginTerm>858</beginTerm>
+        <endTerm>862</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Constantine I</name>
+        <house>House of Alpin</house>
+        <beginTerm>862</beginTerm>
+        <endTerm>877</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Áed</name>
+        <house>House of Alpin</house>
+        <beginTerm>877</beginTerm>
+        <endTerm>878</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Giric</name>
+        <house>House of Alpin</house>
+        <beginTerm>878</beginTerm>
+        <endTerm>889</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Eochaid</name>
+        <house>House of Alpin</house>
+        <beginTerm>878</beginTerm>
+        <endTerm>889</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Donald II</name>
+        <house>House of Alpin</house>
+        <beginTerm>889</beginTerm>
+        <endTerm>900</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Constantine II</name>
+        <house>House of Alpin</house>
+        <beginTerm>900</beginTerm>
+        <endTerm>943</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Malcolm I</name>
+        <house>House of Alpin</house>
+        <beginTerm>943</beginTerm>
+        <endTerm>954</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Indulf</name>
+        <house>House of Alpin</house>
+        <beginTerm>954</beginTerm>
+        <endTerm>962</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Dub</name>
+        <house>House of Alpin</house>
+        <beginTerm>962</beginTerm>
+        <endTerm>967</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Cuilén</name>
+        <house>House of Alpin</house>
+        <beginTerm>967</beginTerm>
+        <endTerm>971</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Amlaíb</name>
+        <house>House of Alpin</house>
+        <beginTerm>973</beginTerm>
+        <endTerm>977</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Kenneth II</name>
+        <house>House of Alpin</house>
+        <beginTerm>971</beginTerm>
+        <endTerm>995</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Constantine III</name>
+        <house>House of Alpin</house>
+        <beginTerm>995</beginTerm>
+        <endTerm>997</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Kenneth III</name>
+        <house>House of Alpin</house>
+        <beginTerm>997</beginTerm>
+        <endTerm>1005</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Malcolm II</name>
+        <house>House of Alpin</house>
+        <beginTerm>1005</beginTerm>
+        <endTerm>1034</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Duncan I</name>
+        <house>House of Dunkeld</house>
+        <beginTerm>1034</beginTerm>
+        <endTerm>1040</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Macbeth</name>
+        <house>House of Dunkeld</house>
+        <beginTerm>1040</beginTerm>
+        <endTerm>1057</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Lulach</name>
+        <house>House of Dunkeld</house>
+        <beginTerm>1057</beginTerm>
+        <endTerm>1058</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Malcolm III</name>
+        <house>House of Dunkeld</house>
+        <beginTerm>1058</beginTerm>
+        <endTerm>1093</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Donald III</name>
+        <house>House of Dunkeld</house>
+        <beginTerm>1093</beginTerm>
+        <endTerm>1097</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Duncan II</name>
+        <house>House of Dunkeld</house>
+        <beginTerm>1094</beginTerm>
+        <endTerm>1094</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Edgar</name>
+        <house>House of Dunkeld</house>
+        <beginTerm>1097</beginTerm>
+        <endTerm>1107</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Alexander I</name>
+        <house>House of Dunkeld</house>
+        <beginTerm>1107</beginTerm>
+        <endTerm>1124</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>David I</name>
+        <house>House of Dunkeld</house>
+        <beginTerm>1124</beginTerm>
+        <endTerm>1153</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Malcolm IV</name>
+        <house>House of Dunkeld</house>
+        <beginTerm>1153</beginTerm>
+        <endTerm>1165</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>William I</name>
+        <house>House of Dunkeld</house>
+        <beginTerm>1165</beginTerm>
+        <endTerm>1214</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Alexander II</name>
+        <house>House of Dunkeld</house>
+        <beginTerm>1214</beginTerm>
+        <endTerm>1249</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Alexander III</name>
+        <house>House of Dunkeld</house>
+        <beginTerm>1249</beginTerm>
+        <endTerm>1286</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Margaret</name>
+        <house>House of Sverre</house>
+        <beginTerm>1286</beginTerm>
+        <endTerm>1290</endTerm>
+        <gender>female</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>John Balliol</name>
+        <house>House of Balliol</house>
+        <beginTerm>1292</beginTerm>
+        <endTerm>1296</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Robert I</name>
+        <house>House of Bruce</house>
+        <beginTerm>1306</beginTerm>
+        <endTerm>1329</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>David II</name>
+        <house>House of Bruce</house>
+        <beginTerm>1329</beginTerm>
+        <endTerm>1371</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Robert II</name>
+        <house>House of Stewart</house>
+        <beginTerm>1371</beginTerm>
+        <endTerm>1390</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Robert III</name>
+        <house>House of Stewart</house>
+        <beginTerm>1390</beginTerm>
+        <endTerm>1406</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>James I</name>
+        <house>House of Stewart</house>
+        <beginTerm>1406</beginTerm>
+        <endTerm>1437</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>James II</name>
+        <house>House of Stewart</house>
+        <beginTerm>1437</beginTerm>
+        <endTerm>1460</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>James III</name>
+        <house>House of Stewart</house>
+        <beginTerm>1460</beginTerm>
+        <endTerm>1488</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>James IV</name>
+        <house>House of Stewart</house>
+        <beginTerm>1488</beginTerm>
+        <endTerm>1513</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>James V</name>
+        <house>House of Stewart</house>
+        <beginTerm>1513</beginTerm>
+        <endTerm>1542</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Mary I</name>
+        <house>House of Stewart</house>
+        <beginTerm>1542</beginTerm>
+        <endTerm>1567</endTerm>
+        <gender>female</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>James VI</name>
+        <house>House of Stuart</house>
+        <beginTerm>1567</beginTerm>
+        <endTerm>1625</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Charles I</name>
+        <house>House of Stuart</house>
+        <beginTerm>1625</beginTerm>
+        <endTerm>1649</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Charles II</name>
+        <house>House of Stuart</house>
+        <beginTerm>1649</beginTerm>
+        <endTerm>1651</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Charles II</name>
+        <house>House of Stuart</house>
+        <beginTerm>1660</beginTerm>
+        <endTerm>1685</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>James VII</name>
+        <house>House of Stuart</house>
+        <beginTerm>1685</beginTerm>
+        <endTerm>1688</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Mary II</name>
+        <house>House of Stuart</house>
+        <beginTerm>1689</beginTerm>
+        <endTerm>1694</endTerm>
+        <gender>female</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>William II</name>
+        <house>House of Stuart</house>
+        <beginTerm>1689</beginTerm>
+        <endTerm>1702</endTerm>
+        <gender>male</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
+    <monarch>
+        <name>Anne</name>
+        <house>House of Stuart</house>
+        <beginTerm>1702</beginTerm>
+        <endTerm>1707</endTerm>
+        <gender>female</gender>
+        <monarch_of>Scotland</monarch_of>
+    </monarch>
 </UKMonarchs>

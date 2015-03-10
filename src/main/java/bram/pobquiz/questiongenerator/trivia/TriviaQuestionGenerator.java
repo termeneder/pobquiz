@@ -19,7 +19,7 @@ public class TriviaQuestionGenerator {
 		TriviaFromFileQuestionGenerator country = new TriviaFromFileQuestionGenerator(questionList, "src/main/resources/data/world/trivia/Countries_trivia.xml");
 		questionList = country.build();
 		
-		TriviaFromFileQuestionGenerator ukmonarchy = new TriviaFromFileQuestionGenerator(questionList, "src/main/resources/data/world/trivia/British_monarch_trivia.xml");
+		TriviaFromFileQuestionGenerator ukmonarchy = new TriviaFromFileQuestionGenerator(questionList, "src/main/resources/data/world/trivia/British_monarchs_trivia.xml");
 		questionList = ukmonarchy.build();
 		
 		questionList.save();

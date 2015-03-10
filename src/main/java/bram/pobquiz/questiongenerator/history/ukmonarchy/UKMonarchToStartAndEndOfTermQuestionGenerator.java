@@ -63,10 +63,10 @@ public class UKMonarchToStartAndEndOfTermQuestionGenerator {
 		String question = "From when to when was " + monarch.name;
 		switch (monarch.gender) {
 		case male:
-			question += " king ";
+			question += " king";
 			break;
 		case female:
-			question += " queen ";
+			question += " queen";
 			break;
 		default:
 			throw new RuntimeException("UKNOWN GENDER FOR MONARCH");
