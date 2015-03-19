@@ -22,8 +22,6 @@ Vragen
 		stad -> staat
 
 	Films
-		! Naam film -> Regisseur
-		! Regisseur + jaar -> Naam film
 		Hoofdrolspelers -> Naam film
 		Voeg films toe die ik heb gezien
 	
@@ -31,7 +29,6 @@ Vragen
 		Voornaam -> Achternaam
 		Speciale dingen -> President
 			
-		
 	Astronomie
 		Planeet -> Manen
 		Maan -> planeet
@@ -78,12 +75,12 @@ Vragen
 		Wolken
 		
 	Pi
-		Welke 5 getallen volgen op deze 5 getallen (plaats n tot n+5)
+		Welke 1-5 getallen volgen op deze 5 getallen (plaats n tot n+5)
 		
 	Oorlogen
 		! naam -> jaren
-		naam -> landen
-		landen + jaren -> naam
+		! naam -> landen
+		! landen + jaren -> naam
 		
 	Wetenschappers
 		ontdekking -> wetenschapper
@@ -100,4 +97,20 @@ Vragen
 		componisten
 		n most influential people ever
 	
-	Engelse koningshuizen
+	Britse koningshuizen
+		Ierse koningshuizen
+		Romeinen
+		Heptarchy
+		Predecessors/Successors
+		Schotse facties
+	
+	Mythologiëen (Grieks, Egyptisch, Romeins, Noors)
+		Goden
+			! Naam god -> cultuur
+			! Cultuur + rol -> naam god
+			! Naam god -> rol
+			Naam god -> ouders
+			Naam god -> kinderen
+			Naam god -> soort/ras/familie
+			Beschrijving god -> naam god
+			
