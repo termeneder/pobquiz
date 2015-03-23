@@ -5,6 +5,9 @@ Bugs
 	check antartica/Aland/Bonaire/U.S. Minor Outlying Islands
 	check spelling st peter port
 	check Akrotiri and Dhekelia
+	check The house of Stuart ruled England from when to when?
+	add answers to questions
+	check The house of Alpin ruled Scotland from when to when?
 	
 Functionaliteiten
 
