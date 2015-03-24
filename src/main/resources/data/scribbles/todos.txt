@@ -46,6 +46,7 @@ Vragen
 		oude namen -> nieuwe namen
 		nieuwe namen -> oude namen
 		alternatieve namen -> alternatieve namen
+		! DANISH KINGDOM
 	
 	Schrijvers (lijst van boeken van http://thegreatestbooks.org/)
 		! Boek -> Schrijver
