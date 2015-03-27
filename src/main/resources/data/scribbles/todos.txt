@@ -8,7 +8,7 @@ Bugs
 	check The house of Stuart ruled England from when to when?
 	add answers to questions
 	check The house of Alpin ruled Scotland from when to when?
-	check King James III was a member of which house? (also English James III?)
+	check King James I/II/III was a member of which house? (also English James III?)
 	
 	
 Functionaliteiten
