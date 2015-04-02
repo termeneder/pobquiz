@@ -470,4 +470,31 @@
         <Category>History</Category>
         <Category>British Monarchs</Category>
     </Question>
+    <Question>
+        <Question>At what battle did Harold Godwinson die?</Question>
+        <Answer>Battle of Hastings</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>What English king died at the Battle of Hastings?</Question>
+        <Answer>Harold Godwinson</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    
+    <Question>
+        <Question>King William I was also called what?</Question>
+        <Answer>William the Conqueror</Answer>
+        <Answer>William the Bastard</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
+    <Question>
+        <Question>King William II was also called what?</Question>
+        <Answer>William Rufus</Answer>
+        <Answer>William the Red</Answer>
+        <Category>History</Category>
+        <Category>British Monarchs</Category>
+    </Question>
 </Trivia>

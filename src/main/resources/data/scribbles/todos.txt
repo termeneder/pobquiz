@@ -7,7 +7,7 @@ Bugs
 	check Akrotiri and Dhekelia
 	check The house of Stuart ruled England from when to when?
 	add answers to questions
-	check The house of Alpin ruled Scotland from when to when?
+	check The house of Alpin ruled Scotland from when to when? / Which house ruled Scotland from 848 to 1034?
 	check King James I/II/III was a member of which house? (also English James III?)
 	
 	
@@ -27,8 +27,9 @@ Vragen
 		stad -> staat
 
 	Films
-		Hoofdrolspelers -> Naam film
+		Hoofdrolspelers <-> Naam film
 		Voeg films toe die ik heb gezien
+		originele titel <-> engelse titel
 	
 	Presidenten van Amerika
 		Voornaam -> Achternaam
@@ -49,6 +50,7 @@ Vragen
 		nieuwe namen -> oude namen
 		alternatieve namen -> alternatieve namen
 		! DANISH KINGDOM
+		! NORSE KINGDOM
 	
 	Schrijvers (lijst van boeken van http://thegreatestbooks.org/)
 		! Boek -> Schrijver
