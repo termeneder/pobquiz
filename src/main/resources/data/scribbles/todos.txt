@@ -10,6 +10,7 @@ Bugs
 	check The house of Alpin ruled Scotland from when to when? / Which house ruled Scotland from 848 to 1034?
 	check King James I/II/III was a member of which house? (also English James III?)
 	check From when to when was Sweyn Forkbeard king of England?
+	fix double house: What members of the house House of Stuart were also King or Queen of Great Britain?
 	
 	
 Functionaliteiten
