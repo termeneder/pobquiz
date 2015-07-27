@@ -124,3 +124,8 @@ Vragen
 			Naam god -> soort/ras/familie
 			Beschrijving god -> naam god
 			
+	Elementen
+		Naam -> Nummer
+		Nummer -> Naam
+		Afkorting -> Naam
+		Naam -> Afkorting
