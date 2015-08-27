@@ -24,13 +24,11 @@ public class RunAnalyser {
 
 		@Option(name="-file")
 		String filename;
-		
-		
+
 		Config(String[] args) throws CmdLineException {
 			CmdLineParser parser = new CmdLineParser(this);
 			parser.parseArgument(args);
 			
 		}
-		
 	}
 }
