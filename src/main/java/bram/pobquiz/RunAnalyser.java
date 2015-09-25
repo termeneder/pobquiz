@@ -28,7 +28,6 @@ public class RunAnalyser {
 		Config(String[] args) throws CmdLineException {
 			CmdLineParser parser = new CmdLineParser(this);
 			parser.parseArgument(args);
-			
 		}
 	}
 }
