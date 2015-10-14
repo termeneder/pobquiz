@@ -46,7 +46,6 @@ public class QuestionList implements Iterable<QuestionStats> {
 	
 	public int size() {
 		return c_questionStatList.size();
-		
 	}
 	
 	public QuestionStats get(int index) {
